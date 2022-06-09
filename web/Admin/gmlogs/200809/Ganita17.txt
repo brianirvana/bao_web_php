@@ -1,0 +1,140 @@
+21/03/2008 1:24:01 Se conecto con ip:61.21.212.232
+21/03/2008 1:30:13 /IRA lady claire Mapa:89 X:38 Y:91
+21/03/2008 1:30:51 /IRA lady claire Mapa:28 X:53 Y:50
+21/03/2008 1:45:37 Transportó a Ganita hacia Mapa28 X:48 Y:53
+21/03/2008 1:45:39 Transportó a Ganita hacia Mapa28 X:48 Y:53
+21/03/2008 1:45:44 Transportó a Ganita hacia Mapa28 X:48 Y:53
+21/03/2008 1:48:15 /IRA lady claire Mapa:23 X:50 Y:50
+21/03/2008 1:48:29 Transportó a Ganita hacia Mapa35 X:50 Y:50
+21/03/2008 1:48:36 /IRA lady claire Mapa:25 X:49 Y:18
+21/03/2008 1:48:47 Transportó a Ganita hacia Mapa25 X:57 Y:50
+21/03/2008 1:48:47 Transportó a Ganita hacia Mapa25 X:57 Y:50
+21/03/2008 1:48:47 Transportó a Ganita hacia Mapa25 X:57 Y:50
+21/03/2008 1:48:48 Transportó a Ganita hacia Mapa25 X:65 Y:52
+21/03/2008 1:48:48 Transportó a Ganita hacia Mapa25 X:65 Y:52
+21/03/2008 1:48:48 Transportó a Ganita hacia Mapa25 X:65 Y:51
+21/03/2008 1:48:48 Transportó a Ganita hacia Mapa25 X:65 Y:51
+21/03/2008 1:48:49 Transportó a Ganita hacia Mapa25 X:73 Y:53
+21/03/2008 1:48:49 Transportó a Ganita hacia Mapa25 X:73 Y:53
+21/03/2008 1:48:49 Transportó a Ganita hacia Mapa25 X:73 Y:53
+21/03/2008 1:48:50 Transportó a Ganita hacia Mapa25 X:73 Y:52
+21/03/2008 1:48:50 Transportó a Ganita hacia Mapa25 X:81 Y:53
+21/03/2008 1:48:50 Transportó a Ganita hacia Mapa25 X:81 Y:53
+21/03/2008 1:48:52 Transportó a Ganita hacia Mapa25 X:83 Y:50
+21/03/2008 1:49:32 Transportó a Ganita hacia Mapa10 X:32 Y:29
+21/03/2008 1:54:23 Transportó a Ganita hacia Mapa43 X:48 Y:19
+21/03/2008 1:54:24 Transportó a Ganita hacia Mapa43 X:48 Y:19
+21/03/2008 1:54:24 Transportó a Ganita hacia Mapa43 X:41 Y:14
+21/03/2008 1:54:25 Transportó a Ganita hacia Mapa43 X:40 Y:14
+21/03/2008 1:54:25 Transportó a Ganita hacia Mapa43 X:40 Y:14
+21/03/2008 1:54:27 Transportó a Ganita hacia Mapa43 X:32 Y:9
+21/03/2008 1:55:03 Mensaje a Gms:voy?
+21/03/2008 1:56:04 Transportó a Ganita hacia Mapa44 X:41 Y:52
+21/03/2008 2:00:44 /SUM lady claire Map:44 X:17 Y:38
+21/03/2008 2:00:57 /SUM lady claire Map:1 X:50 Y:50
+21/03/2008 2:01:45 /IRA lady claire Mapa:115 X:64 Y:27
+21/03/2008 2:02:45 /MOD HEAD 12  LADY CLAIRE
+21/03/2008 2:02:53 /IRA lady claire Mapa:1 X:53 Y:66
+21/03/2008 2:02:58 Transportó a Ganita hacia Mapa1 X:63 Y:59
+21/03/2008 2:03:07 /IRA lady claire Mapa:1 X:62 Y:62
+21/03/2008 2:03:11 Transportó a Ganita hacia Mapa1 X:65 Y:60
+21/03/2008 2:05:07 Transportó a Ganita hacia Mapa1 X:68 Y:65
+21/03/2008 2:05:11 /CI: 121
+21/03/2008 2:05:15 /DEST
+21/03/2008 2:05:19 /CI: 182
+21/03/2008 2:05:22 /DEST
+21/03/2008 2:05:52 Transportó a Ganita hacia Mapa1 X:62 Y:59
+21/03/2008 2:09:52 Se conecto con ip:61.21.212.232
+21/03/2008 2:12:18 /MOD HEAD 1  lady claire
+21/03/2008 2:14:06 /LLUVIA
+21/03/2008 2:15:31 Agarro:100 Objeto:Gema Lunar
+21/03/2008 3:20:53 Se conecto con ip:61.21.212.232
+21/03/2008 3:21:35 Mensaje a Gms:cheeee
+21/03/2008 3:21:44 Mensaje a Gms:leo
+21/03/2008 3:21:59 /MOD EXP 99999  ganita
+21/03/2008 3:22:14 /MOD EXP 999999  ganita
+21/03/2008 3:22:18 /MOD EXP 999999  ganita
+21/03/2008 3:22:22 /MOD EXP 999999  ganita
+21/03/2008 3:22:25 /MOD EXP 999999  ganita
+21/03/2008 3:22:30 /MOD EXP 9999999  ganita
+21/03/2008 3:22:39 /MOD EXP 9999999  ganita
+21/03/2008 3:22:52 /MOD EXP 9999999  ganita
+21/03/2008 3:22:55 /MOD EXP 9999999  ganita
+21/03/2008 3:22:58 /MOD EXP 9999999  ganita
+21/03/2008 3:23:01 /MOD EXP 9999999  ganita
+21/03/2008 3:24:49 /MOD EXP 9999999  ganita
+21/03/2008 3:24:52 /MOD EXP 9999999  ganita
+21/03/2008 3:24:55 /MOD EXP 9999999  ganita
+21/03/2008 3:24:57 /MOD EXP 9999999  ganita
+21/03/2008 3:24:59 /MOD EXP 9999999  ganita
+21/03/2008 3:25:01 /MOD EXP 9999999  ganita
+21/03/2008 3:25:03 /MOD EXP 9999999  ganita
+21/03/2008 3:25:04 /MOD EXP 9999999  ganita
+21/03/2008 3:25:06 /MOD EXP 9999999  ganita
+21/03/2008 3:25:08 /MOD EXP 9999999  ganita
+21/03/2008 3:25:13 /MOD EXP 99999999  ganita
+21/03/2008 3:25:21 /MOD EXP 9999999  ganita
+21/03/2008 3:25:25 /MOD EXP 9999999  ganita
+21/03/2008 3:25:28 /MOD EXP 9999999  ganita
+21/03/2008 3:25:30 /MOD EXP 9999999  ganita
+21/03/2008 3:25:32 /MOD EXP 9999999  ganita
+21/03/2008 3:25:34 /MOD EXP 9999999  ganita
+21/03/2008 3:25:35 /MOD EXP 9999999  ganita
+21/03/2008 3:25:37 /MOD EXP 9999999  ganita
+21/03/2008 3:25:40 /MOD EXP 9999999  ganita
+21/03/2008 3:25:42 /MOD EXP 9999999  ganita
+21/03/2008 3:25:43 /MOD EXP 9999999  ganita
+21/03/2008 3:25:47 /MOD EXP 9999999  ganita
+21/03/2008 3:25:48 /MOD EXP 9999999  ganita
+21/03/2008 3:25:50 /MOD EXP 9999999  ganita
+21/03/2008 3:25:52 /MOD EXP 9999999  ganita
+21/03/2008 3:25:54 /MOD EXP 9999999  ganita
+21/03/2008 3:25:56 /MOD EXP 9999999  ganita
+21/03/2008 3:25:59 /MOD EXP 9999999  ganita
+21/03/2008 3:27:15 Transportó a ganita hacia Mapa1 X:56 Y:61
+21/03/2008 3:27:16 Transportó a ganita hacia Mapa1 X:56 Y:60
+21/03/2008 3:27:16 Transportó a ganita hacia Mapa1 X:49 Y:55
+21/03/2008 3:27:16 Transportó a ganita hacia Mapa1 X:49 Y:54
+21/03/2008 3:27:17 Transportó a ganita hacia Mapa1 X:43 Y:49
+21/03/2008 3:27:17 Transportó a ganita hacia Mapa1 X:44 Y:49
+21/03/2008 3:27:18 Transportó a ganita hacia Mapa1 X:44 Y:43
+21/03/2008 3:27:18 Transportó a ganita hacia Mapa1 X:44 Y:43
+21/03/2008 3:27:19 Transportó a ganita hacia Mapa1 X:45 Y:37
+21/03/2008 3:27:27 Transportó a ganita hacia Mapa1 X:43 Y:40
+21/03/2008 3:27:27 Transportó a ganita hacia Mapa1 X:43 Y:40
+21/03/2008 3:27:28 Transportó a ganita hacia Mapa1 X:41 Y:43
+21/03/2008 3:27:29 Transportó a ganita hacia Mapa1 X:39 Y:46
+21/03/2008 3:27:29 Transportó a ganita hacia Mapa1 X:39 Y:46
+21/03/2008 3:27:30 Transportó a ganita hacia Mapa1 X:38 Y:49
+21/03/2008 3:27:31 Transportó a ganita hacia Mapa1 X:41 Y:52
+21/03/2008 3:27:32 Transportó a ganita hacia Mapa1 X:45 Y:55
+21/03/2008 3:27:34 Transportó a ganita hacia Mapa1 X:37 Y:57
+21/03/2008 3:27:35 Transportó a ganita hacia Mapa1 X:37 Y:57
+21/03/2008 3:27:37 Transportó a ganita hacia Mapa1 X:29 Y:59
+21/03/2008 3:28:03 Transportó a ganita hacia Mapa1 X:38 Y:62
+21/03/2008 3:28:05 Transportó a ganita hacia Mapa1 X:42 Y:65
+21/03/2008 3:29:30 Transportó a ganita hacia Mapa1 X:47 Y:80
+21/03/2008 3:30:29 Transportó a ganita hacia Mapa1 X:47 Y:78
+21/03/2008 3:57:53 Se conecto con ip:61.21.212.232
+21/03/2008 3:58:52 Mensaje a Gms:alguien?
+21/03/2008 4:00:23 Tiro cantidad:1 Objeto:Gema Lunar
+21/03/2008 4:00:25 Tiro cantidad:1 Objeto:Gema Lunar
+21/03/2008 4:00:27 Agarro:1 Objeto:Gema Lunar
+21/03/2008 4:00:28 Agarro:1 Objeto:Gema Lunar
+21/03/2008 4:39:24 Se conecto con ip:61.21.212.232
+21/03/2008 4:39:40 Transportó a Ganita hacia Mapa1 X:31 Y:39
+21/03/2008 4:39:42 Transportó a Ganita hacia Mapa1 X:35 Y:33
+21/03/2008 4:39:44 Transportó a Ganita hacia Mapa1 X:39 Y:27
+21/03/2008 4:43:20 Transportó a Ganita hacia Mapa35 X:50 Y:50
+21/03/2008 4:43:21 Transportó a Ganita hacia Mapa35 X:44 Y:49
+21/03/2008 4:43:23 Transportó a Ganita hacia Mapa35 X:37 Y:49
+21/03/2008 4:44:41 Transportó a Ganita hacia Mapa1 X:50 Y:50
+21/03/2008 4:44:43 Transportó a Ganita hacia Mapa1 X:58 Y:56
+21/03/2008 4:44:45 Transportó a Ganita hacia Mapa1 X:63 Y:59
+21/03/2008 4:45:32 /MOD ORO 999999  Ganita
+21/03/2008 4:45:53 /MOD ORO 9999999  Ganita
+21/03/2008 4:46:34 Transportó a Ganita hacia Mapa1 X:55 Y:57
+21/03/2008 4:46:35 Transportó a Ganita hacia Mapa1 X:47 Y:54
+21/03/2008 4:46:37 Transportó a Ganita hacia Mapa1 X:39 Y:51
+21/03/2008 4:46:39 Transportó a Ganita hacia Mapa1 X:31 Y:48
+21/03/2008 4:46:41 Transportó a Ganita hacia Mapa1 X:23 Y:45

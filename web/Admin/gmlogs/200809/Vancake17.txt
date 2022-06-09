@@ -1,0 +1,256 @@
+17/08/2008 12:06:05 Se conecto con ip:190.18.105.20
+17/08/2008 12:06:06 Transportó a Vancake hacia Mapa78 X:48 Y:81
+17/08/2008 12:06:07 Transportó a Vancake hacia Mapa78 X:47 Y:78
+17/08/2008 12:06:07 Transportó a Vancake hacia Mapa78 X:45 Y:75
+17/08/2008 12:06:09 Resucito a yo
+17/08/2008 12:06:11 Transportó a Vancake hacia Mapa78 X:42 Y:71
+17/08/2008 12:06:11 Transportó a Vancake hacia Mapa78 X:40 Y:68
+17/08/2008 12:06:13 Transportó a Vancake hacia Mapa78 X:39 Y:65
+17/08/2008 12:06:13 Transportó a Vancake hacia Mapa78 X:38 Y:63
+17/08/2008 12:06:13 Transportó a Vancake hacia Mapa78 X:37 Y:61
+17/08/2008 12:06:14 Transportó a Vancake hacia Mapa78 X:36 Y:59
+17/08/2008 12:06:14 Transportó a Vancake hacia Mapa78 X:36 Y:57
+17/08/2008 12:06:14 Transportó a Vancake hacia Mapa78 X:33 Y:55
+17/08/2008 12:06:15 Transportó a Vancake hacia Mapa78 X:30 Y:53
+17/08/2008 12:06:15 Transportó a Vancake hacia Mapa78 X:27 Y:51
+17/08/2008 12:06:15 Transportó a Vancake hacia Mapa78 X:25 Y:49
+17/08/2008 12:06:16 Transportó a Vancake hacia Mapa78 X:32 Y:51
+17/08/2008 12:06:17 Transportó a Vancake hacia Mapa78 X:38 Y:50
+17/08/2008 12:06:17 Transportó a Vancake hacia Mapa78 X:44 Y:49
+17/08/2008 12:06:17 Transportó a Vancake hacia Mapa78 X:49 Y:47
+17/08/2008 12:06:17 Transportó a Vancake hacia Mapa78 X:52 Y:44
+17/08/2008 12:06:18 Transportó a Vancake hacia Mapa78 X:53 Y:41
+17/08/2008 12:06:18 Transportó a Vancake hacia Mapa78 X:53 Y:38
+17/08/2008 12:06:18 Transportó a Vancake hacia Mapa78 X:53 Y:35
+17/08/2008 12:06:18 Transportó a Vancake hacia Mapa78 X:52 Y:32
+17/08/2008 12:06:19 Transportó a Vancake hacia Mapa78 X:55 Y:32
+17/08/2008 12:06:22 Transportó a Vancake hacia Mapa1 X:50 Y:50
+17/08/2008 12:06:24 Transportó a Vancake hacia Mapa1 X:53 Y:56
+17/08/2008 12:06:24 Transportó a Vancake hacia Mapa1 X:55 Y:60
+17/08/2008 12:06:24 Transportó a Vancake hacia Mapa1 X:57 Y:64
+17/08/2008 12:06:24 Transportó a Vancake hacia Mapa1 X:59 Y:68
+17/08/2008 12:06:24 Transportó a Vancake hacia Mapa1 X:60 Y:72
+17/08/2008 12:06:25 Transportó a Vancake hacia Mapa1 X:60 Y:70
+17/08/2008 12:06:25 Transportó a Vancake hacia Mapa1 X:59 Y:66
+17/08/2008 12:06:49 DESLOGUEO
+17/08/2008 12:25:45 Se conecto con ip:190.18.105.20
+17/08/2008 12:26:15 DESLOGUEO
+17/08/2008 12:29:29 Se conecto con ip:190.18.105.20
+17/08/2008 12:29:38 /MOD ORO 1  vancake
+17/08/2008 12:29:44 /MOD ORO 999999  vancake
+17/08/2008 12:34:26 DESLOGUEO
+17/08/2008 15:07:33 Se conecto con ip:190.18.105.20
+17/08/2008 15:07:42 Transportó a vancake hacia Mapa1 X:50 Y:71
+17/08/2008 15:07:42 Transportó a vancake hacia Mapa1 X:48 Y:70
+17/08/2008 15:07:43 Transportó a vancake hacia Mapa1 X:48 Y:67
+17/08/2008 15:07:43 Transportó a vancake hacia Mapa1 X:48 Y:64
+17/08/2008 15:07:47 Transportó a vancake hacia Mapa1 X:54 Y:67
+17/08/2008 15:07:47 Transportó a vancake hacia Mapa1 X:58 Y:66
+17/08/2008 15:07:47 Transportó a vancake hacia Mapa1 X:63 Y:65
+17/08/2008 15:07:48 Transportó a vancake hacia Mapa1 X:58 Y:63
+17/08/2008 15:07:57 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:09:05 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:09:11 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:09:12 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:09:14 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:09:16 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:09:32 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:09:38 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:09:43 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:09:44 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:10:03 DESLOGUEO
+17/08/2008 15:13:26 Se conecto con ip:190.18.105.20
+17/08/2008 15:13:35 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:13:38 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:14:37 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:14:40 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:14:44 Tiro cantidad:1 Objeto:Monedas de Oro
+17/08/2008 15:14:46 Tiro cantidad:1 Objeto:Monedas de Oro
+17/08/2008 15:14:48 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:15:30 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:16:28 DESLOGUEO
+17/08/2008 15:16:53 Se conecto con ip:190.18.105.20
+17/08/2008 15:17:00 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:17:03 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:17:04 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:00 Tiro cantidad:1 Objeto:Monedas de Oro
+17/08/2008 15:18:01 Tiro cantidad:1 Objeto:Monedas de Oro
+17/08/2008 15:18:03 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:07 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:12 Tiro cantidad:1 Objeto:Monedas de Oro
+17/08/2008 15:18:14 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:15 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:16 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:18 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:18 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:18 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:18 Agarro:1 Objeto:Monedas de Oro
+17/08/2008 15:18:19 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:19 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:20 Agarro:1 Objeto:Monedas de Oro
+17/08/2008 15:18:20 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:20 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:21 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:21 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:21 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:22 Agarro:1 Objeto:Monedas de Oro
+17/08/2008 15:18:23 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:23 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:23 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:24 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:24 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:24 Agarro:1 Objeto:Monedas de Oro
+17/08/2008 15:18:24 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:25 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:25 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:25 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:26 Agarro:1 Objeto:Monedas de Oro
+17/08/2008 15:18:26 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:32 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:33 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:36 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:36 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:37 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:18:37 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:21:15 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:21:16 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:21:18 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:21:19 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:21:22 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:21:24 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:22:08 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:22:08 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:22:09 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:22:09 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:22:09 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:22:09 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:22:14 Transportó a Vancake hacia Mapa1 X:59 Y:67
+17/08/2008 15:22:14 Transportó a Vancake hacia Mapa1 X:65 Y:65
+17/08/2008 15:22:14 Transportó a Vancake hacia Mapa1 X:71 Y:63
+17/08/2008 15:22:15 Transportó a Vancake hacia Mapa1 X:65 Y:61
+17/08/2008 15:22:38 /MOD ORO 0  Vancake
+17/08/2008 15:23:00 Transportó a Vancake hacia Mapa1 X:57 Y:68
+17/08/2008 15:23:01 Transportó a Vancake hacia Mapa1 X:53 Y:66
+17/08/2008 15:23:13 Transportó a Vancake hacia Mapa1 X:50 Y:69
+17/08/2008 15:23:13 Transportó a Vancake hacia Mapa1 X:50 Y:67
+17/08/2008 15:23:36 Transportó a Vancake hacia Mapa1 X:54 Y:58
+17/08/2008 15:23:36 Transportó a Vancake hacia Mapa1 X:58 Y:63
+17/08/2008 15:23:36 Transportó a Vancake hacia Mapa1 X:61 Y:68
+17/08/2008 15:23:36 Transportó a Vancake hacia Mapa1 X:63 Y:73
+17/08/2008 15:23:37 Transportó a Vancake hacia Mapa1 X:59 Y:71
+17/08/2008 15:23:37 Transportó a Vancake hacia Mapa1 X:57 Y:67
+17/08/2008 15:24:51 Transportó a Vancake hacia Mapa1 X:55 Y:64
+17/08/2008 15:24:51 Transportó a Vancake hacia Mapa1 X:52 Y:60
+17/08/2008 15:24:51 Transportó a Vancake hacia Mapa1 X:50 Y:56
+17/08/2008 15:24:51 Transportó a Vancake hacia Mapa1 X:49 Y:52
+17/08/2008 15:24:52 Transportó a Vancake hacia Mapa1 X:50 Y:49
+17/08/2008 15:24:52 Transportó a Vancake hacia Mapa1 X:51 Y:46
+17/08/2008 15:24:52 Transportó a Vancake hacia Mapa1 X:50 Y:44
+17/08/2008 15:24:52 Transportó a Vancake hacia Mapa1 X:48 Y:41
+17/08/2008 15:24:52 Transportó a Vancake hacia Mapa1 X:45 Y:38
+17/08/2008 15:24:52 Transportó a Vancake hacia Mapa1 X:42 Y:35
+17/08/2008 15:24:53 Transportó a Vancake hacia Mapa1 X:39 Y:33
+17/08/2008 15:24:53 Transportó a Vancake hacia Mapa1 X:37 Y:37
+17/08/2008 15:24:53 Transportó a Vancake hacia Mapa1 X:35 Y:41
+17/08/2008 15:24:54 Transportó a Vancake hacia Mapa1 X:38 Y:39
+17/08/2008 15:25:23 DESLOGUEO
+17/08/2008 15:26:22 Se conecto con ip:190.18.105.20
+17/08/2008 15:26:41 Transportó a Vancake hacia Mapa1 X:53 Y:67
+17/08/2008 15:26:41 Transportó a Vancake hacia Mapa1 X:56 Y:67
+17/08/2008 15:26:42 Transportó a Vancake hacia Mapa1 X:59 Y:67
+17/08/2008 15:26:43 DESLOGUEO
+17/08/2008 15:26:47 Se conecto con ip:190.18.105.20
+17/08/2008 15:27:32 Tiro cantidad:1 Objeto:Monedas de Oro
+17/08/2008 15:27:33 Tiro cantidad:1 Objeto:Monedas de Oro
+17/08/2008 15:27:36 Agarro:1 Objeto:Monedas de Oro
+17/08/2008 15:27:39 Agarro:1 Objeto:Monedas de Oro
+17/08/2008 15:27:40 DESLOGUEO
+17/08/2008 15:27:43 Se conecto con ip:190.18.105.20
+17/08/2008 15:27:47 DESLOGUEO
+17/08/2008 15:28:11 Se conecto con ip:190.18.105.20
+17/08/2008 15:28:15 Tiro cantidad:1 Objeto:Monedas de Oro
+17/08/2008 15:28:17 Agarro:1 Objeto:Monedas de Oro
+17/08/2008 15:28:24 DESLOGUEO
+17/08/2008 15:40:58 Se conecto con ip:190.18.105.20
+17/08/2008 15:41:05 Tiro cantidad:409 Objeto:Monedas de Oro
+17/08/2008 15:41:07 Agarro:409 Objeto:Monedas de Oro
+17/08/2008 15:41:13 /MOD ORO 999999  Vancake
+17/08/2008 15:41:17 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:41:20 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:41:24 /MASSDEST
+17/08/2008 15:41:27 Transportó a Vancake hacia Mapa1 X:50 Y:69
+17/08/2008 15:41:27 Transportó a Vancake hacia Mapa1 X:48 Y:71
+17/08/2008 15:41:27 Transportó a Vancake hacia Mapa1 X:47 Y:73
+17/08/2008 15:41:28 Transportó a Vancake hacia Mapa1 X:53 Y:72
+17/08/2008 15:41:28 Transportó a Vancake hacia Mapa1 X:58 Y:71
+17/08/2008 15:41:28 Transportó a Vancake hacia Mapa1 X:63 Y:70
+17/08/2008 15:41:29 Transportó a Vancake hacia Mapa1 X:65 Y:70
+17/08/2008 15:41:31 DESLOGUEO
+17/08/2008 15:54:04 Se conecto con ip:190.18.105.20
+17/08/2008 15:54:11 Tiro cantidad:10000 Objeto:Monedas de Oro
+17/08/2008 15:54:12 Agarro:10000 Objeto:Monedas de Oro
+17/08/2008 15:55:12 DESLOGUEO
+17/08/2008 16:01:45 Se conecto con ip:190.18.105.20
+17/08/2008 16:01:58 /MOD ORO 0  vancake
+17/08/2008 16:02:00 Transportó a vancake hacia Mapa1 X:56 Y:64
+17/08/2008 16:02:33 Transportó a vancake hacia Mapa1 X:48 Y:65
+17/08/2008 16:02:34 Transportó a vancake hacia Mapa1 X:45 Y:60
+17/08/2008 16:02:34 Transportó a vancake hacia Mapa1 X:44 Y:55
+17/08/2008 16:02:34 Transportó a vancake hacia Mapa1 X:43 Y:50
+17/08/2008 16:02:34 Transportó a vancake hacia Mapa1 X:41 Y:45
+17/08/2008 16:02:34 Transportó a vancake hacia Mapa1 X:40 Y:40
+17/08/2008 16:02:35 Transportó a vancake hacia Mapa1 X:38 Y:35
+17/08/2008 16:02:45 /MOD CRI 100  vancake
+17/08/2008 16:02:53 /MOD LEVEL 32  vancake
+17/08/2008 16:03:04 /MOD NOB 1000000  vancake
+17/08/2008 16:03:13 Transportó a vancake hacia Mapa1 X:40 Y:42
+17/08/2008 16:03:13 Transportó a vancake hacia Mapa1 X:43 Y:46
+17/08/2008 16:03:13 Transportó a vancake hacia Mapa1 X:45 Y:50
+17/08/2008 16:03:13 Transportó a vancake hacia Mapa1 X:47 Y:55
+17/08/2008 16:03:15 Transportó a vancake hacia Mapa1 X:51 Y:60
+17/08/2008 16:03:15 Transportó a vancake hacia Mapa1 X:53 Y:64
+17/08/2008 16:03:15 Transportó a vancake hacia Mapa1 X:54 Y:68
+17/08/2008 16:03:16 Transportó a vancake hacia Mapa1 X:54 Y:72
+17/08/2008 16:03:20 Transportó a vancake hacia Mapa1 X:48 Y:62
+17/08/2008 16:03:21 Transportó a vancake hacia Mapa1 X:46 Y:58
+17/08/2008 16:03:21 Transportó a vancake hacia Mapa1 X:44 Y:54
+17/08/2008 16:03:21 Transportó a vancake hacia Mapa1 X:43 Y:50
+17/08/2008 16:03:21 Transportó a vancake hacia Mapa1 X:42 Y:46
+17/08/2008 16:03:21 Transportó a vancake hacia Mapa1 X:40 Y:42
+17/08/2008 16:03:22 Transportó a vancake hacia Mapa1 X:39 Y:39
+17/08/2008 16:04:25 /MOD CRI 130  vancake
+17/08/2008 16:04:34 Transportó a vancake hacia Mapa1 X:38 Y:37
+17/08/2008 16:04:52 /MOD CRI 210  vancake
+17/08/2008 16:04:56 Transportó a vancake hacia Mapa1 X:38 Y:37
+17/08/2008 16:05:17 /MOD CRI 320  vancake
+17/08/2008 16:05:36 /MOD LEVEL 33  vancake
+17/08/2008 16:05:47 /MOD CRI 460  vancake
+17/08/2008 16:05:58 Transportó a vancake hacia Mapa1 X:35 Y:35
+17/08/2008 16:05:59 Transportó a vancake hacia Mapa1 X:37 Y:35
+17/08/2008 16:05:59 Transportó a vancake hacia Mapa1 X:39 Y:35
+17/08/2008 16:05:59 Transportó a vancake hacia Mapa1 X:42 Y:35
+17/08/2008 16:05:59 Transportó a vancake hacia Mapa1 X:42 Y:35
+17/08/2008 16:06:00 Transportó a vancake hacia Mapa1 X:38 Y:37
+17/08/2008 16:06:03 DESLOGUEO
+17/08/2008 16:18:51 Se conecto con ip:190.18.105.20
+17/08/2008 16:19:15 /MOD LEVEL 42  Vancake
+17/08/2008 16:19:39 /MOD SKILLS liderazgo 90 Vancake
+17/08/2008 16:19:52 DESLOGUEO
+17/08/2008 16:20:55 Se conecto con ip:190.18.105.20
+17/08/2008 16:22:07 DESLOGUEO
+17/08/2008 16:22:40 Se conecto con ip:190.18.105.20
+17/08/2008 16:26:11 DESLOGUEO
+17/08/2008 16:26:52 Se conecto con ip:190.18.105.20
+17/08/2008 16:27:39 Transportó a Vancake hacia Mapa1 X:34 Y:38
+17/08/2008 16:28:12 Se conecto con ip:190.18.105.20
+17/08/2008 16:28:13 Se conecto con ip:190.18.105.20
+17/08/2008 16:28:27 Se conecto con ip:190.18.105.20
+17/08/2008 16:28:27 DESLOGUEO
+17/08/2008 16:28:30 Se conecto con ip:190.18.105.20
+17/08/2008 16:31:01 Se conecto con ip:190.18.105.20
+17/08/2008 16:31:48 Se conecto con ip:190.18.105.20
+17/08/2008 16:31:48 DESLOGUEO
+17/08/2008 16:31:51 Se conecto con ip:190.18.105.20
+17/08/2008 16:32:22 DESLOGUEO
+17/08/2008 16:32:34 Se conecto con ip:190.18.105.20
+17/08/2008 16:33:18 DESLOGUEO

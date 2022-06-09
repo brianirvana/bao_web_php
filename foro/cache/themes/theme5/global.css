@@ -1,0 +1,850 @@
+
+body {
+	background: #0d0a09 url(../../../images/Diablo/bg.png) center top no-repeat;
+	color: #777777;
+	text-align: center;
+	line-height: 1.4;
+	margin: 0;
+	
+	font-family: Arial, Sans-Serif;
+	font-size: 13px;
+}
+
+a:link {
+	color: #ffc547;
+	-webkit-transition: color 200ms ease-in;
+	-moz-transition: color 200ms ease-in;
+	-o-transition: color 200ms ease-in;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ffc547;
+	-webkit-transition: color 200ms ease-in;
+	-moz-transition: color 200ms ease-in;
+	-o-transition: color 200ms ease-in;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: #ffffff;
+	-webkit-transition: color 200ms ease-in;
+	-moz-transition: color 200ms ease-in;
+	-o-transition: color 200ms ease-in;
+	text-decoration: none;
+}
+
+#header {
+	width: 1024px;
+	height: 115px;
+	margin: 0px auto 0 auto;
+}
+
+.logo {
+}
+
+#container {
+	background: url(../../../images/Diablo/con_bg.png) center top repeat-y;
+	width: 874px;
+	color: #777777;
+	margin: auto auto;
+	padding: 25px 75px;
+	text-align: left;
+}
+
+#container_top {
+	background: url(../../../images/Diablo/con_top.png) center top no-repeat;
+	width: 1024px;
+	height: 179px;
+	margin: -20px auto 0 auto;
+}
+
+#container_inside_top {
+	background: url(../../../images/Diablo/con_inside_top.png) center top no-repeat;
+	width: 1024px;
+	height: 72px;
+	margin: -55px auto 0 auto;
+}
+
+#container_foot {
+	background: url(../../../images/Diablo/con_foot.png) center top no-repeat;
+	width: 1024px;
+	height: 108px;
+	margin: -75px auto 0 auto;
+}
+
+#content {
+	/* FIX: Make internet explorer wrap correctly */
+	width: auto !important;
+}
+
+.menu ul {
+	color: #000000;
+	text-align: center;
+}
+
+.menu ul a:link {
+	color: #ffc547;
+	text-decoration: none;
+}
+
+.menu ul a:visited {
+	color: #ffc547;
+	text-decoration: none;
+}
+
+.menu ul a:hover, .menu ul a:active {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+#panel {
+	background: url(../../../images/Diablo/userbar.png) center top no-repeat;
+	width: 955px;
+	color: #ffc547;
+	padding: 0px 26px;
+	height: 35px;
+	line-height: 29px;
+	margin: auto auto;
+	text-shadow: 0px 0px 5px #c51c0a;
+	font-family: 'Metamorphous', cursive;
+	font-size: 11px;
+}
+
+#panel a:link, #panel a:visited {
+	color: #ffc547;
+}
+
+#panel a:hover, #panel a:active {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+table {
+	color: #777777;
+	font-family: Arial, Sans-Serif;
+	font-size: 13px;
+}
+
+.theadborder {
+	width: 100%;
+	margin: auto auto;
+	padding: 0;
+}
+
+.tborder {
+	background: #0c0a09;
+	width: 100%;
+	margin: auto auto;
+	border: 1px solid #191715;
+	padding: 4px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.thead {
+	background: #281813 url(../../../images/Diablo/thead.png) repeat-x;
+	color: #ffc547;
+	text-shadow: 0px 0px 5px #c51c0a;
+	font-family: 'Metamorphous', cursive;
+	font-size: 17px;
+}
+
+.thead a:link {
+	color: #ffc547;
+	text-decoration: none;
+}
+
+.thead a:visited {
+	color: #ffc547;
+	text-decoration: none;
+}
+
+.thead a:hover, .thead a:active {
+	color: #ffffff;
+}
+
+.tcat {
+	color: #666666;
+	font-size: 15px;
+}
+
+.tcat a:link {
+}
+
+.tcat a:visited {
+}
+
+.tcat a:hover, .tcat a:active {
+}
+
+.trow1 {
+}
+
+.trow2 {
+}
+
+.trow_shaded {
+	background: #ffdde0;
+}
+
+.trow_selected td {
+	background: #FFFBD9;
+}
+
+.trow_sep {
+	background: #0c0a09;
+	color: #c9872f;
+	border: 1px solid #191715;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	
+	font-size: 12px;
+}
+
+.tfoot {
+	color: #555555;
+}
+
+.tfoot a:link {
+	color: #666666;
+	text-decoration: none;
+}
+
+.tfoot a:visited {
+	color: #666666;
+	text-decoration: none;
+}
+
+.tfoot a:hover, .tfoot a:active {
+	color: #444444;
+	text-decoration: underline;
+}
+
+.bottommenu {
+	background: #0c0a09;
+	color: #555555;
+	margin: auto auto;
+	border: 1px solid #191715;
+	padding: 10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	text-align: center;
+}
+
+.navigation {
+	color: #777777;
+	padding: 6px 0px;
+	
+	font-size: 13px;
+}
+
+.navigation a:link {
+	text-decoration: none;
+}
+
+.navigation a:visited {
+	text-decoration: none;
+}
+
+.navigation a:hover, .navigation a:active {
+	text-decoration: none;
+}
+
+.navigation .active {
+	color: #777777;
+	font-size: 13px;
+}
+
+.smalltext {
+	font-size: 11px;
+}
+
+.largetext {
+	font-size: 17px;
+}
+
+input.textbox {
+	background: #0c0c0c;
+	color: #666666;
+	border: 1px solid #191715;
+	padding: 5px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+textarea {
+	background: #0c0c0c;
+	color: #666666;
+	border: 1px solid #191715;
+	padding: 5px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	line-height: 1.4;
+	
+	font-family: Arial, Sans-Serif;
+	font-size: 13px;
+}
+
+select {
+	background: #0c0c0c;
+	color: #666666;
+	border: 1px solid #191715;
+	padding: 5px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+fieldset {
+	border: 1px solid #191715;
+}
+
+.editor {
+	background: #f1f1f1;
+	border: 1px solid #ccc;
+}
+
+.editor_control_bar {
+}
+
+.autocomplete {
+	background: #fff;
+	border: 1px solid #000;
+	color: black;
+}
+
+.autocomplete_selected {
+	background: #adcee7;
+	color: #000;
+}
+
+.popup_menu {
+	background: #ccc;
+	border: 1px solid #000;
+}
+
+.popup_menu .popup_item {
+	background: #fff;
+	color: #000;
+}
+
+.popup_menu .popup_item:hover {
+	background: #C7DBEE;
+	color: #000;
+}
+
+.trow_reputation_positive {
+}
+
+.trow_reputation_negative {
+}
+
+.reputation_positive {
+	color: green;
+}
+
+.reputation_neutral {
+	color: #444;
+}
+
+.reputation_negative {
+	color: red;
+}
+
+.invalid_field {
+	border: 1px solid #f30;
+	color: #f30;
+}
+
+.valid_field {
+	border: 1px solid #0c0;
+}
+
+.validation_error {
+	background: url(../../../images/invalid.gif) no-repeat center left;
+	color: #f30;
+	margin: 5px 0;
+	padding: 5px;
+	font-size: 11px;
+	padding-left: 22px;
+}
+
+.validation_success {
+	background: url(../../../images/valid.gif) no-repeat center left;
+	color: #00b200;
+	margin: 5px 0;
+	padding: 5px;
+	font-size: 11px;
+	padding-left: 22px;
+}
+
+.validation_loading {
+	background: url(../../../images/spinner.gif) no-repeat center left;
+	color: #555;
+	margin: 5px 0;
+	padding: 5px;
+	font-size: 11px;
+	padding-left: 22px;
+}
+
+/* Additional CSS (Master) */
+img {
+	border: none;
+}
+
+.clear {
+	clear: both;
+}
+
+.hidden {
+	display: none;
+	float: none;
+	width: 1%;
+}
+
+.hiddenrow {
+	display: none;
+}
+
+.selectall {
+	background-color: #FFFBD9;
+	text-align: center;
+}
+
+.float_left {
+	float: left;
+}
+
+.float_right {
+	float: right;
+}
+
+.menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: 138px;
+}
+
+.menu li {
+	display: inline;
+	padding: 0 5px;
+	text-shadow: 0px 0px 5px #c51c0a;
+	
+	font-family: 'Metamorphous', cursive;
+}
+
+.menu img {
+	padding-right: 5px;
+	vertical-align: top;
+}
+
+#panel .links {
+	margin: 0;
+	float: right;
+}
+
+.expcolimage {
+	float: right;
+	width: auto;
+	vertical-align: middle;
+	margin-top: 3px;
+}
+
+img.attachment {
+	border: 1px solid #E9E5D7;
+	padding: 2px;
+}
+
+hr {
+	background-color: #000000;
+	color: #000000;
+	height: 1px;
+	border: 0px;
+}
+
+#copyright {
+	width: 874px;
+	margin: auto auto;
+	padding: 10px 75px;
+	
+	font-size: 11px;
+}
+
+#debug {
+	float: right;
+	text-align: right;
+	margin-top: 0;
+}
+
+blockquote {
+	background: rgba(255,255,255,0.1);
+	color: #666666;
+	border: 1px solid rgba(255,255,255,0.1);
+	padding: 8px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	margin: 0 10px;
+}
+
+blockquote cite {
+	border-bottom: 1px solid rgba(255,255,255,0.1);
+	display: block;
+	margin: 0 0 5px 0;
+	
+	font-style: normal;
+}
+
+blockquote cite span {
+	float: right;
+	font-weight: normal;
+}
+
+blockquote cite span.highlight {
+	float: none;
+	padding-bottom: 0;
+}
+
+.codeblock {
+	background: rgba(255,255,255,0.1);
+	color: #666666;
+	border: 1px solid rgba(255,255,255,0.1);
+	padding: 8px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	margin: 5px 10px;
+}
+
+.codeblock .title {
+	border-bottom: 1px solid rgba(255,255,255,0.1);
+	margin: 0 0 5px 0;
+}
+
+.codeblock code {
+	overflow: auto;
+	height: auto;
+	max-height: 200px;
+	display: block;
+	font-family: Monaco, Consolas, Courier, monospace;
+	font-size: 13px;
+}
+
+.subforumicon {
+	border: 0;
+	vertical-align: middle;
+}
+
+.separator {
+	margin: 5px;
+	padding: 0;
+	height: 0px;
+	font-size: 1px;
+	list-style-type: none;
+}
+
+form {
+	margin: 0;
+	padding: 0;
+}
+
+.popup_menu .popup_item_container {
+	margin: 1px;
+	text-align: left;
+}
+
+.popup_menu .popup_item {
+	display: block;
+	padding: 3px;
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+.popup_menu a.popup_item:hover {
+	text-decoration: none;
+}
+
+.autocomplete {
+	text-align: left;
+}
+
+.highlight {
+	background: #FFFFCC;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.pm_alert {
+	background: #FFF6BF;
+	border: 1px solid #FFD324;
+	text-align: center;
+	padding: 5px 20px;
+	margin-bottom: 15px;
+	font-size: 11px;
+}
+
+.red_alert {
+	color: #A5161A;
+	border: 1px solid #A5161A;
+	text-align: center;
+	padding: 5px 20px;
+	margin-bottom: 15px;
+	
+	font-size: 11px;
+}
+
+.high_warning {
+	color: #CC0000;
+}
+
+.moderate_warning {
+	color: #F3611B;
+}
+
+.low_warning {
+	color: #AE5700;
+}
+
+div.error {
+	padding: 5px 10px;
+	border-top: 2px solid #FFD324;
+	border-bottom: 2px solid #FFD324;
+	background: #FFF6BF;
+	font-size: 12px;
+}
+
+div.error p {
+	margin: 0;
+	color: #000;
+	font-weight: normal;
+}
+
+div.error p em {
+	font-style: normal;
+	padding-left: 24px;
+	display: block;
+	color: #C00;
+	background: url(../../../images/error.gif) no-repeat 0;
+}
+
+div.error.ul {
+	margin-left: 24px;
+}
+
+.online {
+	color: #15A018;
+}
+
+.offline {
+	color: #C7C7C7;
+}
+
+.pagination {
+	font-size: 11px;
+	padding-top: 10px;
+	margin-bottom: 5px;
+}
+
+.tfoot .pagination, .tcat .pagination {
+	padding-top: 0;
+}
+
+.pagination .pages {
+}
+
+.pagination .pagination_current, .pagination a {
+	padding: 2px 6px;
+	margin-bottom: 3px;
+}
+
+.pagination a {
+	background: url(../../../images/Diablo/button_bg.png) 50%;
+	color: #ffffff;
+	border: 1px solid #290601;
+	padding: 4px 8px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.pagination .pagination_current {
+	background: url(../../../images/Diablo/button_bg.png) 50%;
+	color: #ffffff;
+	border: 1px solid #290601;
+	padding: 4px 8px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	
+	font-weight: bold;
+}
+
+.pagination a:hover {
+	color: #ffc547;
+	text-decoration: none;
+}
+
+.thread_legend, .thread_legend dd {
+	margin: 0;
+	padding: 0;
+}
+
+.thread_legend dd {
+	padding-bottom: 4px;
+	margin-right: 15px;
+}
+
+.thread_legend img {
+	margin-right: 4px;
+	vertical-align: bottom;
+}
+
+.forum_legend, .forum_legend dt, .forum_legend dd {
+	margin: 0;
+	padding: 0;
+}
+
+.forum_legend dd {
+	float: left;
+	margin-right: 10px;
+}
+
+.forum_legend dt {
+	margin-right: 10px;
+	float: left;
+}
+
+.success_message {
+	color: #00b200;
+	font-size: 10px;
+	margin-bottom: 10px;
+}
+
+.error_message {
+	color: #C00;
+	font-size: 10px;
+	margin-bottom: 10px;
+}
+
+.post_body {
+	padding: 5px;
+}
+
+.post_content {
+	padding: 5px 10px;
+}
+
+.quick_jump {
+	background: url(../../../images/jump.gif) no-repeat 0;
+	width: 13px;
+	height: 13px;
+	padding-left: 13px; /* amount of padding needed for image to fully show */
+	vertical-align: middle;
+	border: none;
+}
+
+.repbox {
+	font-size:17px;
+	padding:5px 7px 5px 7px;
+}
+
+._neutral {
+	background-color:#FAFAFA;
+	color: #999999;
+	border:1px solid #CCCCCC;
+}
+
+._minus {
+	background-color: #FDD2D1;
+	color: #CB0200;
+	border:1px solid #980201;
+}
+
+._plus {
+	background-color:#E8FCDC;
+	color: #008800;
+	border:1px solid #008800;
+}
+
+.pagination_breadcrumb {
+	font-weight: normal;
+}
+
+.pagination_breadcrumb_link {
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+.button {
+	background: url(../../../images/Diablo/button_bg.png) 50%;
+	color: #ffffff;
+	border: 1px solid #290601;
+	padding: 5px 12px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	-webkit-transition: color 200ms ease-in;
+	-moz-transition: color 200ms ease-in;
+	-o-transition: color 200ms ease-in;
+}
+
+.button:hover {
+	color: #ffc547;
+	-webkit-transition: color 200ms ease-in;
+	-moz-transition: color 200ms ease-in;
+	-o-transition: color 200ms ease-in;
+	cursor: pointer;
+}
+
+.postbit {
+	background: url(../../../images/Diablo/button_bg.png) 50%;
+	color: #ffffff;
+	border: solid 1px #290601;
+	padding: 4px 8px;
+	margin-left: 5px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	float: left;
+	
+	font-size: 11px;
+}
+
+a.postbit:link, a.postbit:visited {
+	color: #ffffff;
+}
+
+a.postbit:hover, a.postbit:active {
+	color: #ffc547;
+	text-decoration: none;
+}
+
+.bigbutton {
+	background: url(../../../images/Diablo/button_bg.png) 50%;
+	color: #ffffff;
+	border: solid 1px #290601;
+	padding: 6px 12px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+a.bigbutton:link, a.bigbutton:visited {
+	color: #ffffff;
+}
+
+a.bigbutton:hover, a.bigbutton:active {
+	color: #ffc547;
+	text-decoration: none;
+}
+
+
+		

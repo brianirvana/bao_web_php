@@ -1,0 +1,25 @@
+[06-Feb-2018 23:05:12] PHP Warning:  imagepng() [<a href='function.imagepng'>function.imagepng</a>]: Unable to open '/Pjs/PLAGUELORD.png' for writing in /home/benderao/public_html/web/estadisticas/update.php on line 211
+[06-Feb-2018 23:09:55] PHP Notice:  Undefined variable:  elu in /home/benderao/public_html/web/estadisticas/update.php on line 187
+[06-Feb-2018 23:09:55] PHP Notice:  Undefined variable:  exp in /home/benderao/public_html/web/estadisticas/update.php on line 187
+[06-Feb-2018 23:10:03] PHP Notice:  Undefined variable:  elu in /home/benderao/public_html/web/estadisticas/update.php on line 187
+[06-Feb-2018 23:10:03] PHP Notice:  Undefined variable:  exp in /home/benderao/public_html/web/estadisticas/update.php on line 187
+[06-Feb-2018 23:21:38] PHP Parse error:  syntax error, unexpected ',' in /home/benderao/public_html/web/estadisticas/update.php on line 187
+[06-Feb-2018 23:21:44] PHP Parse error:  syntax error, unexpected ',' in /home/benderao/public_html/web/estadisticas/update.php on line 187
+[06-Feb-2018 23:25:50] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/benderao/public_html/web/estadisticas/update.php on line 324
+[06-Feb-2018 23:26:10] PHP Parse error:  syntax error, unexpected ':' in /home/benderao/public_html/web/estadisticas/update.php on line 324
+[06-Feb-2018 23:27:44] PHP Parse error:  syntax error, unexpected ':' in /home/benderao/public_html/web/estadisticas/update.php on line 324
+[06-Feb-2018 23:27:45] PHP Parse error:  syntax error, unexpected ':' in /home/benderao/public_html/web/estadisticas/update.php on line 324
+[12-Feb-2018 21:33:40] PHP Notice:  Undefined index:  nick in /home/benderao/public_html/web/estadisticas/stats.php on line 10
+[12-Feb-2018 21:33:40] PHP Notice:  Undefined index:  op in /home/benderao/public_html/web/estadisticas/stats.php on line 11
+[12-Feb-2018 21:33:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/benderao/public_html/web/estadisticas/stats.php on line 69
+[08-May-2018 09:57:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/estadisticas/stats.php on line 5
+[01-Jul-2018 01:47:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/estadisticas/stats.php on line 5
+[01-Jul-2018 01:48:44 UTC] PHP Warning:  mysql_connect(): Can't connect to MySQL server on '190.0.163.3' (110) in /home/benderao/public_html/web/estadisticas/stats.php on line 5
+[01-Jul-2018 01:48:44 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/estadisticas/stats.php on line 6
+[01-Jul-2018 01:48:44 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'benderao'@'localhost' (using password: NO) in /home/benderao/public_html/web/estadisticas/stats.php on line 6
+[01-Jul-2018 01:48:44 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/benderao/public_html/web/estadisticas/stats.php on line 6
+[01-Jul-2018 02:33:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/estadisticas/stats.php on line 5
+[01-Jul-2018 02:34:29 UTC] PHP Warning:  mysql_connect(): Can't connect to MySQL server on '190.0.163.3' (110) in /home/benderao/public_html/web/estadisticas/stats.php on line 5
+[01-Jul-2018 02:34:29 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/estadisticas/stats.php on line 6
+[01-Jul-2018 02:34:29 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'benderao'@'localhost' (using password: NO) in /home/benderao/public_html/web/estadisticas/stats.php on line 6
+[01-Jul-2018 02:34:29 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/benderao/public_html/web/estadisticas/stats.php on line 6

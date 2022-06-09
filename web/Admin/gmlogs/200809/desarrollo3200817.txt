@@ -1,0 +1,91 @@
+20/03/2008 22:43:52 KALEN paso a nivel 2 gano HP: 7
+20/03/2008 22:43:57 KALEN paso a nivel 3 gano HP: 7
+20/03/2008 22:44:08 KALEN paso a nivel 4 gano HP: 8
+20/03/2008 22:44:20 KALEN paso a nivel 5 gano HP: 8
+20/03/2008 22:44:24 KALEN paso a nivel 6 gano HP: 7
+20/03/2008 22:44:26 KALEN paso a nivel 7 gano HP: 8
+20/03/2008 22:45:00 KALEN paso a nivel 8 gano HP: 6
+20/03/2008 22:45:04 KALEN paso a nivel 9 gano HP: 8
+20/03/2008 22:45:09 KALEN paso a nivel 10 gano HP: 8
+20/03/2008 22:45:18 KALEN paso a nivel 11 gano HP: 7
+20/03/2008 22:45:40 KALEN paso a nivel 12 gano HP: 7
+20/03/2008 22:47:59 KALEN paso a nivel 13 gano HP: 6
+20/03/2008 22:48:33 KALEN paso a nivel 14 gano HP: 6
+20/03/2008 22:48:59 KALEN paso a nivel 15 gano HP: 8
+20/03/2008 22:52:18 KALEN paso a nivel 16 gano HP: 8
+20/03/2008 22:53:19 KALEN paso a nivel 17 gano HP: 6
+21/03/2008 1:30:57 LADY CLAIRE paso a nivel 2 gano HP: 11
+21/03/2008 1:30:59 LADY CLAIRE paso a nivel 3 gano HP: 10
+21/03/2008 1:31:00 LADY CLAIRE paso a nivel 4 gano HP: 11
+21/03/2008 1:31:05 LADY CLAIRE paso a nivel 5 gano HP: 11
+21/03/2008 1:31:23 LADY CLAIRE paso a nivel 6 gano HP: 8
+21/03/2008 1:33:37 Ganita paso a nivel 2 gano HP: 7
+21/03/2008 1:36:08 Ganita paso a nivel 3 gano HP: 6
+21/03/2008 1:39:33 LADY CLAIRE paso a nivel 7 gano HP: 8
+21/03/2008 1:51:23 LADY CLAIRE paso a nivel 8 gano HP: 9
+21/03/2008 1:52:15 LADY CLAIRE paso a nivel 9 gano HP: 6
+21/03/2008 2:24:20 lady claire paso a nivel 61 gano HP: 6
+21/03/2008 2:45:32 PRUEBA UNO paso a nivel 2 gano HP: 11
+21/03/2008 2:45:45 PRUEBA UNO paso a nivel 3 gano HP: 11
+21/03/2008 2:45:47 PRUEBA UNO paso a nivel 4 gano HP: 10
+21/03/2008 2:45:49 PRUEBA UNO paso a nivel 5 gano HP: 9
+21/03/2008 2:45:58 PRUEBA UNO paso a nivel 6 gano HP: 7
+21/03/2008 2:46:06 PRUEBA UNO paso a nivel 7 gano HP: 11
+21/03/2008 2:52:37 PRUEBA UNO paso a nivel 8 gano HP: 9
+21/03/2008 2:55:45 PRUEBA UNO paso a nivel 9 gano HP: 11
+21/03/2008 2:57:26 PRUEBA UNO paso a nivel 10 gano HP: 10
+21/03/2008 2:58:13 PRUEBA UNO paso a nivel 11 gano HP: 11
+21/03/2008 3:06:09 PRUEBA UNO paso a nivel 12 gano HP: 7
+21/03/2008 3:06:51 PRUEBA UNO paso a nivel 13 gano HP: 10
+21/03/2008 3:07:13 PRUEBA UNO paso a nivel 14 gano HP: 9
+21/03/2008 3:08:10 PRUEBA UNO paso a nivel 15 gano HP: 10
+21/03/2008 3:09:14 PRUEBA UNO paso a nivel 16 gano HP: 9
+21/03/2008 3:21:59 ganita paso a nivel 4 gano HP: 6
+21/03/2008 3:21:59 ganita paso a nivel 5 gano HP: 6
+21/03/2008 3:21:59 ganita paso a nivel 6 gano HP: 7
+21/03/2008 3:21:59 ganita paso a nivel 7 gano HP: 7
+21/03/2008 3:21:59 ganita paso a nivel 8 gano HP: 7
+21/03/2008 3:21:59 ganita paso a nivel 9 gano HP: 6
+21/03/2008 3:21:59 ganita paso a nivel 10 gano HP: 6
+21/03/2008 3:21:59 ganita paso a nivel 11 gano HP: 7
+21/03/2008 3:21:59 ganita paso a nivel 12 gano HP: 7
+21/03/2008 3:21:59 ganita paso a nivel 13 gano HP: 7
+21/03/2008 3:21:59 ganita paso a nivel 14 gano HP: 6
+21/03/2008 3:22:14 ganita paso a nivel 15 gano HP: 7
+21/03/2008 3:22:14 ganita paso a nivel 16 gano HP: 6
+21/03/2008 3:22:14 ganita paso a nivel 17 gano HP: 7
+21/03/2008 3:22:14 ganita paso a nivel 18 gano HP: 6
+21/03/2008 3:22:14 ganita paso a nivel 19 gano HP: 6
+21/03/2008 3:22:14 ganita paso a nivel 20 gano HP: 7
+21/03/2008 3:22:14 ganita paso a nivel 21 gano HP: 6
+21/03/2008 3:22:14 ganita paso a nivel 22 gano HP: 6
+21/03/2008 3:22:14 ganita paso a nivel 23 gano HP: 7
+21/03/2008 3:22:18 ganita paso a nivel 24 gano HP: 6
+21/03/2008 3:22:18 ganita paso a nivel 25 gano HP: 7
+21/03/2008 3:22:18 ganita paso a nivel 26 gano HP: 6
+21/03/2008 3:22:22 ganita paso a nivel 27 gano HP: 7
+21/03/2008 3:22:25 ganita paso a nivel 28 gano HP: 6
+21/03/2008 3:22:25 ganita paso a nivel 29 gano HP: 6
+21/03/2008 3:22:30 ganita paso a nivel 30 gano HP: 6
+21/03/2008 3:22:30 ganita paso a nivel 31 gano HP: 6
+21/03/2008 3:22:30 ganita paso a nivel 32 gano HP: 6
+21/03/2008 3:22:30 ganita paso a nivel 33 gano HP: 6
+21/03/2008 3:22:30 ganita paso a nivel 34 gano HP: 6
+21/03/2008 3:22:30 ganita paso a nivel 35 gano HP: 6
+21/03/2008 3:22:39 ganita paso a nivel 36 gano HP: 6
+21/03/2008 3:22:39 ganita paso a nivel 37 gano HP: 6
+21/03/2008 3:22:52 ganita paso a nivel 38 gano HP: 7
+21/03/2008 3:22:52 ganita paso a nivel 39 gano HP: 6
+21/03/2008 3:22:55 ganita paso a nivel 40 gano HP: 6
+21/03/2008 3:22:55 ganita paso a nivel 41 gano HP: 7
+21/03/2008 3:22:58 ganita paso a nivel 42 gano HP: 7
+21/03/2008 3:24:49 ganita paso a nivel 43 gano HP: 6
+21/03/2008 3:24:57 ganita paso a nivel 44 gano HP: 7
+21/03/2008 3:25:03 ganita paso a nivel 45 gano HP: 7
+21/03/2008 3:25:28 ganita paso a nivel 46 gano HP: 7
+21/03/2008 3:25:43 ganita paso a nivel 47 gano HP: 7
+21/03/2008 3:27:50 PRUEBA UNO paso a nivel 17 gano HP: 7
+21/03/2008 3:30:09 PRUEBA UNO paso a nivel 18 gano HP: 8
+21/03/2008 3:32:23 PRUEBA UNO paso a nivel 19 gano HP: 10
+21/03/2008 3:37:23 PRUEBA UNO paso a nivel 20 gano HP: 10
+21/03/2008 3:41:40 PRUEBA UNO paso a nivel 21 gano HP: 8

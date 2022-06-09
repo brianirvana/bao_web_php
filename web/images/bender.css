@@ -1,0 +1,92 @@
+text-decoration: blink;
+.soporte { padding: 5px 0 2px 10px; margin: 0; background: none;}
+form.soporte { padding: 0; margin: 0; }
+textarea.sopcont { height: 80px; width: 380px; border: 1px solid #ccc; background: #fff; }
+input.soptext { border: 1px solid #ccc; background: #fff; width: 200px; }
+input.sopcont { margin: 0; font-size: 80%; width: 85px; border: 1px solid #7899BD; background: #ECF4FA; }
+input.sopcont:hover { background: #FCFDFE;  }
+input.gumb { margin: 0; font-size: 80%; border: none; background: none; color: #FFF; font-weight: bold; }
+BODY {
+	SCROLLBAR-ARROW-COLOR: #f9f1d2; SCROLLBAR-BASE-COLOR: #b7a783;  TEXT-ALIGN: center
+}
+A {
+	FONT-WEIGHT: bold; COLOR:#b3b39a; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: none; COLOR: #956d13
+}
+.link A:link {
+	FONT-WEIGHT: bold; COLOR: #4e3a1d; TEXT-DECORATION: none
+}
+.link A:hover {
+	COLOR: #956d13; TEXT-DECORATION: none
+}
+UNKNOWN {
+	COLOR: #b3b39a
+}
+UNKNOWN {
+	COLOR: #b3b39a
+}
+.central {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; LINE-HEIGHT: 200%; FONT-STYLE: normal; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.central A:link {
+	COLOR: #CBB08D
+}
+.central A:hover {
+	COLOR: #6a6051
+}
+.legal {
+	FONT-SIZE: 9px; COLOR: #e2ce9a; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.picture_border {
+	BORDER-RIGHT: #8d7758 2px solid; BORDER-TOP: #8d7758 2px solid; BORDER-LEFT: #8d7758 2px solid; BORDER-BOTTOM: #8d7758 2px solid
+}
+.by {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #654b25; LINE-HEIGHT: 130%; FONT-STYLE: normal; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.fecha {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #654b25; LINE-HEIGHT: 130%; FONT-STYLE: normal; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.notitext {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; LINE-HEIGHT: 130%; FONT-STYLE: normal; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.titunoti {
+	FONT-SIZE: 15pt; COLOR: #654b25; LINE-HEIGHT: 130%; FONT-STYLE: normal; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.titunoti A:link {
+	FONT-SIZE: 15pt; COLOR: #654b25; LINE-HEIGHT: 130%; FONT-STYLE: normal; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.titunoti A:hover {
+	COLOR: #000000
+}
+.noticias {
+	FONT-SIZE: 11px; COLOR: #654b25; LINE-HEIGHT: 100%; FONT-STYLE: normal; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.noticias IMG {
+	MARGIN: 3px
+}
+.menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; TEXT-TRANSFORM: uppercase; COLOR: #f2e9d2; LINE-HEIGHT: 200%; FONT-STYLE: normal; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.menu A:link {
+	COLOR: #f2e9d2
+}
+.menu A:hover {
+	COLOR: #654b25
+}
+.est {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; TEXT-TRANSFORM: uppercase; COLOR: #654b25; LINE-HEIGHT: 200%; FONT-STYLE: normal; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.est A:link {
+	COLOR: #654b25
+}
+.est A:hover {
+	COLOR: #f2e9d2
+}
+.titulo {
+	FONT-WEIGHT: bold; COLOR: #ffffff; FONT-SIZE: 11px; VERTICAL-ALIGN: sub; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.estado {
+	FONT-WEIGHT: bold; COLOR: #ffffff; FONT-SIZE: 12px; VERTICAL-ALIGN: sub; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}

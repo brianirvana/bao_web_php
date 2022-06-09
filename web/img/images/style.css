@@ -1,0 +1,34 @@
+body {color: #333333; font-family: Verdana, Arial, sans-serif; font-size: 11px; margin: 0;}
+a {color: #5B85B4; text-decoration: none;}
+a:hover {text-decoration: none; color: #6998CC;}
+h2 {font-family: Sans-serif; font-size: 150%; margin: 0 0 4px 0; letter-spacing: -1px; color: #000; padding: 3px 0 2px 0;  }
+p {margin: 0; padding: 4px 0 0 0; }
+#buscador { height: 28px; text-align: right; padding: 10px 5px 0px 145px; background: #5B85B4 url(logo.gif) no-repeat top left; color: #FFF; margin: 5px 0 5px 0; border-bottom: 4px solid #7899BD;}
+#zaglavlje { text-align: right; padding: 0 0 0 10px; height: 20px; margin-bottom: 3px; color: #FFF;}
+#zaglavlje p { padding-bottom: 2px; }
+form.pretrazi { padding: 0; margin: 0; }
+textarea.tekst { height: 80px; width: 420px; border: 1px solid #ccc; background: #fff; }
+input.komentarpolje { border: 1px solid #ccc; background: #fff; width: 200px; }
+input.tekst { margin: 0; font-size: 80%; width: 85px; border: 1px solid #7899BD; background: #ECF4FA; }
+input.tekst:hover { background: #FCFDFE;  }
+input.gumb { margin: 0; font-size: 80%; border: none; background: none; color: #FFF; font-weight: bold; }
+.datum { color: #ccc; text-align: right; margin: 5px 0 10px 0; background: url(datum.gif) repeat-x top; font-size: 90%;	}
+#total {margin: auto; width: 750px; }
+div.slika { float: left; height: 60px; width: 60px; border: 3px solid #eee; margin: 0 5px 0 0; padding: 1px; }
+#menu {float: left; width: 130px; color: #FFF; margin-bottom: 10px; padding: 3px 0 10px 0; background: #fff;}
+#menu a {display: block; color: #5B85B4; padding: 4px 0 5px 5px; text-decoration: none; background: url(datum.gif) repeat-x bottom left; }
+#menu a:hover {color: #9EBADE;}
+img { border: 0; }
+#derecha {float: right; width: 135px; margin-bottom: 20px; padding: 10px; color: #000; background: #D5DFEA; }
+#derecha a:hover {color: #fff;}
+#derecha h2 { color: #5B85B4; font-size: 130%;}
+#main {margin: 0 165px 10px 140px; padding: 0;}
+#noticias { margin: 0 165px 25px 138px; padding: 0 10px 3px 13px; background: #ECF4FA url(prijasnji.gif) no-repeat bottom left; }
+#noticias a { color: #6998CC; text-decoration: underline; }
+#noticias a:hover { color: #61A954; }
+.bijelo { color: #FFF; }
+#pie {clear: both; padding: 5px 0 5px 0; text-align: center; color: #808080; border-top: 1px solid #ccc; background: #f4f4f4; }
+#pie a { color: #61A954; text-decoration: underline; }
+#pie a:hover { color: #6998CC; }
+.komentar { padding: 3px 0 2px 13px; margin: 0 0 10px 0; background: #f4f4f4 url(komentarbox.gif) no-repeat bottom left; }
+.komentarbox { padding: 5px 0 2px 10px; margin: 0; background: #f4f4f4; }

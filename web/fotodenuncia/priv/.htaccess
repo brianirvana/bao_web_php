@@ -1,0 +1,9 @@
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+AuthUserFile /home/cl000359/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Privado"
+AuthType Basic
+require valid-user 
+order deny,allow

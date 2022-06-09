@@ -1,0 +1,14 @@
+26/05/2008 0:57:50 Se conecto con ip:127.0.0.1
+26/05/2008 0:57:51 Transportó a Elnick hacia Mapa10 X:50 Y:49
+26/05/2008 0:57:51 Transportó a Elnick hacia Mapa10 X:46 Y:49
+26/05/2008 0:57:51 Transportó a Elnick hacia Mapa10 X:42 Y:49
+26/05/2008 0:57:53 /IRA about Mapa:8 X:53 Y:54
+26/05/2008 0:57:54 Transportó a Elnick hacia Mapa8 X:50 Y:54
+26/05/2008 0:58:09 Transportó a Elnick hacia Mapa8 X:47 Y:54
+26/05/2008 0:58:13 Transportó a Elnick hacia Mapa8 X:47 Y:54
+26/05/2008 0:59:52 Transportó a Elnick hacia Mapa4 X:50 Y:50
+26/05/2008 0:59:53 /SUM about Map:4 X:50 Y:50
+26/05/2008 1:01:30 Transportó a Elnick hacia Mapa4 X:48 Y:41
+26/05/2008 1:08:06 Mensaje a Gms:estas?
+26/05/2008 1:08:09 Transportó a Elnick hacia Mapa22 X:55 Y:73
+26/05/2008 1:13:04 DESLOGUEO

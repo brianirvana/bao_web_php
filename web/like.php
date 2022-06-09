@@ -1,0 +1,1 @@
+<?='<div id="fb-root"></div><script src="http://connect.facebook.net/es_ES/all.js#appId=128897243865016&amp;xfbml=1"></script><fb:like href="http://bender-online.com.ar" send="false" layout="button_count" width="110" show_faces="false" font=""></fb:like>'?>

@@ -1,0 +1,33 @@
+[20-Mar-2021 19:54:18 America/Halifax] PHP Notice:  Undefined index: op in /home/benderao/public_html/update/info.php on line 6
+[20-Mar-2021 19:54:18 America/Halifax] PHP Notice:  Undefined index: id in /home/benderao/public_html/update/info.php on line 7
+[20-Mar-2021 19:54:44 America/Halifax] PHP Notice:  Undefined index: op in /home/benderao/public_html/update/info.php on line 6
+[20-Mar-2021 19:54:44 America/Halifax] PHP Notice:  Undefined index: id in /home/benderao/public_html/update/info.php on line 7
+[20-Mar-2021 19:55:43 America/Halifax] PHP Notice:  Undefined index: op in /home/benderao/public_html/update/info.php on line 6
+[20-Mar-2021 19:55:43 America/Halifax] PHP Notice:  Undefined index: id in /home/benderao/public_html/update/info.php on line 7
+[20-Mar-2021 19:55:55 America/Halifax] PHP Notice:  Undefined index: op in /home/benderao/public_html/update/info.php on line 6
+[20-Mar-2021 19:55:55 America/Halifax] PHP Notice:  Undefined index: id in /home/benderao/public_html/update/info.php on line 7
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Undefined index: id in /home/benderao/public_html/update/info.php on line 7
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/benderao/public_html/update/info.php on line 57
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/benderao/public_html/update/info.php on line 58
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant LastUpdate - assumed 'LastUpdate' in /home/benderao/public_html/update/info.php on line 59
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant IP - assumed 'IP' in /home/benderao/public_html/update/info.php on line 60
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant Port - assumed 'Port' in /home/benderao/public_html/update/info.php on line 61
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant users - assumed 'users' in /home/benderao/public_html/update/info.php on line 62
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant desc - assumed 'desc' in /home/benderao/public_html/update/info.php on line 63
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant updates - assumed 'updates' in /home/benderao/public_html/update/info.php on line 64
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/benderao/public_html/update/info.php on line 57
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/benderao/public_html/update/info.php on line 58
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant LastUpdate - assumed 'LastUpdate' in /home/benderao/public_html/update/info.php on line 59
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant IP - assumed 'IP' in /home/benderao/public_html/update/info.php on line 60
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant Port - assumed 'Port' in /home/benderao/public_html/update/info.php on line 61
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant users - assumed 'users' in /home/benderao/public_html/update/info.php on line 62
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant desc - assumed 'desc' in /home/benderao/public_html/update/info.php on line 63
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant updates - assumed 'updates' in /home/benderao/public_html/update/info.php on line 64
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/benderao/public_html/update/info.php on line 57
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/benderao/public_html/update/info.php on line 58
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant LastUpdate - assumed 'LastUpdate' in /home/benderao/public_html/update/info.php on line 59
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant IP - assumed 'IP' in /home/benderao/public_html/update/info.php on line 60
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant Port - assumed 'Port' in /home/benderao/public_html/update/info.php on line 61
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant users - assumed 'users' in /home/benderao/public_html/update/info.php on line 62
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant desc - assumed 'desc' in /home/benderao/public_html/update/info.php on line 63
+[20-Mar-2021 19:56:53 America/Halifax] PHP Notice:  Use of undefined constant updates - assumed 'updates' in /home/benderao/public_html/update/info.php on line 64

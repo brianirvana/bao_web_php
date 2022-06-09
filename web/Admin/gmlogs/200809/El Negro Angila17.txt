@@ -1,0 +1,5 @@
+20/03/2008 22:24:48 Se conecto con ip:201.255.14.14
+20/03/2008 22:24:52 Transportó a El Negro Angila hacia Mapa43 X:64 Y:31
+20/03/2008 22:53:48 Se conecto con ip:201.255.14.14
+20/03/2008 22:54:27 Se conecto con ip:201.255.14.14
+20/03/2008 22:54:40 /MOD ORO 15555555  El Negro Angila

@@ -1,0 +1,2042 @@
+17/03/2008 22:02:37 Se conecto con ip:127.0.0.1
+20/03/2008 16:18:13 Se conecto con ip:127.0.0.1
+20/03/2008 16:19:16 Se conecto con ip:127.0.0.1
+20/03/2008 16:21:16 Se conecto con ip:127.0.0.1
+20/03/2008 16:21:20 Transportó a About hacia Mapa88 X:84 Y:47
+20/03/2008 16:21:20 Transportó a About hacia Mapa88 X:80 Y:47
+20/03/2008 16:21:20 Transportó a About hacia Mapa88 X:75 Y:47
+20/03/2008 16:21:21 Transportó a About hacia Mapa88 X:78 Y:44
+20/03/2008 16:21:22 Transportó a About hacia Mapa88 X:82 Y:43
+20/03/2008 16:21:22 Transportó a About hacia Mapa88 X:87 Y:42
+20/03/2008 16:21:22 Transportó a About hacia Mapa88 X:92 Y:42
+20/03/2008 16:21:25 Transportó a About hacia Mapa88 X:85 Y:37
+20/03/2008 16:21:25 Transportó a About hacia Mapa88 X:84 Y:34
+20/03/2008 16:21:25 Transportó a About hacia Mapa88 X:85 Y:31
+20/03/2008 16:21:25 Transportó a About hacia Mapa88 X:87 Y:28
+20/03/2008 16:21:26 Transportó a About hacia Mapa88 X:90 Y:31
+20/03/2008 16:21:26 Transportó a About hacia Mapa88 X:91 Y:34
+20/03/2008 16:21:27 Transportó a About hacia Mapa88 X:89 Y:35
+20/03/2008 16:21:27 Transportó a About hacia Mapa88 X:87 Y:33
+20/03/2008 16:21:27 Transportó a About hacia Mapa88 X:87 Y:30
+20/03/2008 16:21:28 Transportó a About hacia Mapa88 X:88 Y:26
+20/03/2008 16:21:39 Sumoneo a Vende Pociones en mapa 88
+20/03/2008 16:21:51 /MATA NPC SIN INICIAR
+20/03/2008 16:22:12 Transportó a About hacia Mapa88 X:82 Y:43
+20/03/2008 16:22:50 Transportó a About hacia Mapa88 X:80 Y:40
+20/03/2008 16:22:51 Transportó a About hacia Mapa88 X:80 Y:36
+20/03/2008 16:22:51 Transportó a About hacia Mapa88 X:81 Y:32
+20/03/2008 16:27:53 Se conecto con ip:127.0.0.1
+20/03/2008 16:27:59 Transportó a About hacia Mapa115 X:50 Y:50
+20/03/2008 16:28:00 Transportó a About hacia Mapa115 X:57 Y:46
+20/03/2008 16:28:02 Tiro cantidad:1 Objeto:Anillo de los Dioses
+20/03/2008 16:28:06 Tiro cantidad:1 Objeto:Armadura de Dragón
+20/03/2008 18:16:22 Se conecto con ip:127.0.0.1
+20/03/2008 18:16:31 Transportó a About hacia Mapa115 X:63 Y:31
+20/03/2008 18:18:37 /MASSDEST
+20/03/2008 18:24:12 Transportó a About hacia Mapa115 X:55 Y:33
+20/03/2008 18:24:12 Transportó a About hacia Mapa115 X:49 Y:33
+20/03/2008 18:24:12 Transportó a About hacia Mapa115 X:43 Y:33
+20/03/2008 18:24:12 Transportó a About hacia Mapa115 X:37 Y:33
+20/03/2008 22:16:15 Se conecto con ip:127.0.0.1
+20/03/2008 22:19:47 Se conecto con ip:127.0.0.1
+20/03/2008 22:20:43 Se conecto con ip:127.0.0.1
+20/03/2008 22:21:11 Se conecto con ip:201.231.41.161
+20/03/2008 22:21:16 Transportó a About hacia Mapa115 X:35 Y:30
+20/03/2008 22:21:17 Transportó a About hacia Mapa115 X:37 Y:28
+20/03/2008 22:21:18 Transportó a About hacia Mapa115 X:38 Y:26
+20/03/2008 22:21:18 Transportó a About hacia Mapa115 X:39 Y:24
+20/03/2008 22:21:18 Transportó a About hacia Mapa115 X:41 Y:22
+20/03/2008 22:21:18 Transportó a About hacia Mapa115 X:43 Y:22
+20/03/2008 22:21:19 Transportó a About hacia Mapa115 X:45 Y:26
+20/03/2008 22:21:20 Transportó a About hacia Mapa115 X:46 Y:28
+20/03/2008 22:21:52 Se conecto con ip:127.0.0.1
+20/03/2008 22:21:54 Transportó a About hacia Mapa115 X:34 Y:46
+20/03/2008 22:21:54 Transportó a About hacia Mapa115 X:36 Y:45
+20/03/2008 22:21:54 Transportó a About hacia Mapa115 X:38 Y:44
+20/03/2008 22:21:54 Transportó a About hacia Mapa115 X:41 Y:43
+20/03/2008 22:21:54 Transportó a About hacia Mapa115 X:43 Y:41
+20/03/2008 22:21:54 Transportó a About hacia Mapa115 X:44 Y:39
+20/03/2008 22:21:55 Transportó a About hacia Mapa115 X:45 Y:37
+20/03/2008 22:21:55 Transportó a About hacia Mapa115 X:53 Y:36
+20/03/2008 22:21:55 Transportó a About hacia Mapa115 X:60 Y:35
+20/03/2008 22:21:56 Transportó a About hacia Mapa115 X:67 Y:34
+20/03/2008 22:21:56 Transportó a About hacia Mapa115 X:67 Y:30
+20/03/2008 22:21:58 Transportó a About hacia Mapa115 X:70 Y:33
+20/03/2008 22:21:58 Transportó a About hacia Mapa115 X:70 Y:35
+20/03/2008 22:21:58 Transportó a About hacia Mapa115 X:70 Y:38
+20/03/2008 22:21:58 Transportó a About hacia Mapa115 X:71 Y:41
+20/03/2008 22:21:58 Transportó a About hacia Mapa115 X:73 Y:45
+20/03/2008 22:21:59 Transportó a About hacia Mapa115 X:75 Y:49
+20/03/2008 22:21:59 Transportó a About hacia Mapa115 X:77 Y:52
+20/03/2008 22:21:59 Transportó a About hacia Mapa115 X:78 Y:55
+20/03/2008 22:21:59 Transportó a About hacia Mapa115 X:76 Y:58
+20/03/2008 22:22:01 Transportó a About hacia Mapa115 X:67 Y:60
+20/03/2008 22:22:01 Transportó a About hacia Mapa115 X:62 Y:62
+20/03/2008 22:22:01 Transportó a About hacia Mapa115 X:57 Y:64
+20/03/2008 22:22:01 Transportó a About hacia Mapa115 X:53 Y:62
+20/03/2008 22:22:02 Transportó a About hacia Mapa115 X:51 Y:60
+20/03/2008 22:22:03 Transportó a About hacia Mapa115 X:49 Y:64
+20/03/2008 22:22:03 Transportó a About hacia Mapa115 X:49 Y:67
+20/03/2008 22:22:03 Transportó a About hacia Mapa115 X:49 Y:71
+20/03/2008 22:22:05 Transportó a About hacia Mapa115 X:48 Y:74
+20/03/2008 22:22:20 Transportó a About hacia Mapa115 X:22 Y:74
+20/03/2008 22:22:20 Transportó a About hacia Mapa115 X:25 Y:71
+20/03/2008 22:22:20 Transportó a About hacia Mapa115 X:31 Y:67
+20/03/2008 22:22:21 Transportó a About hacia Mapa115 X:28 Y:65
+20/03/2008 22:22:23 Transportó a About hacia Mapa115 X:32 Y:61
+20/03/2008 22:22:24 Transportó a About hacia Mapa115 X:40 Y:61
+20/03/2008 22:22:25 Transportó a About hacia Mapa115 X:45 Y:61
+20/03/2008 22:22:25 Transportó a About hacia Mapa115 X:50 Y:61
+20/03/2008 22:22:25 Transportó a About hacia Mapa115 X:56 Y:61
+20/03/2008 22:22:26 Transportó a About hacia Mapa115 X:63 Y:61
+20/03/2008 22:22:54 /IRA el negro angila Mapa:43 X:57 Y:33
+20/03/2008 22:23:05 Resucito a el negro angila
+20/03/2008 22:23:13 Resucito a el negro angila
+20/03/2008 22:24:38 /SUM el negro angila Map:43 X:60 Y:33
+20/03/2008 22:24:43 Echo a el negro angila
+20/03/2008 22:24:54 Transportó a About hacia Mapa43 X:58 Y:31
+20/03/2008 22:24:54 Transportó a About hacia Mapa43 X:56 Y:27
+20/03/2008 22:24:54 Transportó a About hacia Mapa43 X:54 Y:23
+20/03/2008 22:24:55 Transportó a About hacia Mapa43 X:54 Y:20
+20/03/2008 22:24:55 Transportó a About hacia Mapa43 X:55 Y:17
+20/03/2008 22:24:56 Transportó a About hacia Mapa43 X:56 Y:21
+20/03/2008 22:24:56 Transportó a About hacia Mapa43 X:57 Y:26
+20/03/2008 22:42:49 Se conecto con ip:127.0.0.1
+20/03/2008 22:42:54 Transportó a About hacia Mapa115 X:50 Y:50
+20/03/2008 22:44:02 Se conecto con ip:127.0.0.1
+20/03/2008 22:45:50 Se conecto con ip:127.0.0.1
+20/03/2008 22:48:48 Se conecto con ip:127.0.0.1
+20/03/2008 22:49:27 Se conecto con ip:201.231.41.161
+20/03/2008 22:49:43 Se conecto con ip:201.231.41.161
+20/03/2008 22:50:03 Se conecto con ip:201.231.41.161
+20/03/2008 22:50:09 /IRA kalen Mapa:2 X:53 Y:62
+20/03/2008 22:51:25 Transportó a About hacia Mapa61 X:50 Y:50
+20/03/2008 22:51:26 Transportó a About hacia Mapa61 X:53 Y:47
+20/03/2008 22:51:26 Transportó a About hacia Mapa61 X:51 Y:44
+20/03/2008 22:51:26 Transportó a About hacia Mapa61 X:48 Y:41
+20/03/2008 22:51:26 Transportó a About hacia Mapa61 X:44 Y:38
+20/03/2008 22:51:27 Transportó a About hacia Mapa61 X:44 Y:36
+20/03/2008 22:51:27 Transportó a About hacia Mapa61 X:39 Y:37
+20/03/2008 22:51:27 Transportó a About hacia Mapa61 X:33 Y:39
+20/03/2008 22:51:27 Transportó a About hacia Mapa61 X:26 Y:41
+20/03/2008 22:51:28 Transportó a About hacia Mapa61 X:19 Y:43
+20/03/2008 22:51:33 Transportó a About hacia Mapa60 X:50 Y:50
+20/03/2008 22:51:34 Transportó a About hacia Mapa60 X:47 Y:48
+20/03/2008 22:51:34 Transportó a About hacia Mapa60 X:46 Y:46
+20/03/2008 22:51:34 Transportó a About hacia Mapa60 X:43 Y:44
+20/03/2008 22:51:35 Transportó a About hacia Mapa60 X:40 Y:44
+20/03/2008 22:51:35 Transportó a About hacia Mapa60 X:38 Y:46
+20/03/2008 22:51:35 Transportó a About hacia Mapa60 X:39 Y:50
+20/03/2008 22:51:35 Transportó a About hacia Mapa60 X:40 Y:54
+20/03/2008 22:51:40 Transportó a About hacia Mapa60 X:40 Y:48
+20/03/2008 22:51:40 Transportó a About hacia Mapa60 X:42 Y:51
+20/03/2008 22:51:40 Transportó a About hacia Mapa60 X:43 Y:55
+20/03/2008 22:51:40 Transportó a About hacia Mapa60 X:44 Y:60
+20/03/2008 22:51:41 Transportó a About hacia Mapa60 X:46 Y:65
+20/03/2008 22:51:41 Transportó a About hacia Mapa60 X:48 Y:70
+20/03/2008 22:51:41 Transportó a About hacia Mapa60 X:51 Y:75
+20/03/2008 22:51:41 Transportó a About hacia Mapa60 X:54 Y:80
+20/03/2008 22:51:41 Transportó a About hacia Mapa60 X:56 Y:85
+20/03/2008 22:51:41 Transportó a About hacia Mapa60 X:57 Y:90
+20/03/2008 22:51:42 Transportó a About hacia Mapa60 X:63 Y:93
+20/03/2008 22:51:43 Transportó a About hacia Mapa60 X:66 Y:90
+20/03/2008 22:51:43 Transportó a About hacia Mapa60 X:69 Y:86
+20/03/2008 22:51:43 Transportó a About hacia Mapa60 X:71 Y:80
+20/03/2008 22:51:43 Transportó a About hacia Mapa60 X:72 Y:74
+20/03/2008 22:51:44 Transportó a About hacia Mapa60 X:73 Y:68
+20/03/2008 22:51:44 Transportó a About hacia Mapa60 X:74 Y:62
+20/03/2008 22:51:44 Transportó a About hacia Mapa60 X:72 Y:56
+20/03/2008 22:51:44 Transportó a About hacia Mapa60 X:68 Y:52
+20/03/2008 22:51:44 Transportó a About hacia Mapa60 X:63 Y:48
+20/03/2008 22:51:45 Transportó a About hacia Mapa60 X:58 Y:45
+20/03/2008 22:51:45 Transportó a About hacia Mapa60 X:52 Y:42
+20/03/2008 22:51:45 Transportó a About hacia Mapa60 X:58 Y:40
+20/03/2008 22:51:45 Transportó a About hacia Mapa60 X:64 Y:38
+20/03/2008 22:51:46 Transportó a About hacia Mapa60 X:69 Y:36
+20/03/2008 22:51:53 /MOD ORO 0  About
+20/03/2008 22:52:11 Transportó a About hacia Mapa10 X:80 Y:50
+20/03/2008 23:03:34 Se conecto con ip:127.0.0.1
+20/03/2008 23:08:35 Transportó a About hacia Mapa10 X:78 Y:49
+20/03/2008 23:08:36 Transportó a About hacia Mapa10 X:75 Y:49
+20/03/2008 23:08:36 Transportó a About hacia Mapa10 X:72 Y:49
+20/03/2008 23:08:36 Transportó a About hacia Mapa10 X:68 Y:49
+20/03/2008 23:08:36 Transportó a About hacia Mapa10 X:65 Y:49
+20/03/2008 23:08:37 Transportó a About hacia Mapa10 X:69 Y:51
+20/03/2008 23:08:37 Transportó a About hacia Mapa10 X:73 Y:53
+20/03/2008 23:08:37 Transportó a About hacia Mapa10 X:78 Y:55
+20/03/2008 23:08:45 Transportó a About hacia Mapa1 X:50 Y:50
+20/03/2008 23:08:46 Transportó a About hacia Mapa1 X:46 Y:52
+20/03/2008 23:08:47 Transportó a About hacia Mapa1 X:42 Y:55
+20/03/2008 23:08:47 Transportó a About hacia Mapa1 X:38 Y:59
+20/03/2008 23:08:47 Transportó a About hacia Mapa1 X:39 Y:59
+21/03/2008 1:03:16 Se conecto con ip:127.0.0.1
+22/03/2008 15:46:24 Se conecto con ip:127.0.0.1
+22/03/2008 15:46:37 Transportó a about hacia Mapa1 X:45 Y:69
+22/03/2008 15:46:37 Transportó a about hacia Mapa1 X:47 Y:69
+22/03/2008 15:46:37 Transportó a about hacia Mapa1 X:48 Y:70
+22/03/2008 15:46:37 Transportó a about hacia Mapa1 X:51 Y:71
+22/03/2008 15:46:38 Transportó a about hacia Mapa1 X:53 Y:72
+22/03/2008 15:46:39 Transportó a about hacia Mapa1 X:59 Y:72
+22/03/2008 15:46:39 Transportó a about hacia Mapa1 X:62 Y:72
+22/03/2008 15:47:16 Transportó a about hacia Mapa1 X:61 Y:67
+22/03/2008 15:47:18 Transportó a about hacia Mapa1 X:71 Y:65
+22/03/2008 15:47:24 Transportó a about hacia Mapa1 X:66 Y:43
+22/03/2008 15:47:24 Transportó a about hacia Mapa1 X:60 Y:44
+22/03/2008 15:47:25 Transportó a about hacia Mapa1 X:54 Y:47
+22/03/2008 15:47:30 Transportó a about hacia Mapa1 X:36 Y:44
+22/03/2008 15:47:31 Transportó a about hacia Mapa1 X:34 Y:41
+22/03/2008 15:47:36 Transportó a about hacia Mapa1 X:36 Y:38
+22/03/2008 15:48:33 Transportó a about hacia Mapa4 X:92 Y:51
+22/03/2008 15:48:34 Transportó a about hacia Mapa17 X:19 Y:50
+22/03/2008 15:49:34 Transportó a about hacia Mapa5 X:37 Y:47
+22/03/2008 15:49:34 Transportó a about hacia Mapa5 X:44 Y:43
+22/03/2008 15:49:34 Transportó a about hacia Mapa5 X:50 Y:39
+22/03/2008 15:49:34 Transportó a about hacia Mapa5 X:55 Y:35
+22/03/2008 15:49:35 Transportó a about hacia Mapa5 X:59 Y:35
+22/03/2008 15:49:35 Transportó a about hacia Mapa5 X:61 Y:36
+22/03/2008 15:49:35 Transportó a about hacia Mapa5 X:64 Y:38
+22/03/2008 15:49:35 Transportó a about hacia Mapa5 X:65 Y:41
+22/03/2008 15:49:35 Transportó a about hacia Mapa5 X:62 Y:45
+22/03/2008 15:49:36 Transportó a about hacia Mapa5 X:59 Y:49
+22/03/2008 15:49:36 Transportó a about hacia Mapa5 X:56 Y:52
+22/03/2008 15:49:36 Transportó a about hacia Mapa5 X:51 Y:55
+22/03/2008 15:49:37 Transportó a about hacia Mapa5 X:46 Y:57
+22/03/2008 15:49:51 Transportó a about hacia Mapa39 X:31 Y:43
+22/03/2008 15:49:52 Transportó a about hacia Mapa39 X:41 Y:44
+22/03/2008 15:49:53 Transportó a about hacia Mapa39 X:51 Y:44
+22/03/2008 15:49:53 Transportó a about hacia Mapa39 X:60 Y:44
+22/03/2008 15:49:55 Transportó a about hacia Mapa39 X:61 Y:55
+22/03/2008 15:49:56 Transportó a about hacia Mapa39 X:68 Y:64
+22/03/2008 15:50:07 Transportó a about hacia Mapa39 X:57 Y:61
+22/03/2008 15:50:08 Transportó a about hacia Mapa39 X:55 Y:53
+22/03/2008 15:50:09 Transportó a about hacia Mapa39 X:52 Y:48
+22/03/2008 15:50:10 Transportó a about hacia Mapa39 X:48 Y:43
+22/03/2008 15:50:10 Transportó a about hacia Mapa39 X:41 Y:38
+22/03/2008 15:50:12 Transportó a about hacia Mapa39 X:35 Y:35
+22/03/2008 15:50:12 Transportó a about hacia Mapa39 X:29 Y:32
+22/03/2008 15:50:13 Transportó a about hacia Mapa39 X:25 Y:28
+22/03/2008 15:50:14 Transportó a about hacia Mapa39 X:21 Y:24
+22/03/2008 15:50:18 Transportó a about hacia Mapa5 X:56 Y:53
+22/03/2008 15:50:18 Transportó a about hacia Mapa5 X:66 Y:50
+22/03/2008 15:50:19 Transportó a about hacia Mapa5 X:77 Y:48
+22/03/2008 15:50:19 Transportó a about hacia Mapa5 X:86 Y:46
+22/03/2008 15:50:21 Transportó a about hacia Mapa18 X:18 Y:48
+22/03/2008 15:50:21 Transportó a about hacia Mapa18 X:28 Y:50
+22/03/2008 15:50:22 Transportó a about hacia Mapa18 X:38 Y:51
+22/03/2008 15:50:23 Transportó a about hacia Mapa18 X:46 Y:51
+22/03/2008 15:50:26 Transportó a about hacia Mapa18 X:62 Y:50
+22/03/2008 15:50:27 Transportó a about hacia Mapa18 X:74 Y:49
+22/03/2008 15:50:28 Transportó a about hacia Mapa18 X:85 Y:49
+22/03/2008 15:50:30 Transportó a about hacia Mapa19 X:21 Y:49
+22/03/2008 15:50:31 Transportó a about hacia Mapa19 X:32 Y:49
+22/03/2008 15:50:31 Transportó a about hacia Mapa19 X:42 Y:49
+22/03/2008 15:50:32 Transportó a about hacia Mapa19 X:52 Y:49
+22/03/2008 15:50:32 Transportó a about hacia Mapa19 X:61 Y:49
+22/03/2008 15:50:32 Transportó a about hacia Mapa19 X:69 Y:49
+22/03/2008 15:50:33 Transportó a about hacia Mapa19 X:77 Y:49
+22/03/2008 15:50:48 Transportó a about hacia Mapa25 X:24 Y:51
+22/03/2008 15:50:48 Transportó a about hacia Mapa25 X:33 Y:51
+22/03/2008 15:50:49 Transportó a about hacia Mapa25 X:42 Y:51
+22/03/2008 15:50:49 Transportó a about hacia Mapa25 X:52 Y:51
+22/03/2008 15:50:50 Transportó a about hacia Mapa25 X:61 Y:51
+22/03/2008 15:50:52 Transportó a about hacia Mapa25 X:77 Y:51
+22/03/2008 15:52:16 Transportó a about hacia Mapa36 X:54 Y:53
+22/03/2008 15:52:18 Transportó a about hacia Mapa36 X:55 Y:43
+22/03/2008 15:52:21 Transportó a about hacia Mapa36 X:55 Y:45
+22/03/2008 15:52:57 Transportó a about hacia Mapa45 X:38 Y:54
+22/03/2008 15:53:03 Transportó a about hacia Mapa45 X:53 Y:49
+22/03/2008 15:53:36 Transportó a about hacia Mapa36 X:76 Y:56
+22/03/2008 15:53:51 Transportó a about hacia Mapa10 X:23 Y:31
+22/03/2008 15:53:53 Transportó a about hacia Mapa10 X:33 Y:28
+22/03/2008 15:53:54 Transportó a about hacia Mapa10 X:48 Y:29
+22/03/2008 15:54:53 Transportó a about hacia Mapa43 X:38 Y:63
+22/03/2008 15:55:00 Transportó a about hacia Mapa43 X:31 Y:51
+22/03/2008 16:00:03 /MOD BODY 101  about
+22/03/2008 16:00:37 Transportó a about hacia Mapa115 X:50 Y:50
+22/03/2008 16:00:39 Transportó a about hacia Mapa115 X:43 Y:53
+22/03/2008 16:00:39 Transportó a about hacia Mapa115 X:35 Y:56
+22/03/2008 16:00:39 Transportó a about hacia Mapa115 X:27 Y:59
+22/03/2008 16:00:39 Transportó a about hacia Mapa115 X:19 Y:63
+22/03/2008 16:00:39 Transportó a about hacia Mapa115 X:13 Y:67
+22/03/2008 16:00:42 Transportó a about hacia Mapa114 X:81 Y:69
+22/03/2008 16:00:42 Transportó a about hacia Mapa114 X:74 Y:69
+22/03/2008 16:00:43 Transportó a about hacia Mapa114 X:67 Y:69
+22/03/2008 16:00:43 Transportó a about hacia Mapa114 X:60 Y:69
+22/03/2008 16:00:43 Transportó a about hacia Mapa114 X:54 Y:69
+22/03/2008 16:00:44 Transportó a about hacia Mapa114 X:50 Y:69
+22/03/2008 16:00:44 Transportó a about hacia Mapa114 X:44 Y:68
+22/03/2008 16:00:44 Transportó a about hacia Mapa114 X:40 Y:66
+22/03/2008 16:00:45 Transportó a about hacia Mapa114 X:37 Y:63
+22/03/2008 16:00:55 Transportó a about hacia Mapa114 X:48 Y:60
+22/03/2008 16:00:55 Transportó a about hacia Mapa114 X:54 Y:58
+22/03/2008 16:00:56 Transportó a about hacia Mapa114 X:58 Y:57
+22/03/2008 16:00:56 Transportó a about hacia Mapa114 X:63 Y:57
+22/03/2008 16:00:56 Transportó a about hacia Mapa114 X:67 Y:57
+22/03/2008 16:00:56 Transportó a about hacia Mapa114 X:71 Y:58
+22/03/2008 16:00:58 Transportó a about hacia Mapa114 X:75 Y:59
+22/03/2008 16:00:59 Transportó a about hacia Mapa114 X:78 Y:58
+22/03/2008 16:00:59 Transportó a about hacia Mapa114 X:75 Y:55
+22/03/2008 16:00:59 Transportó a about hacia Mapa114 X:71 Y:52
+22/03/2008 16:01:04 Transportó a about hacia Mapa114 X:74 Y:52
+22/03/2008 16:01:04 Transportó a about hacia Mapa114 X:77 Y:54
+22/03/2008 16:01:04 Transportó a about hacia Mapa114 X:80 Y:55
+22/03/2008 16:01:05 Transportó a about hacia Mapa114 X:83 Y:56
+22/03/2008 16:01:08 Transportó a about hacia Mapa114 X:84 Y:58
+22/03/2008 16:01:09 Transportó a about hacia Mapa114 X:87 Y:60
+22/03/2008 16:01:43 Transportó a about hacia Mapa115 X:50 Y:46
+22/03/2008 16:01:43 Transportó a about hacia Mapa115 X:50 Y:40
+22/03/2008 16:01:44 Transportó a about hacia Mapa115 X:50 Y:34
+22/03/2008 16:01:44 Transportó a about hacia Mapa115 X:50 Y:29
+22/03/2008 16:01:44 Transportó a about hacia Mapa115 X:50 Y:24
+22/03/2008 16:01:45 Transportó a about hacia Mapa115 X:50 Y:19
+22/03/2008 16:01:45 Transportó a about hacia Mapa115 X:50 Y:14
+22/03/2008 16:01:47 Transportó a about hacia Mapa115 X:58 Y:12
+22/03/2008 16:01:47 Transportó a about hacia Mapa115 X:64 Y:12
+22/03/2008 16:01:47 Transportó a about hacia Mapa115 X:70 Y:12
+22/03/2008 16:01:47 Transportó a about hacia Mapa115 X:77 Y:12
+22/03/2008 16:01:49 Transportó a about hacia Mapa115 X:80 Y:12
+22/03/2008 16:01:50 Transportó a about hacia Mapa115 X:82 Y:18
+22/03/2008 16:01:50 Transportó a about hacia Mapa115 X:82 Y:23
+22/03/2008 16:01:50 Transportó a about hacia Mapa115 X:82 Y:28
+22/03/2008 16:01:50 Transportó a about hacia Mapa115 X:82 Y:33
+22/03/2008 16:01:50 Transportó a about hacia Mapa115 X:82 Y:38
+22/03/2008 16:01:51 Transportó a about hacia Mapa115 X:82 Y:43
+22/03/2008 16:01:51 Transportó a about hacia Mapa115 X:82 Y:48
+22/03/2008 16:01:51 Transportó a about hacia Mapa115 X:82 Y:53
+22/03/2008 16:02:02 Transportó a about hacia Mapa115 X:69 Y:42
+22/03/2008 16:04:43 Se conecto con ip:127.0.0.1
+22/03/2008 16:07:09 Tiro cantidad:1 Objeto:Margarita
+22/03/2008 16:07:12 Agarro:1 Objeto:Túnica Real Benderiana
+22/03/2008 16:07:22 Agarro:300 Objeto:Poción Roja
+22/03/2008 16:07:23 Agarro:300 Objeto:Poción Roja
+22/03/2008 16:07:25 Agarro:200 Objeto:Poción Roja
+22/03/2008 16:07:57 /MASSDEST
+22/03/2008 16:08:00 Transportó a about hacia Mapa115 X:56 Y:26
+22/03/2008 16:08:01 Transportó a about hacia Mapa115 X:49 Y:27
+22/03/2008 16:08:01 Transportó a about hacia Mapa115 X:42 Y:28
+22/03/2008 16:08:41 Transportó a about hacia Mapa22 X:50 Y:50
+22/03/2008 16:08:55 Transportó a about hacia Mapa22 X:50 Y:49
+22/03/2008 16:08:56 Transportó a about hacia Mapa22 X:50 Y:42
+22/03/2008 16:08:59 Transportó a about hacia Mapa22 X:51 Y:46
+22/03/2008 16:09:00 Transportó a about hacia Mapa22 X:52 Y:52
+22/03/2008 16:09:00 Transportó a about hacia Mapa22 X:53 Y:60
+22/03/2008 16:09:01 Transportó a about hacia Mapa22 X:54 Y:66
+22/03/2008 16:09:02 Transportó a about hacia Mapa22 X:61 Y:69
+22/03/2008 16:09:30 Transportó a about hacia Mapa12 X:89 Y:30
+22/03/2008 16:09:32 Transportó a about hacia Mapa22 X:51 Y:68
+22/03/2008 16:09:33 Transportó a about hacia Mapa22 X:40 Y:63
+22/03/2008 16:09:34 Transportó a about hacia Mapa22 X:33 Y:54
+22/03/2008 16:09:36 Transportó a about hacia Mapa22 X:19 Y:52
+22/03/2008 16:09:41 Transportó a about hacia Mapa22 X:26 Y:53
+22/03/2008 16:09:50 Transportó a about hacia Mapa88 X:71 Y:37
+22/03/2008 16:10:37 Transportó a about hacia Mapa7 X:50 Y:42
+22/03/2008 16:10:39 Transportó a about hacia Mapa7 X:42 Y:39
+22/03/2008 16:11:49 /MOD ORO 9  about
+22/03/2008 16:11:53 /MOD ORO 0  about
+22/03/2008 16:12:02 Transportó a about hacia Mapa15 X:33 Y:62
+22/03/2008 16:12:05 Transportó a about hacia Mapa15 X:35 Y:64
+22/03/2008 16:12:05 Transportó a about hacia Mapa15 X:37 Y:68
+22/03/2008 16:12:05 Transportó a about hacia Mapa15 X:39 Y:72
+22/03/2008 16:12:05 Transportó a about hacia Mapa15 X:41 Y:76
+22/03/2008 16:12:06 Transportó a about hacia Mapa15 X:49 Y:77
+22/03/2008 16:12:06 Transportó a about hacia Mapa15 X:56 Y:78
+22/03/2008 16:12:06 Transportó a about hacia Mapa15 X:62 Y:78
+22/03/2008 16:12:07 Transportó a about hacia Mapa15 X:68 Y:77
+22/03/2008 16:12:07 Transportó a about hacia Mapa15 X:72 Y:76
+22/03/2008 16:12:18 Transportó a about hacia Mapa15 X:69 Y:70
+22/03/2008 16:12:39 Transportó a about hacia Mapa4 X:50 Y:50
+22/03/2008 16:12:39 Transportó a about hacia Mapa4 X:57 Y:44
+22/03/2008 16:12:39 Transportó a about hacia Mapa4 X:64 Y:38
+22/03/2008 16:12:40 Transportó a about hacia Mapa4 X:71 Y:32
+22/03/2008 16:12:40 Transportó a about hacia Mapa4 X:78 Y:26
+22/03/2008 16:12:40 Transportó a about hacia Mapa4 X:85 Y:20
+22/03/2008 16:12:41 Transportó a about hacia Mapa4 X:78 Y:21
+22/03/2008 16:12:46 Transportó a about hacia Mapa4 X:68 Y:23
+22/03/2008 16:12:48 Transportó a about hacia Mapa4 X:68 Y:29
+22/03/2008 16:12:48 Transportó a about hacia Mapa4 X:69 Y:32
+22/03/2008 16:12:48 Transportó a about hacia Mapa4 X:68 Y:35
+22/03/2008 16:12:49 Transportó a about hacia Mapa4 X:68 Y:38
+22/03/2008 16:12:53 Transportó a about hacia Mapa4 X:64 Y:44
+22/03/2008 16:12:55 Transportó a about hacia Mapa4 X:71 Y:43
+22/03/2008 16:12:56 Transportó a about hacia Mapa4 X:65 Y:44
+22/03/2008 16:12:59 Transportó a about hacia Mapa4 X:64 Y:49
+22/03/2008 16:13:13 Transportó a about hacia Mapa4 X:63 Y:42
+22/03/2008 16:13:21 Transportó a about hacia Mapa4 X:63 Y:49
+22/03/2008 16:13:24 Transportó a about hacia Mapa4 X:58 Y:58
+22/03/2008 16:13:25 Transportó a about hacia Mapa4 X:64 Y:62
+22/03/2008 16:14:11 Transportó a about hacia Mapa4 X:71 Y:54
+22/03/2008 16:16:10 Transportó a about hacia Mapa4 X:67 Y:60
+22/03/2008 16:17:10 Se conecto con ip:127.0.0.1
+22/03/2008 16:17:26 Se conecto con ip:201.231.41.161
+22/03/2008 16:18:47 Se conecto con ip:201.231.41.161
+10/04/2008 20:37:29 Transportó a aBout hacia Mapa1 X:50 Y:50
+10/04/2008 20:37:55 Transportó a aBout hacia Mapa1 X:62 Y:50
+10/04/2008 20:38:04 Transportó a aBout hacia Mapa1 X:57 Y:49
+10/04/2008 20:38:05 Transportó a aBout hacia Mapa1 X:57 Y:47
+10/04/2008 20:38:05 Transportó a aBout hacia Mapa1 X:60 Y:45
+10/04/2008 20:38:06 Transportó a aBout hacia Mapa1 X:57 Y:45
+10/04/2008 20:38:07 Transportó a aBout hacia Mapa1 X:56 Y:46
+10/04/2008 20:38:07 Transportó a aBout hacia Mapa1 X:60 Y:47
+10/04/2008 20:38:08 Transportó a aBout hacia Mapa1 X:58 Y:46
+10/04/2008 20:38:09 Transportó a aBout hacia Mapa1 X:55 Y:48
+10/04/2008 20:38:09 Transportó a aBout hacia Mapa1 X:52 Y:50
+10/04/2008 20:38:09 Transportó a aBout hacia Mapa1 X:53 Y:52
+10/04/2008 20:38:09 Transportó a aBout hacia Mapa1 X:55 Y:54
+10/04/2008 20:38:10 Transportó a aBout hacia Mapa1 X:57 Y:52
+10/04/2008 20:38:10 Transportó a aBout hacia Mapa1 X:60 Y:50
+10/04/2008 20:38:10 Transportó a aBout hacia Mapa1 X:60 Y:54
+10/04/2008 20:38:11 Transportó a aBout hacia Mapa1 X:60 Y:58
+10/04/2008 20:38:12 Transportó a aBout hacia Mapa1 X:58 Y:60
+10/04/2008 20:38:12 Transportó a aBout hacia Mapa1 X:55 Y:62
+10/04/2008 20:38:12 Transportó a aBout hacia Mapa1 X:51 Y:62
+10/04/2008 20:38:12 Transportó a aBout hacia Mapa1 X:49 Y:58
+10/04/2008 20:38:13 Transportó a aBout hacia Mapa1 X:50 Y:54
+10/04/2008 20:38:13 Transportó a aBout hacia Mapa1 X:51 Y:50
+10/04/2008 20:38:13 Transportó a aBout hacia Mapa1 X:48 Y:46
+10/04/2008 20:38:13 Transportó a aBout hacia Mapa1 X:43 Y:43
+10/04/2008 20:38:14 Transportó a aBout hacia Mapa1 X:38 Y:40
+10/04/2008 20:38:15 Transportó a aBout hacia Mapa1 X:45 Y:42
+10/04/2008 20:38:16 Transportó a aBout hacia Mapa1 X:51 Y:44
+10/04/2008 20:38:16 Transportó a aBout hacia Mapa1 X:53 Y:42
+10/04/2008 20:38:17 Transportó a aBout hacia Mapa1 X:56 Y:43
+10/04/2008 20:40:00 /APAGAR
+10/04/2008 21:15:31 Sumoneo Murcielago
+10/04/2008 21:15:31 Sumoneo Murcielago
+10/04/2008 21:15:31 Sumoneo Murcielago
+10/04/2008 21:15:31 Sumoneo Murcielago
+10/04/2008 21:15:31 Sumoneo Murcielago
+10/04/2008 21:15:31 Sumoneo Murcielago
+10/04/2008 21:15:34 Sumoneo Golem de Lava
+10/04/2008 21:15:34 Sumoneo Golem de Lava
+10/04/2008 21:15:35 Sumoneo Golem de Lava
+10/04/2008 21:15:35 Sumoneo Golem de Lava
+10/04/2008 21:15:35 Sumoneo Golem de Lava
+10/04/2008 21:16:09 /DEST
+10/04/2008 21:16:22 Transportó a About hacia Mapa1 X:56 Y:43
+10/04/2008 21:16:22 Transportó a About hacia Mapa1 X:61 Y:45
+10/04/2008 21:16:23 Transportó a About hacia Mapa1 X:60 Y:45
+10/04/2008 21:16:24 Transportó a About hacia Mapa1 X:60 Y:44
+10/04/2008 21:16:25 Transportó a About hacia Mapa1 X:56 Y:46
+10/04/2008 21:16:27 Transportó a About hacia Mapa1 X:58 Y:50
+10/04/2008 21:16:28 Transportó a About hacia Mapa1 X:58 Y:46
+10/04/2008 21:16:28 Transportó a About hacia Mapa1 X:63 Y:49
+10/04/2008 21:16:29 Transportó a About hacia Mapa1 X:69 Y:53
+10/04/2008 21:16:29 Transportó a About hacia Mapa1 X:70 Y:56
+10/04/2008 21:16:29 Transportó a About hacia Mapa1 X:67 Y:58
+10/04/2008 21:16:29 Transportó a About hacia Mapa1 X:63 Y:60
+10/04/2008 21:16:29 Transportó a About hacia Mapa1 X:57 Y:61
+10/04/2008 21:16:30 Transportó a About hacia Mapa1 X:51 Y:62
+10/04/2008 21:16:30 Transportó a About hacia Mapa1 X:52 Y:61
+10/04/2008 21:16:30 Transportó a About hacia Mapa1 X:54 Y:59
+10/04/2008 21:16:30 Transportó a About hacia Mapa1 X:57 Y:56
+10/04/2008 21:16:30 Transportó a About hacia Mapa1 X:58 Y:52
+10/04/2008 21:16:31 Transportó a About hacia Mapa1 X:57 Y:49
+10/04/2008 21:16:32 Transportó a About hacia Mapa1 X:58 Y:47
+10/04/2008 21:16:32 Transportó a About hacia Mapa1 X:60 Y:45
+10/04/2008 21:16:32 Transportó a About hacia Mapa1 X:59 Y:47
+10/04/2008 21:16:32 Transportó a About hacia Mapa1 X:58 Y:48
+10/04/2008 21:16:33 Transportó a About hacia Mapa1 X:58 Y:49
+10/04/2008 21:16:33 Transportó a About hacia Mapa1 X:58 Y:50
+10/04/2008 21:16:33 Transportó a About hacia Mapa1 X:58 Y:50
+10/04/2008 21:16:33 Transportó a About hacia Mapa1 X:59 Y:49
+10/04/2008 21:16:33 Transportó a About hacia Mapa1 X:59 Y:48
+10/04/2008 21:16:33 Transportó a About hacia Mapa1 X:59 Y:47
+10/04/2008 21:16:33 Transportó a About hacia Mapa1 X:59 Y:46
+10/04/2008 21:16:33 Transportó a About hacia Mapa1 X:58 Y:45
+10/04/2008 21:16:33 Transportó a About hacia Mapa1 X:57 Y:45
+10/04/2008 21:16:34 Transportó a About hacia Mapa1 X:57 Y:45
+10/04/2008 21:16:34 Transportó a About hacia Mapa1 X:59 Y:46
+10/04/2008 21:16:34 Transportó a About hacia Mapa1 X:62 Y:47
+10/04/2008 21:16:34 Transportó a About hacia Mapa1 X:64 Y:48
+10/04/2008 21:16:34 Transportó a About hacia Mapa1 X:63 Y:48
+10/04/2008 21:16:34 Transportó a About hacia Mapa1 X:63 Y:46
+10/04/2008 21:16:34 Transportó a About hacia Mapa1 X:64 Y:45
+10/04/2008 21:16:34 Transportó a About hacia Mapa1 X:65 Y:45
+10/04/2008 21:16:35 Transportó a About hacia Mapa1 X:62 Y:46
+10/04/2008 21:16:35 Transportó a About hacia Mapa1 X:59 Y:47
+10/04/2008 21:16:36 Transportó a About hacia Mapa1 X:57 Y:47
+10/04/2008 21:16:36 Transportó a About hacia Mapa1 X:55 Y:47
+10/04/2008 21:16:36 Transportó a About hacia Mapa1 X:55 Y:47
+10/04/2008 21:16:36 Transportó a About hacia Mapa1 X:57 Y:47
+10/04/2008 21:16:36 Transportó a About hacia Mapa1 X:59 Y:48
+10/04/2008 21:16:36 Transportó a About hacia Mapa1 X:60 Y:49
+10/04/2008 21:16:36 Transportó a About hacia Mapa1 X:59 Y:49
+10/04/2008 21:16:36 Transportó a About hacia Mapa1 X:59 Y:47
+10/04/2008 21:16:37 Transportó a About hacia Mapa1 X:60 Y:47
+10/04/2008 21:16:37 Transportó a About hacia Mapa1 X:58 Y:46
+10/04/2008 21:16:37 Transportó a About hacia Mapa1 X:60 Y:45
+10/04/2008 21:16:37 Transportó a About hacia Mapa1 X:62 Y:46
+10/04/2008 21:16:37 Transportó a About hacia Mapa1 X:64 Y:47
+10/04/2008 21:16:37 Transportó a About hacia Mapa1 X:65 Y:45
+10/04/2008 21:16:37 Transportó a About hacia Mapa1 X:62 Y:46
+10/04/2008 21:16:38 Transportó a About hacia Mapa1 X:64 Y:48
+10/04/2008 21:16:38 Transportó a About hacia Mapa1 X:62 Y:46
+10/04/2008 21:16:38 Transportó a About hacia Mapa1 X:61 Y:48
+10/04/2008 21:16:38 Transportó a About hacia Mapa1 X:60 Y:46
+10/04/2008 21:16:38 Transportó a About hacia Mapa1 X:57 Y:45
+10/04/2008 21:16:38 Transportó a About hacia Mapa1 X:56 Y:47
+10/04/2008 21:16:38 Transportó a About hacia Mapa1 X:55 Y:49
+10/04/2008 21:16:38 Transportó a About hacia Mapa1 X:61 Y:47
+10/04/2008 21:16:38 Transportó a About hacia Mapa1 X:68 Y:48
+10/04/2008 21:16:39 Transportó a About hacia Mapa1 X:72 Y:50
+10/04/2008 21:16:39 Transportó a About hacia Mapa1 X:72 Y:48
+10/04/2008 21:16:39 Transportó a About hacia Mapa1 X:70 Y:46
+10/04/2008 21:16:39 Transportó a About hacia Mapa1 X:68 Y:46
+10/04/2008 21:16:39 Transportó a About hacia Mapa1 X:66 Y:48
+10/04/2008 21:16:39 Transportó a About hacia Mapa1 X:63 Y:51
+10/04/2008 21:16:39 Transportó a About hacia Mapa1 X:60 Y:53
+10/04/2008 21:16:40 Transportó a About hacia Mapa1 X:58 Y:53
+10/04/2008 21:16:41 Transportó a About hacia Mapa1 X:62 Y:51
+10/04/2008 21:16:41 Transportó a About hacia Mapa1 X:65 Y:48
+10/04/2008 21:16:41 Transportó a About hacia Mapa1 X:66 Y:45
+10/04/2008 21:16:41 Transportó a About hacia Mapa1 X:65 Y:43
+10/04/2008 21:16:41 Transportó a About hacia Mapa1 X:63 Y:42
+10/04/2008 21:16:41 Transportó a About hacia Mapa1 X:60 Y:42
+10/04/2008 21:16:42 Transportó a About hacia Mapa1 X:60 Y:44
+10/04/2008 21:16:42 Transportó a About hacia Mapa1 X:61 Y:46
+10/04/2008 21:16:42 Transportó a About hacia Mapa1 X:63 Y:49
+10/04/2008 21:16:42 Transportó a About hacia Mapa1 X:64 Y:51
+10/04/2008 21:16:42 Transportó a About hacia Mapa1 X:58 Y:50
+10/04/2008 21:16:42 Transportó a About hacia Mapa1 X:53 Y:48
+10/04/2008 21:16:43 Transportó a About hacia Mapa1 X:52 Y:45
+10/04/2008 21:16:43 Transportó a About hacia Mapa1 X:54 Y:44
+10/04/2008 21:16:43 Transportó a About hacia Mapa1 X:57 Y:47
+25/05/2008 22:23:51 Se conecto con ip:127.0.0.1
+25/05/2008 22:23:52 Transportó a About hacia Mapa10 X:52 Y:48
+25/05/2008 22:23:52 Transportó a About hacia Mapa10 X:49 Y:49
+25/05/2008 22:23:52 Transportó a About hacia Mapa10 X:46 Y:51
+25/05/2008 22:23:53 Transportó a About hacia Mapa10 X:44 Y:53
+25/05/2008 22:23:53 Transportó a About hacia Mapa10 X:42 Y:55
+25/05/2008 22:23:53 Transportó a About hacia Mapa10 X:41 Y:57
+25/05/2008 22:23:53 Transportó a About hacia Mapa10 X:39 Y:54
+25/05/2008 22:23:53 Transportó a About hacia Mapa10 X:36 Y:50
+25/05/2008 22:23:54 Transportó a About hacia Mapa10 X:33 Y:46
+25/05/2008 22:23:54 Transportó a About hacia Mapa10 X:31 Y:42
+25/05/2008 22:24:12 Transportó a About hacia Mapa25 X:67 Y:51
+25/05/2008 22:24:12 Transportó a About hacia Mapa25 X:63 Y:51
+25/05/2008 22:24:13 Transportó a About hacia Mapa25 X:59 Y:51
+25/05/2008 22:24:13 Transportó a About hacia Mapa25 X:54 Y:51
+25/05/2008 22:24:13 Transportó a About hacia Mapa25 X:49 Y:51
+25/05/2008 22:24:13 Transportó a About hacia Mapa25 X:44 Y:51
+25/05/2008 22:24:13 Transportó a About hacia Mapa25 X:39 Y:51
+25/05/2008 22:24:18 Transportó a About hacia Mapa1 X:50 Y:50
+25/05/2008 22:24:26 DESLOGUEO
+25/05/2008 22:24:45 Se conecto con ip:127.0.0.1
+25/05/2008 22:24:54 DESLOGUEO
+25/05/2008 22:25:47 Se conecto con ip:127.0.0.1
+25/05/2008 22:25:59 Transportó a About hacia Mapa1 X:47 Y:49
+25/05/2008 22:25:59 Transportó a About hacia Mapa1 X:45 Y:48
+25/05/2008 22:25:59 Transportó a About hacia Mapa1 X:43 Y:46
+25/05/2008 22:26:00 Transportó a About hacia Mapa1 X:41 Y:44
+25/05/2008 22:26:09 DESLOGUEO
+25/05/2008 22:26:53 Se conecto con ip:127.0.0.1
+25/05/2008 22:27:01 DESLOGUEO
+25/05/2008 22:27:24 Se conecto con ip:127.0.0.1
+25/05/2008 22:27:29 DESLOGUEO
+25/05/2008 22:29:08 Se conecto con ip:127.0.0.1
+25/05/2008 22:29:11 Transportó a About hacia Mapa1 X:41 Y:40
+25/05/2008 22:29:12 Transportó a About hacia Mapa1 X:37 Y:38
+25/05/2008 22:29:13 Transportó a About hacia Mapa1 X:41 Y:37
+25/05/2008 22:29:16 Transportó a About hacia Mapa8 X:52 Y:55
+25/05/2008 22:29:16 Transportó a About hacia Mapa8 X:56 Y:56
+25/05/2008 22:29:16 Transportó a About hacia Mapa8 X:60 Y:58
+25/05/2008 22:29:16 Transportó a About hacia Mapa8 X:64 Y:60
+25/05/2008 22:29:16 Transportó a About hacia Mapa8 X:66 Y:62
+25/05/2008 22:29:16 Transportó a About hacia Mapa8 X:66 Y:65
+25/05/2008 22:29:19 Transportó a About hacia Mapa8 X:73 Y:64
+25/05/2008 22:29:19 Transportó a About hacia Mapa8 X:79 Y:62
+25/05/2008 22:29:20 Transportó a About hacia Mapa8 X:79 Y:58
+25/05/2008 22:29:20 Transportó a About hacia Mapa8 X:78 Y:54
+25/05/2008 22:29:20 Transportó a About hacia Mapa8 X:78 Y:50
+25/05/2008 22:29:20 Transportó a About hacia Mapa8 X:79 Y:46
+25/05/2008 22:29:21 Transportó a About hacia Mapa8 X:79 Y:43
+25/05/2008 22:29:21 Transportó a About hacia Mapa8 X:75 Y:43
+25/05/2008 22:29:21 Transportó a About hacia Mapa8 X:70 Y:43
+25/05/2008 22:29:21 Transportó a About hacia Mapa8 X:68 Y:40
+25/05/2008 22:29:23 Transportó a About hacia Mapa8 X:62 Y:38
+25/05/2008 22:29:23 Transportó a About hacia Mapa8 X:59 Y:36
+25/05/2008 22:29:23 Transportó a About hacia Mapa8 X:56 Y:34
+25/05/2008 22:29:23 Transportó a About hacia Mapa8 X:55 Y:31
+25/05/2008 22:29:23 Transportó a About hacia Mapa8 X:54 Y:28
+25/05/2008 22:29:24 Transportó a About hacia Mapa8 X:52 Y:25
+25/05/2008 22:29:24 Transportó a About hacia Mapa8 X:47 Y:24
+25/05/2008 22:29:25 Transportó a About hacia Mapa8 X:42 Y:25
+25/05/2008 22:29:25 Transportó a About hacia Mapa8 X:38 Y:26
+25/05/2008 22:29:25 Transportó a About hacia Mapa8 X:36 Y:27
+25/05/2008 22:29:25 Transportó a About hacia Mapa8 X:35 Y:30
+25/05/2008 22:29:25 Transportó a About hacia Mapa8 X:36 Y:34
+25/05/2008 22:29:26 Transportó a About hacia Mapa8 X:36 Y:38
+25/05/2008 22:29:26 Transportó a About hacia Mapa8 X:35 Y:42
+25/05/2008 22:29:26 Transportó a About hacia Mapa8 X:34 Y:46
+25/05/2008 22:29:26 Transportó a About hacia Mapa8 X:35 Y:50
+25/05/2008 22:29:26 Transportó a About hacia Mapa8 X:36 Y:54
+25/05/2008 22:29:26 Transportó a About hacia Mapa8 X:34 Y:58
+25/05/2008 22:29:27 Transportó a About hacia Mapa8 X:31 Y:62
+25/05/2008 22:29:27 Transportó a About hacia Mapa8 X:28 Y:66
+25/05/2008 22:29:27 Transportó a About hacia Mapa8 X:28 Y:70
+25/05/2008 22:29:27 Transportó a About hacia Mapa8 X:30 Y:73
+25/05/2008 22:29:27 Transportó a About hacia Mapa8 X:37 Y:71
+25/05/2008 22:29:28 Transportó a About hacia Mapa8 X:44 Y:68
+25/05/2008 22:29:28 Transportó a About hacia Mapa8 X:51 Y:65
+25/05/2008 22:29:28 Transportó a About hacia Mapa8 X:58 Y:62
+25/05/2008 22:29:28 Transportó a About hacia Mapa8 X:64 Y:63
+25/05/2008 22:29:29 Transportó a About hacia Mapa8 X:67 Y:65
+25/05/2008 22:29:30 Transportó a About hacia Mapa8 X:75 Y:65
+25/05/2008 22:29:30 Transportó a About hacia Mapa8 X:80 Y:65
+25/05/2008 22:29:39 Transportó a About hacia Mapa38 X:22 Y:66
+25/05/2008 22:29:39 Transportó a About hacia Mapa38 X:17 Y:67
+25/05/2008 22:29:39 Transportó a About hacia Mapa38 X:12 Y:67
+25/05/2008 22:29:41 Transportó a About hacia Mapa38 X:20 Y:66
+25/05/2008 22:29:42 Transportó a About hacia Mapa8 X:82 Y:65
+25/05/2008 22:29:43 Transportó a About hacia Mapa8 X:77 Y:63
+25/05/2008 22:29:43 Transportó a About hacia Mapa8 X:72 Y:61
+25/05/2008 22:29:43 Transportó a About hacia Mapa8 X:68 Y:58
+25/05/2008 22:29:43 Transportó a About hacia Mapa8 X:64 Y:54
+25/05/2008 22:29:43 Transportó a About hacia Mapa8 X:60 Y:50
+25/05/2008 22:29:43 Transportó a About hacia Mapa8 X:56 Y:46
+25/05/2008 22:29:44 Transportó a About hacia Mapa8 X:53 Y:44
+25/05/2008 22:29:45 Transportó a About hacia Mapa8 X:49 Y:46
+25/05/2008 22:29:48 Transportó a About hacia Mapa4 X:54 Y:53
+25/05/2008 22:29:48 Transportó a About hacia Mapa4 X:58 Y:54
+25/05/2008 22:29:49 Transportó a About hacia Mapa4 X:59 Y:59
+25/05/2008 22:29:49 Transportó a About hacia Mapa4 X:59 Y:62
+25/05/2008 22:29:52 Transportó a About hacia Mapa4 X:59 Y:59
+25/05/2008 22:29:52 Transportó a About hacia Mapa4 X:60 Y:55
+25/05/2008 22:29:52 Transportó a About hacia Mapa4 X:62 Y:51
+25/05/2008 22:29:52 Transportó a About hacia Mapa4 X:65 Y:48
+25/05/2008 22:29:56 Transportó a About hacia Mapa2 X:50 Y:50
+25/05/2008 22:29:57 Transportó a About hacia Mapa2 X:54 Y:51
+25/05/2008 22:29:57 Transportó a About hacia Mapa2 X:59 Y:53
+25/05/2008 22:29:57 Transportó a About hacia Mapa2 X:65 Y:55
+25/05/2008 22:29:58 Transportó a About hacia Mapa2 X:72 Y:56
+25/05/2008 22:29:58 Transportó a About hacia Mapa2 X:79 Y:57
+25/05/2008 22:29:58 Transportó a About hacia Mapa2 X:86 Y:57
+25/05/2008 22:29:58 Transportó a About hacia Mapa2 X:91 Y:55
+25/05/2008 22:29:59 Transportó a About hacia Mapa2 X:87 Y:53
+25/05/2008 22:29:59 Transportó a About hacia Mapa2 X:83 Y:51
+25/05/2008 22:30:01 DESLOGUEO
+25/05/2008 22:30:03 Se conecto con ip:127.0.0.1
+25/05/2008 22:30:07 /APAGAR
+25/05/2008 22:31:00 Se conecto con ip:127.0.0.1
+25/05/2008 22:31:07 Transportó a about hacia Mapa1 X:13 Y:53
+25/05/2008 22:31:07 Transportó a about hacia Mapa1 X:17 Y:53
+25/05/2008 22:31:08 Transportó a about hacia Mapa1 X:21 Y:53
+25/05/2008 22:31:08 Transportó a about hacia Mapa1 X:26 Y:53
+25/05/2008 22:31:09 Transportó a about hacia Mapa1 X:30 Y:57
+25/05/2008 22:31:09 Transportó a about hacia Mapa1 X:35 Y:58
+25/05/2008 22:31:09 Transportó a about hacia Mapa1 X:40 Y:59
+25/05/2008 22:31:10 Transportó a about hacia Mapa1 X:45 Y:60
+25/05/2008 22:31:10 Transportó a about hacia Mapa1 X:50 Y:61
+25/05/2008 22:31:10 Transportó a about hacia Mapa1 X:55 Y:61
+25/05/2008 22:31:14 /APAGAR
+25/05/2008 22:32:00 Se conecto con ip:127.0.0.1
+25/05/2008 22:32:04 Transportó a About hacia Mapa1 X:54 Y:62
+25/05/2008 22:32:04 Transportó a About hacia Mapa1 X:53 Y:60
+25/05/2008 22:32:04 Transportó a About hacia Mapa1 X:51 Y:58
+25/05/2008 22:32:04 Transportó a About hacia Mapa1 X:48 Y:56
+25/05/2008 22:32:05 Transportó a About hacia Mapa1 X:45 Y:55
+25/05/2008 22:32:05 Transportó a About hacia Mapa1 X:42 Y:54
+25/05/2008 22:32:05 Transportó a About hacia Mapa1 X:39 Y:53
+25/05/2008 22:32:05 Transportó a About hacia Mapa1 X:39 Y:50
+25/05/2008 22:32:05 Transportó a About hacia Mapa1 X:40 Y:47
+25/05/2008 22:32:06 Transportó a About hacia Mapa1 X:41 Y:45
+25/05/2008 22:32:06 Transportó a About hacia Mapa1 X:43 Y:43
+25/05/2008 22:32:08 Transportó a About hacia Mapa1 X:46 Y:47
+25/05/2008 22:32:08 Transportó a About hacia Mapa1 X:46 Y:47
+25/05/2008 22:32:08 Transportó a About hacia Mapa1 X:48 Y:50
+25/05/2008 22:32:08 Transportó a About hacia Mapa1 X:51 Y:53
+25/05/2008 22:32:08 Transportó a About hacia Mapa1 X:54 Y:56
+25/05/2008 22:32:09 Transportó a About hacia Mapa1 X:57 Y:59
+25/05/2008 22:32:12 DESLOGUEO
+25/05/2008 22:47:17 Se conecto con ip:127.0.0.1
+25/05/2008 22:47:22 Transportó a About hacia Mapa1 X:53 Y:62
+25/05/2008 22:47:27 Transportó a About hacia Mapa1 X:55 Y:66
+25/05/2008 22:47:27 Transportó a About hacia Mapa1 X:60 Y:63
+25/05/2008 22:47:28 Transportó a About hacia Mapa1 X:63 Y:60
+25/05/2008 22:47:28 Transportó a About hacia Mapa1 X:63 Y:56
+25/05/2008 22:47:28 Transportó a About hacia Mapa1 X:61 Y:52
+25/05/2008 22:47:28 Transportó a About hacia Mapa1 X:59 Y:48
+25/05/2008 22:47:28 Transportó a About hacia Mapa1 X:56 Y:44
+25/05/2008 22:47:29 Transportó a About hacia Mapa1 X:55 Y:40
+25/05/2008 22:47:29 Transportó a About hacia Mapa1 X:55 Y:36
+25/05/2008 22:47:29 Transportó a About hacia Mapa1 X:55 Y:32
+25/05/2008 22:47:29 Transportó a About hacia Mapa1 X:54 Y:28
+25/05/2008 22:47:29 Transportó a About hacia Mapa1 X:51 Y:24
+25/05/2008 22:47:30 Transportó a About hacia Mapa1 X:49 Y:21
+25/05/2008 22:47:30 Transportó a About hacia Mapa1 X:48 Y:19
+25/05/2008 22:47:48 Transportó a About hacia Mapa1 X:51 Y:22
+25/05/2008 22:47:49 Transportó a About hacia Mapa1 X:52 Y:25
+25/05/2008 22:47:49 Transportó a About hacia Mapa1 X:53 Y:28
+25/05/2008 22:47:49 Transportó a About hacia Mapa1 X:53 Y:31
+25/05/2008 22:47:49 Transportó a About hacia Mapa1 X:53 Y:34
+25/05/2008 22:47:49 Transportó a About hacia Mapa1 X:54 Y:37
+25/05/2008 22:47:50 Transportó a About hacia Mapa1 X:56 Y:40
+25/05/2008 22:47:50 Transportó a About hacia Mapa1 X:59 Y:43
+25/05/2008 22:47:50 Transportó a About hacia Mapa1 X:62 Y:46
+25/05/2008 22:47:50 Transportó a About hacia Mapa1 X:64 Y:49
+25/05/2008 22:47:50 Transportó a About hacia Mapa1 X:65 Y:52
+25/05/2008 22:47:50 Transportó a About hacia Mapa1 X:64 Y:55
+25/05/2008 22:47:51 Transportó a About hacia Mapa1 X:61 Y:58
+25/05/2008 22:47:51 Transportó a About hacia Mapa1 X:57 Y:61
+25/05/2008 22:47:51 Transportó a About hacia Mapa1 X:54 Y:63
+25/05/2008 22:47:51 Transportó a About hacia Mapa1 X:53 Y:63
+25/05/2008 22:47:51 Transportó a About hacia Mapa1 X:53 Y:61
+25/05/2008 22:47:51 Transportó a About hacia Mapa1 X:54 Y:59
+25/05/2008 22:47:52 Transportó a About hacia Mapa1 X:55 Y:56
+25/05/2008 22:47:52 Transportó a About hacia Mapa1 X:56 Y:53
+25/05/2008 22:47:52 Transportó a About hacia Mapa1 X:55 Y:49
+25/05/2008 22:47:52 Transportó a About hacia Mapa1 X:53 Y:45
+25/05/2008 22:47:52 Transportó a About hacia Mapa1 X:51 Y:41
+25/05/2008 22:47:53 Transportó a About hacia Mapa1 X:50 Y:36
+25/05/2008 22:47:53 Transportó a About hacia Mapa1 X:50 Y:31
+25/05/2008 22:47:53 Transportó a About hacia Mapa1 X:50 Y:26
+25/05/2008 22:47:53 Transportó a About hacia Mapa1 X:49 Y:21
+25/05/2008 22:47:53 Transportó a About hacia Mapa1 X:48 Y:17
+25/05/2008 22:47:55 Transportó a About hacia Mapa1 X:43 Y:20
+25/05/2008 22:47:55 Transportó a About hacia Mapa1 X:42 Y:23
+25/05/2008 22:47:55 Transportó a About hacia Mapa1 X:42 Y:27
+25/05/2008 22:47:55 Transportó a About hacia Mapa1 X:41 Y:31
+25/05/2008 22:47:56 Transportó a About hacia Mapa1 X:39 Y:35
+25/05/2008 22:47:56 Transportó a About hacia Mapa1 X:37 Y:39
+25/05/2008 22:47:56 Transportó a About hacia Mapa1 X:34 Y:43
+25/05/2008 22:47:57 Transportó a About hacia Mapa1 X:35 Y:45
+25/05/2008 22:47:57 Transportó a About hacia Mapa1 X:36 Y:47
+25/05/2008 22:47:57 Transportó a About hacia Mapa1 X:36 Y:50
+25/05/2008 22:47:57 Transportó a About hacia Mapa1 X:35 Y:53
+25/05/2008 22:47:57 Transportó a About hacia Mapa1 X:33 Y:55
+25/05/2008 22:47:58 Transportó a About hacia Mapa1 X:31 Y:57
+25/05/2008 22:47:58 Transportó a About hacia Mapa1 X:30 Y:59
+25/05/2008 22:47:58 Transportó a About hacia Mapa1 X:33 Y:61
+25/05/2008 22:47:58 Transportó a About hacia Mapa1 X:37 Y:63
+25/05/2008 22:47:59 Transportó a About hacia Mapa1 X:39 Y:66
+25/05/2008 22:47:59 Transportó a About hacia Mapa1 X:40 Y:69
+25/05/2008 22:47:59 Transportó a About hacia Mapa1 X:44 Y:71
+25/05/2008 22:47:59 Transportó a About hacia Mapa1 X:49 Y:73
+25/05/2008 22:47:59 Transportó a About hacia Mapa1 X:54 Y:75
+25/05/2008 22:48:00 Transportó a About hacia Mapa1 X:59 Y:77
+25/05/2008 22:48:00 Transportó a About hacia Mapa1 X:62 Y:79
+25/05/2008 22:48:00 Transportó a About hacia Mapa1 X:62 Y:81
+25/05/2008 22:48:00 Transportó a About hacia Mapa1 X:60 Y:83
+25/05/2008 22:48:00 Transportó a About hacia Mapa1 X:56 Y:85
+25/05/2008 22:48:00 Transportó a About hacia Mapa1 X:50 Y:85
+25/05/2008 22:48:01 Transportó a About hacia Mapa1 X:44 Y:83
+25/05/2008 22:48:01 Transportó a About hacia Mapa1 X:39 Y:80
+25/05/2008 22:48:01 Transportó a About hacia Mapa1 X:34 Y:76
+25/05/2008 22:48:01 Transportó a About hacia Mapa1 X:29 Y:72
+25/05/2008 22:48:01 Transportó a About hacia Mapa1 X:23 Y:67
+25/05/2008 22:48:01 Transportó a About hacia Mapa1 X:17 Y:62
+25/05/2008 22:48:02 Transportó a About hacia Mapa1 X:12 Y:57
+25/05/2008 22:48:02 Transportó a About hacia Mapa1 X:9 Y:52
+25/05/2008 22:48:06 Transportó a About hacia Mapa1 X:16 Y:46
+25/05/2008 22:48:06 Transportó a About hacia Mapa1 X:21 Y:42
+25/05/2008 22:48:06 Transportó a About hacia Mapa1 X:27 Y:38
+25/05/2008 22:48:06 Transportó a About hacia Mapa1 X:33 Y:34
+25/05/2008 22:48:07 Transportó a About hacia Mapa1 X:39 Y:30
+25/05/2008 22:48:07 Transportó a About hacia Mapa1 X:42 Y:26
+25/05/2008 22:48:07 Transportó a About hacia Mapa1 X:48 Y:24
+25/05/2008 22:48:08 Transportó a About hacia Mapa1 X:53 Y:20
+25/05/2008 22:48:22 Transportó a About hacia Mapa1 X:63 Y:12
+25/05/2008 22:48:23 Transportó a About hacia Mapa1 X:68 Y:14
+25/05/2008 22:48:23 Transportó a About hacia Mapa1 X:73 Y:16
+25/05/2008 22:48:23 Transportó a About hacia Mapa1 X:78 Y:18
+25/05/2008 22:48:23 Transportó a About hacia Mapa1 X:83 Y:21
+25/05/2008 22:48:23 Transportó a About hacia Mapa1 X:87 Y:24
+25/05/2008 22:48:23 Transportó a About hacia Mapa1 X:91 Y:27
+25/05/2008 22:48:27 Transportó a About hacia Mapa1 X:90 Y:37
+25/05/2008 22:48:27 Transportó a About hacia Mapa1 X:90 Y:41
+25/05/2008 22:48:27 Transportó a About hacia Mapa1 X:90 Y:45
+25/05/2008 22:48:27 Transportó a About hacia Mapa1 X:90 Y:49
+25/05/2008 22:48:27 Transportó a About hacia Mapa1 X:90 Y:53
+25/05/2008 22:48:32 Transportó a About hacia Mapa1 X:82 Y:56
+25/05/2008 22:48:32 Transportó a About hacia Mapa1 X:80 Y:60
+25/05/2008 22:48:32 Transportó a About hacia Mapa1 X:77 Y:64
+25/05/2008 22:48:33 Transportó a About hacia Mapa1 X:74 Y:68
+25/05/2008 22:48:33 Transportó a About hacia Mapa1 X:72 Y:72
+25/05/2008 22:48:33 Transportó a About hacia Mapa1 X:71 Y:76
+25/05/2008 22:48:33 Transportó a About hacia Mapa1 X:70 Y:80
+25/05/2008 22:48:33 Transportó a About hacia Mapa1 X:69 Y:84
+25/05/2008 22:48:33 Transportó a About hacia Mapa1 X:68 Y:88
+25/05/2008 22:48:33 Transportó a About hacia Mapa1 X:67 Y:92
+25/05/2008 22:48:47 DESLOGUEO
+25/05/2008 22:51:34 Se conecto con ip:127.0.0.1
+25/05/2008 22:51:40 Transportó a About hacia Mapa1 X:50 Y:82
+25/05/2008 22:51:40 Transportó a About hacia Mapa1 X:48 Y:80
+25/05/2008 22:51:40 Transportó a About hacia Mapa1 X:48 Y:79
+25/05/2008 22:51:40 Transportó a About hacia Mapa1 X:45 Y:77
+25/05/2008 22:51:40 Transportó a About hacia Mapa1 X:42 Y:75
+25/05/2008 22:51:41 Transportó a About hacia Mapa1 X:38 Y:73
+25/05/2008 22:51:41 Transportó a About hacia Mapa1 X:35 Y:71
+25/05/2008 22:51:47 /APAGAR
+25/05/2008 22:55:59 Se conecto con ip:127.0.0.1
+25/05/2008 22:56:04 Transportó a About hacia Mapa66 X:70 Y:60
+25/05/2008 22:56:07 Transportó a About hacia Mapa66 X:66 Y:50
+25/05/2008 22:56:07 Transportó a About hacia Mapa66 X:64 Y:47
+25/05/2008 22:56:08 Transportó a About hacia Mapa66 X:61 Y:44
+25/05/2008 22:56:08 Transportó a About hacia Mapa66 X:58 Y:41
+25/05/2008 22:56:08 Transportó a About hacia Mapa66 X:54 Y:38
+25/05/2008 22:56:08 Transportó a About hacia Mapa66 X:50 Y:36
+25/05/2008 22:56:08 Transportó a About hacia Mapa66 X:46 Y:35
+25/05/2008 22:56:09 Transportó a About hacia Mapa66 X:42 Y:35
+25/05/2008 22:56:09 Transportó a About hacia Mapa66 X:38 Y:35
+25/05/2008 22:56:09 Transportó a About hacia Mapa66 X:34 Y:35
+25/05/2008 22:56:09 Transportó a About hacia Mapa66 X:30 Y:35
+25/05/2008 22:56:10 Transportó a About hacia Mapa66 X:28 Y:36
+25/05/2008 22:56:10 Transportó a About hacia Mapa66 X:28 Y:40
+25/05/2008 22:56:10 Transportó a About hacia Mapa66 X:28 Y:44
+25/05/2008 22:56:10 Transportó a About hacia Mapa66 X:28 Y:49
+25/05/2008 22:56:10 Transportó a About hacia Mapa66 X:28 Y:54
+25/05/2008 22:56:11 Transportó a About hacia Mapa66 X:29 Y:59
+25/05/2008 22:56:11 Transportó a About hacia Mapa66 X:30 Y:64
+25/05/2008 22:56:11 Transportó a About hacia Mapa66 X:32 Y:69
+25/05/2008 22:56:11 Transportó a About hacia Mapa66 X:37 Y:72
+25/05/2008 22:56:11 Transportó a About hacia Mapa66 X:43 Y:75
+25/05/2008 22:56:12 Transportó a About hacia Mapa66 X:50 Y:77
+25/05/2008 22:56:12 Transportó a About hacia Mapa66 X:57 Y:79
+25/05/2008 22:56:12 Transportó a About hacia Mapa66 X:64 Y:81
+25/05/2008 22:56:12 Transportó a About hacia Mapa66 X:70 Y:81
+25/05/2008 22:56:12 Transportó a About hacia Mapa66 X:75 Y:79
+25/05/2008 22:56:13 Transportó a About hacia Mapa66 X:79 Y:76
+25/05/2008 22:56:13 Transportó a About hacia Mapa66 X:82 Y:72
+25/05/2008 22:56:13 Transportó a About hacia Mapa66 X:83 Y:68
+25/05/2008 22:56:13 Transportó a About hacia Mapa66 X:84 Y:64
+25/05/2008 22:56:13 Transportó a About hacia Mapa66 X:85 Y:60
+25/05/2008 22:56:13 Transportó a About hacia Mapa66 X:85 Y:55
+25/05/2008 22:56:14 Transportó a About hacia Mapa66 X:85 Y:50
+25/05/2008 22:56:14 Transportó a About hacia Mapa66 X:85 Y:45
+25/05/2008 22:56:14 Transportó a About hacia Mapa66 X:85 Y:40
+25/05/2008 22:56:14 Transportó a About hacia Mapa66 X:85 Y:35
+25/05/2008 22:56:14 Transportó a About hacia Mapa66 X:84 Y:30
+25/05/2008 22:56:15 Transportó a About hacia Mapa66 X:83 Y:25
+25/05/2008 22:56:15 Transportó a About hacia Mapa66 X:82 Y:20
+25/05/2008 22:56:15 Transportó a About hacia Mapa66 X:80 Y:15
+25/05/2008 22:56:15 Transportó a About hacia Mapa66 X:78 Y:10
+25/05/2008 22:56:16 Transportó a About hacia Mapa66 X:74 Y:10
+25/05/2008 22:56:16 Transportó a About hacia Mapa66 X:70 Y:12
+25/05/2008 22:56:16 Transportó a About hacia Mapa66 X:66 Y:14
+25/05/2008 22:56:17 Transportó a About hacia Mapa66 X:62 Y:16
+25/05/2008 22:56:17 Transportó a About hacia Mapa66 X:58 Y:18
+25/05/2008 22:56:17 Transportó a About hacia Mapa66 X:53 Y:20
+25/05/2008 22:56:17 Transportó a About hacia Mapa66 X:48 Y:22
+25/05/2008 22:56:17 Transportó a About hacia Mapa66 X:43 Y:24
+25/05/2008 22:56:22 Transportó a About hacia Mapa67 X:50 Y:50
+25/05/2008 22:56:26 DESLOGUEO
+25/05/2008 22:56:47 Se conecto con ip:127.0.0.1
+25/05/2008 22:56:51 DESLOGUEO
+25/05/2008 22:57:09 Se conecto con ip:127.0.0.1
+25/05/2008 22:57:12 DESLOGUEO
+25/05/2008 22:57:32 Se conecto con ip:127.0.0.1
+25/05/2008 22:57:32 DESLOGUEO
+25/05/2008 22:57:34 Se conecto con ip:127.0.0.1
+25/05/2008 22:57:34 DESLOGUEO
+25/05/2008 22:57:41 Se conecto con ip:127.0.0.1
+25/05/2008 22:57:41 DESLOGUEO
+25/05/2008 22:57:42 Se conecto con ip:127.0.0.1
+25/05/2008 22:57:45 DESLOGUEO
+25/05/2008 22:58:04 Se conecto con ip:127.0.0.1
+25/05/2008 22:58:05 DESLOGUEO
+25/05/2008 23:01:20 Se conecto con ip:127.0.0.1
+25/05/2008 23:01:23 Transportó a about hacia Mapa1 X:24 Y:38
+25/05/2008 23:01:23 Transportó a about hacia Mapa1 X:27 Y:36
+25/05/2008 23:01:53 Transportó a about hacia Mapa1 X:26 Y:34
+25/05/2008 23:01:53 Transportó a about hacia Mapa1 X:29 Y:30
+25/05/2008 23:01:53 Transportó a about hacia Mapa1 X:34 Y:27
+25/05/2008 23:01:53 Transportó a about hacia Mapa1 X:39 Y:24
+25/05/2008 23:01:54 Transportó a about hacia Mapa1 X:45 Y:21
+25/05/2008 23:01:54 Transportó a about hacia Mapa1 X:47 Y:18
+25/05/2008 23:02:03 Transportó a about hacia Mapa2 X:50 Y:50
+25/05/2008 23:02:07 Transportó a about hacia Mapa3 X:50 Y:50
+25/05/2008 23:02:07 Transportó a about hacia Mapa3 X:53 Y:51
+25/05/2008 23:02:08 Transportó a about hacia Mapa3 X:56 Y:50
+25/05/2008 23:02:08 Transportó a about hacia Mapa3 X:57 Y:48
+25/05/2008 23:02:08 Transportó a about hacia Mapa3 X:56 Y:45
+25/05/2008 23:02:08 Transportó a about hacia Mapa3 X:57 Y:42
+25/05/2008 23:02:08 Transportó a about hacia Mapa3 X:62 Y:41
+25/05/2008 23:02:08 Transportó a about hacia Mapa3 X:68 Y:40
+25/05/2008 23:02:09 Transportó a about hacia Mapa3 X:74 Y:40
+25/05/2008 23:02:09 Transportó a about hacia Mapa3 X:80 Y:41
+25/05/2008 23:02:12 Transportó a about hacia Mapa4 X:50 Y:50
+25/05/2008 23:02:18 Transportó a about hacia Mapa5 X:50 Y:50
+25/05/2008 23:02:31 Transportó a about hacia Mapa5 X:41 Y:58
+25/05/2008 23:02:31 Transportó a about hacia Mapa5 X:41 Y:54
+25/05/2008 23:02:31 Transportó a about hacia Mapa5 X:40 Y:50
+25/05/2008 23:02:32 Transportó a about hacia Mapa5 X:40 Y:46
+25/05/2008 23:02:32 Transportó a about hacia Mapa5 X:41 Y:43
+25/05/2008 23:02:32 Transportó a about hacia Mapa5 X:43 Y:41
+25/05/2008 23:02:32 Transportó a about hacia Mapa5 X:45 Y:40
+25/05/2008 23:08:13 Transportó a about hacia Mapa6 X:55 Y:55
+25/05/2008 23:08:14 Transportó a about hacia Mapa6 X:58 Y:53
+25/05/2008 23:08:14 Transportó a about hacia Mapa6 X:62 Y:50
+25/05/2008 23:08:14 Transportó a about hacia Mapa6 X:67 Y:47
+25/05/2008 23:08:14 Transportó a about hacia Mapa6 X:73 Y:44
+25/05/2008 23:08:15 Transportó a about hacia Mapa6 X:79 Y:42
+25/05/2008 23:08:15 Transportó a about hacia Mapa6 X:85 Y:42
+25/05/2008 23:08:15 Transportó a about hacia Mapa6 X:91 Y:42
+25/05/2008 23:08:16 Transportó a about hacia Mapa6 X:87 Y:41
+25/05/2008 23:08:16 Transportó a about hacia Mapa6 X:83 Y:40
+25/05/2008 23:08:17 Transportó a about hacia Mapa6 X:78 Y:39
+25/05/2008 23:08:17 Transportó a about hacia Mapa6 X:73 Y:38
+25/05/2008 23:08:17 Transportó a about hacia Mapa6 X:68 Y:37
+25/05/2008 23:08:17 Transportó a about hacia Mapa6 X:62 Y:36
+25/05/2008 23:08:17 Transportó a about hacia Mapa6 X:56 Y:35
+25/05/2008 23:08:22 Transportó a about hacia Mapa6 X:52 Y:35
+25/05/2008 23:08:22 Transportó a about hacia Mapa6 X:48 Y:35
+25/05/2008 23:08:23 Transportó a about hacia Mapa6 X:44 Y:36
+25/05/2008 23:08:23 Transportó a about hacia Mapa6 X:41 Y:37
+25/05/2008 23:08:23 Transportó a about hacia Mapa6 X:37 Y:38
+25/05/2008 23:08:23 Transportó a about hacia Mapa6 X:32 Y:37
+25/05/2008 23:08:23 Transportó a about hacia Mapa6 X:28 Y:35
+25/05/2008 23:08:24 Transportó a about hacia Mapa6 X:35 Y:30
+25/05/2008 23:08:24 Transportó a about hacia Mapa6 X:40 Y:27
+25/05/2008 23:08:25 Transportó a about hacia Mapa6 X:41 Y:24
+25/05/2008 23:08:27 Transportó a about hacia Mapa6 X:39 Y:25
+25/05/2008 23:08:27 Transportó a about hacia Mapa6 X:39 Y:28
+25/05/2008 23:08:27 Transportó a about hacia Mapa6 X:38 Y:31
+25/05/2008 23:08:27 Transportó a about hacia Mapa6 X:37 Y:34
+25/05/2008 23:08:27 Transportó a about hacia Mapa6 X:36 Y:37
+25/05/2008 23:08:27 Transportó a about hacia Mapa6 X:35 Y:40
+25/05/2008 23:08:28 Transportó a about hacia Mapa6 X:34 Y:43
+25/05/2008 23:08:28 Transportó a about hacia Mapa6 X:32 Y:46
+25/05/2008 23:08:33 Transportó a about hacia Mapa7 X:55 Y:55
+25/05/2008 23:08:34 Transportó a about hacia Mapa7 X:54 Y:52
+25/05/2008 23:08:34 Transportó a about hacia Mapa7 X:53 Y:49
+25/05/2008 23:08:34 Transportó a about hacia Mapa7 X:52 Y:46
+25/05/2008 23:08:35 Transportó a about hacia Mapa7 X:49 Y:44
+25/05/2008 23:08:35 Transportó a about hacia Mapa7 X:45 Y:42
+25/05/2008 23:08:35 Transportó a about hacia Mapa7 X:41 Y:39
+25/05/2008 23:08:35 Transportó a about hacia Mapa7 X:38 Y:36
+25/05/2008 23:08:35 Transportó a about hacia Mapa7 X:38 Y:33
+25/05/2008 23:08:36 Transportó a about hacia Mapa7 X:39 Y:30
+25/05/2008 23:08:36 Transportó a about hacia Mapa7 X:42 Y:28
+25/05/2008 23:08:36 Transportó a about hacia Mapa7 X:45 Y:28
+25/05/2008 23:08:36 Transportó a about hacia Mapa7 X:48 Y:29
+25/05/2008 23:08:36 Transportó a about hacia Mapa7 X:49 Y:30
+25/05/2008 23:08:37 Transportó a about hacia Mapa7 X:50 Y:31
+25/05/2008 23:08:37 Transportó a about hacia Mapa7 X:47 Y:30
+25/05/2008 23:08:38 Transportó a about hacia Mapa7 X:43 Y:29
+25/05/2008 23:08:38 Transportó a about hacia Mapa7 X:43 Y:31
+25/05/2008 23:08:38 Transportó a about hacia Mapa7 X:44 Y:33
+25/05/2008 23:08:38 Transportó a about hacia Mapa7 X:46 Y:35
+25/05/2008 23:08:39 Transportó a about hacia Mapa7 X:39 Y:37
+25/05/2008 23:08:40 Transportó a about hacia Mapa7 X:34 Y:38
+25/05/2008 23:08:42 Transportó a about hacia Mapa7 X:28 Y:32
+25/05/2008 23:08:42 Transportó a about hacia Mapa7 X:24 Y:28
+25/05/2008 23:08:44 Transportó a about hacia Mapa7 X:29 Y:38
+25/05/2008 23:08:48 Transportó a about hacia Mapa8 X:55 Y:55
+25/05/2008 23:08:49 Transportó a about hacia Mapa8 X:51 Y:52
+25/05/2008 23:10:44 Transportó a about hacia Mapa118 X:50 Y:50
+25/05/2008 23:10:46 DESLOGUEO
+25/05/2008 23:21:00 Se conecto con ip:127.0.0.1
+25/05/2008 23:21:04 Transportó a about hacia Mapa118 X:48 Y:42
+25/05/2008 23:21:04 Transportó a about hacia Mapa118 X:46 Y:40
+25/05/2008 23:21:04 Transportó a about hacia Mapa118 X:43 Y:38
+25/05/2008 23:21:04 Transportó a about hacia Mapa118 X:40 Y:35
+25/05/2008 23:21:06 DESLOGUEO
+25/05/2008 23:24:27 Se conecto con ip:127.0.0.1
+25/05/2008 23:24:33 Transportó a about hacia Mapa118 X:37 Y:32
+25/05/2008 23:24:33 Transportó a about hacia Mapa118 X:33 Y:29
+25/05/2008 23:24:33 Transportó a about hacia Mapa118 X:29 Y:26
+25/05/2008 23:24:33 Transportó a about hacia Mapa118 X:26 Y:23
+25/05/2008 23:24:33 Transportó a about hacia Mapa118 X:22 Y:20
+25/05/2008 23:24:37 /APAGAR
+25/05/2008 23:25:56 Se conecto con ip:127.0.0.1
+25/05/2008 23:26:04 Transportó a about hacia Mapa118 X:21 Y:17
+25/05/2008 23:26:12 Transportó a about hacia Mapa1 X:50 Y:50
+25/05/2008 23:26:13 Transportó a about hacia Mapa1 X:53 Y:52
+25/05/2008 23:26:13 Transportó a about hacia Mapa1 X:55 Y:54
+25/05/2008 23:26:13 Transportó a about hacia Mapa1 X:56 Y:56
+25/05/2008 23:26:13 Transportó a about hacia Mapa1 X:57 Y:59
+25/05/2008 23:26:13 Transportó a about hacia Mapa1 X:58 Y:62
+25/05/2008 23:26:14 Transportó a about hacia Mapa1 X:58 Y:65
+25/05/2008 23:26:14 Transportó a about hacia Mapa1 X:58 Y:68
+25/05/2008 23:26:14 Transportó a about hacia Mapa1 X:58 Y:71
+25/05/2008 23:26:17 Transportó a about hacia Mapa1 X:57 Y:73
+25/05/2008 23:26:17 Transportó a about hacia Mapa1 X:54 Y:71
+25/05/2008 23:26:17 Transportó a about hacia Mapa1 X:51 Y:69
+25/05/2008 23:26:17 Transportó a about hacia Mapa1 X:49 Y:67
+25/05/2008 23:26:17 Transportó a about hacia Mapa1 X:49 Y:64
+25/05/2008 23:26:18 Transportó a about hacia Mapa1 X:48 Y:61
+25/05/2008 23:26:18 Transportó a about hacia Mapa1 X:46 Y:59
+25/05/2008 23:26:18 Transportó a about hacia Mapa1 X:43 Y:57
+25/05/2008 23:26:19 Transportó a about hacia Mapa1 X:40 Y:55
+25/05/2008 23:26:19 Transportó a about hacia Mapa1 X:43 Y:53
+25/05/2008 23:26:19 Transportó a about hacia Mapa1 X:47 Y:53
+25/05/2008 23:26:19 Transportó a about hacia Mapa1 X:51 Y:54
+25/05/2008 23:26:19 Transportó a about hacia Mapa1 X:53 Y:56
+25/05/2008 23:26:20 Transportó a about hacia Mapa1 X:54 Y:59
+25/05/2008 23:26:20 Transportó a about hacia Mapa1 X:53 Y:62
+25/05/2008 23:26:20 Transportó a about hacia Mapa1 X:52 Y:65
+25/05/2008 23:26:20 Transportó a about hacia Mapa1 X:51 Y:68
+25/05/2008 23:26:20 Transportó a about hacia Mapa1 X:50 Y:71
+25/05/2008 23:26:30 Transportó a about hacia Mapa1 X:48 Y:64
+25/05/2008 23:26:30 Transportó a about hacia Mapa1 X:48 Y:61
+25/05/2008 23:26:32 Transportó a about hacia Mapa1 X:49 Y:57
+25/05/2008 23:26:32 Transportó a about hacia Mapa1 X:49 Y:56
+25/05/2008 23:26:33 Transportó a about hacia Mapa1 X:49 Y:55
+25/05/2008 23:26:33 Transportó a about hacia Mapa1 X:49 Y:54
+25/05/2008 23:26:33 Transportó a about hacia Mapa1 X:49 Y:53
+25/05/2008 23:26:33 Transportó a about hacia Mapa1 X:49 Y:52
+25/05/2008 23:26:45 Transportó a about hacia Mapa1 X:53 Y:58
+25/05/2008 23:26:46 Transportó a about hacia Mapa1 X:54 Y:63
+25/05/2008 23:26:46 Transportó a about hacia Mapa1 X:55 Y:68
+25/05/2008 23:27:03 Transportó a about hacia Mapa1 X:64 Y:67
+25/05/2008 23:27:04 Transportó a about hacia Mapa1 X:59 Y:66
+25/05/2008 23:27:04 Transportó a about hacia Mapa1 X:56 Y:66
+25/05/2008 23:27:05 Transportó a about hacia Mapa1 X:52 Y:66
+25/05/2008 23:27:07 Transportó a about hacia Mapa1 X:44 Y:64
+25/05/2008 23:27:07 Transportó a about hacia Mapa1 X:44 Y:62
+25/05/2008 23:27:17 Transportó a about hacia Mapa67 X:60 Y:50
+25/05/2008 23:27:18 Transportó a about hacia Mapa67 X:57 Y:48
+25/05/2008 23:27:19 Transportó a about hacia Mapa67 X:53 Y:48
+25/05/2008 23:27:19 Transportó a about hacia Mapa67 X:49 Y:48
+25/05/2008 23:27:19 Transportó a about hacia Mapa67 X:46 Y:48
+25/05/2008 23:27:19 Transportó a about hacia Mapa67 X:46 Y:48
+25/05/2008 23:27:19 Transportó a about hacia Mapa67 X:48 Y:48
+25/05/2008 23:27:19 Transportó a about hacia Mapa67 X:52 Y:48
+25/05/2008 23:27:20 Transportó a about hacia Mapa67 X:55 Y:50
+25/05/2008 23:27:20 Transportó a about hacia Mapa67 X:57 Y:54
+25/05/2008 23:27:20 Transportó a about hacia Mapa67 X:58 Y:58
+25/05/2008 23:27:20 Transportó a about hacia Mapa67 X:59 Y:62
+25/05/2008 23:27:20 Transportó a about hacia Mapa67 X:59 Y:66
+25/05/2008 23:27:20 Transportó a about hacia Mapa67 X:59 Y:70
+25/05/2008 23:27:56 Transportó a about hacia Mapa67 X:59 Y:72
+25/05/2008 23:27:59 Transportó a about hacia Mapa10 X:80 Y:50
+25/05/2008 23:28:50 Se conecto con ip:127.0.0.1
+25/05/2008 23:28:50 DESLOGUEO
+25/05/2008 23:28:52 Se conecto con ip:127.0.0.1
+25/05/2008 23:28:52 DESLOGUEO
+25/05/2008 23:28:55 Se conecto con ip:127.0.0.1
+25/05/2008 23:28:55 DESLOGUEO
+25/05/2008 23:29:01 Se conecto con ip:127.0.0.1
+25/05/2008 23:29:01 DESLOGUEO
+25/05/2008 23:30:04 Se conecto con ip:127.0.0.1
+25/05/2008 23:30:06 Transportó a about hacia Mapa10 X:75 Y:50
+25/05/2008 23:30:07 Transportó a about hacia Mapa10 X:70 Y:50
+25/05/2008 23:30:07 Transportó a about hacia Mapa10 X:65 Y:50
+25/05/2008 23:30:07 Transportó a about hacia Mapa10 X:60 Y:50
+25/05/2008 23:30:07 Transportó a about hacia Mapa10 X:56 Y:51
+25/05/2008 23:30:07 Transportó a about hacia Mapa10 X:52 Y:51
+25/05/2008 23:30:08 Transportó a about hacia Mapa10 X:48 Y:51
+25/05/2008 23:30:08 Transportó a about hacia Mapa10 X:44 Y:51
+25/05/2008 23:30:08 Transportó a about hacia Mapa10 X:40 Y:51
+25/05/2008 23:30:08 Transportó a about hacia Mapa10 X:36 Y:50
+25/05/2008 23:30:14 Transportó a about hacia Mapa10 X:32 Y:35
+25/05/2008 23:30:14 Transportó a about hacia Mapa10 X:29 Y:35
+25/05/2008 23:30:14 Transportó a about hacia Mapa10 X:26 Y:35
+25/05/2008 23:30:15 Transportó a about hacia Mapa10 X:23 Y:35
+25/05/2008 23:30:16 Transportó a about hacia Mapa10 X:28 Y:28
+25/05/2008 23:30:54 Transportó a about hacia Mapa44 X:28 Y:49
+25/05/2008 23:30:54 Transportó a about hacia Mapa44 X:34 Y:48
+25/05/2008 23:30:55 Transportó a about hacia Mapa44 X:39 Y:53
+25/05/2008 23:30:57 Transportó a about hacia Mapa35 X:34 Y:58
+25/05/2008 23:30:57 Transportó a about hacia Mapa35 X:35 Y:62
+25/05/2008 23:30:57 Transportó a about hacia Mapa35 X:36 Y:66
+25/05/2008 23:30:57 Transportó a about hacia Mapa35 X:37 Y:70
+25/05/2008 23:30:58 Transportó a about hacia Mapa35 X:38 Y:74
+25/05/2008 23:30:58 Transportó a about hacia Mapa35 X:39 Y:78
+25/05/2008 23:30:58 Transportó a about hacia Mapa35 X:39 Y:82
+25/05/2008 23:30:58 Transportó a about hacia Mapa35 X:39 Y:86
+25/05/2008 23:30:58 Transportó a about hacia Mapa35 X:37 Y:90
+25/05/2008 23:30:58 Transportó a about hacia Mapa35 X:35 Y:94
+25/05/2008 23:30:59 Transportó a about hacia Mapa43 X:34 Y:12
+25/05/2008 23:30:59 Transportó a about hacia Mapa43 X:33 Y:17
+25/05/2008 23:31:00 Transportó a about hacia Mapa43 X:37 Y:21
+25/05/2008 23:31:00 Transportó a about hacia Mapa43 X:41 Y:22
+25/05/2008 23:31:00 Transportó a about hacia Mapa43 X:45 Y:24
+25/05/2008 23:31:00 Transportó a about hacia Mapa43 X:49 Y:26
+25/05/2008 23:31:01 Transportó a about hacia Mapa43 X:53 Y:28
+25/05/2008 23:31:01 Transportó a about hacia Mapa43 X:56 Y:30
+25/05/2008 23:31:01 Transportó a about hacia Mapa43 X:57 Y:33
+25/05/2008 23:31:01 Transportó a about hacia Mapa43 X:57 Y:36
+25/05/2008 23:31:02 Transportó a about hacia Mapa43 X:59 Y:37
+25/05/2008 23:31:02 Transportó a about hacia Mapa43 X:62 Y:39
+25/05/2008 23:31:02 Transportó a about hacia Mapa43 X:64 Y:41
+25/05/2008 23:31:02 Transportó a about hacia Mapa43 X:65 Y:43
+25/05/2008 23:31:02 Transportó a about hacia Mapa43 X:65 Y:45
+25/05/2008 23:31:02 Transportó a about hacia Mapa43 X:64 Y:47
+25/05/2008 23:31:03 Transportó a about hacia Mapa43 X:63 Y:49
+25/05/2008 23:31:03 Transportó a about hacia Mapa43 X:61 Y:51
+25/05/2008 23:31:03 Transportó a about hacia Mapa43 X:60 Y:53
+25/05/2008 23:31:03 Transportó a about hacia Mapa43 X:60 Y:55
+25/05/2008 23:31:03 Transportó a about hacia Mapa43 X:60 Y:57
+25/05/2008 23:31:04 Transportó a about hacia Mapa43 X:59 Y:56
+25/05/2008 23:31:04 Transportó a about hacia Mapa43 X:57 Y:55
+25/05/2008 23:31:04 Transportó a about hacia Mapa43 X:55 Y:54
+25/05/2008 23:31:04 Transportó a about hacia Mapa43 X:53 Y:53
+25/05/2008 23:31:05 Transportó a about hacia Mapa43 X:52 Y:52
+25/05/2008 23:31:05 Transportó a about hacia Mapa43 X:52 Y:50
+25/05/2008 23:31:05 Transportó a about hacia Mapa43 X:52 Y:48
+25/05/2008 23:31:05 Transportó a about hacia Mapa43 X:53 Y:46
+25/05/2008 23:31:05 Transportó a about hacia Mapa43 X:55 Y:44
+25/05/2008 23:31:05 Transportó a about hacia Mapa43 X:58 Y:42
+25/05/2008 23:31:06 Transportó a about hacia Mapa43 X:62 Y:40
+25/05/2008 23:31:06 Transportó a about hacia Mapa43 X:62 Y:36
+25/05/2008 23:31:06 Transportó a about hacia Mapa43 X:61 Y:32
+25/05/2008 23:31:06 Transportó a about hacia Mapa43 X:60 Y:28
+25/05/2008 23:31:07 Transportó a about hacia Mapa43 X:59 Y:24
+25/05/2008 23:31:08 Transportó a about hacia Mapa43 X:57 Y:21
+25/05/2008 23:31:19 Transportó a about hacia Mapa43 X:37 Y:52
+25/05/2008 23:31:19 Transportó a about hacia Mapa43 X:42 Y:52
+25/05/2008 23:31:20 Transportó a about hacia Mapa43 X:43 Y:52
+25/05/2008 23:31:20 Transportó a about hacia Mapa43 X:58 Y:31
+25/05/2008 23:31:21 Transportó a about hacia Mapa43 X:56 Y:27
+25/05/2008 23:31:21 Transportó a about hacia Mapa43 X:54 Y:22
+25/05/2008 23:31:21 Transportó a about hacia Mapa43 X:52 Y:17
+25/05/2008 23:31:21 Transportó a about hacia Mapa43 X:49 Y:13
+25/05/2008 23:31:21 Transportó a about hacia Mapa43 X:43 Y:12
+25/05/2008 23:31:21 Transportó a about hacia Mapa43 X:37 Y:12
+25/05/2008 23:31:22 Transportó a about hacia Mapa43 X:32 Y:13
+25/05/2008 23:31:22 Transportó a about hacia Mapa43 X:33 Y:9
+25/05/2008 23:31:24 Transportó a about hacia Mapa35 X:33 Y:88
+25/05/2008 23:31:24 Transportó a about hacia Mapa35 X:33 Y:86
+25/05/2008 23:31:24 Transportó a about hacia Mapa35 X:33 Y:86
+25/05/2008 23:31:24 Transportó a about hacia Mapa35 X:33 Y:83
+25/05/2008 23:31:24 Transportó a about hacia Mapa35 X:33 Y:83
+25/05/2008 23:31:25 Transportó a about hacia Mapa35 X:33 Y:80
+25/05/2008 23:31:25 Transportó a about hacia Mapa35 X:33 Y:77
+25/05/2008 23:31:25 Transportó a about hacia Mapa35 X:33 Y:73
+25/05/2008 23:31:25 Transportó a about hacia Mapa35 X:33 Y:69
+25/05/2008 23:31:25 Transportó a about hacia Mapa35 X:34 Y:66
+25/05/2008 23:31:27 Transportó a about hacia Mapa35 X:33 Y:59
+25/05/2008 23:31:27 Transportó a about hacia Mapa35 X:33 Y:57
+25/05/2008 23:31:27 Transportó a about hacia Mapa35 X:34 Y:55
+25/05/2008 23:31:37 Transportó a about hacia Mapa35 X:32 Y:52
+25/05/2008 23:31:37 Transportó a about hacia Mapa35 X:31 Y:56
+25/05/2008 23:31:38 Transportó a about hacia Mapa35 X:28 Y:59
+25/05/2008 23:31:38 Transportó a about hacia Mapa35 X:24 Y:61
+25/05/2008 23:31:38 Transportó a about hacia Mapa35 X:20 Y:61
+25/05/2008 23:31:38 Transportó a about hacia Mapa35 X:15 Y:58
+25/05/2008 23:31:39 Transportó a about hacia Mapa35 X:9 Y:56
+25/05/2008 23:31:40 Transportó a about hacia Mapa35 X:13 Y:56
+25/05/2008 23:32:11 Transportó a about hacia Mapa25 X:76 Y:51
+25/05/2008 23:32:11 Transportó a about hacia Mapa25 X:73 Y:51
+25/05/2008 23:32:11 Transportó a about hacia Mapa25 X:70 Y:51
+25/05/2008 23:32:11 Transportó a about hacia Mapa25 X:67 Y:51
+25/05/2008 23:32:11 Transportó a about hacia Mapa25 X:63 Y:51
+25/05/2008 23:32:11 Transportó a about hacia Mapa25 X:59 Y:51
+25/05/2008 23:32:12 Transportó a about hacia Mapa25 X:55 Y:51
+25/05/2008 23:32:12 Transportó a about hacia Mapa25 X:51 Y:51
+25/05/2008 23:32:13 Transportó a about hacia Mapa25 X:51 Y:44
+25/05/2008 23:32:14 Transportó a about hacia Mapa25 X:51 Y:41
+25/05/2008 23:32:14 Transportó a about hacia Mapa25 X:51 Y:38
+25/05/2008 23:32:14 Transportó a about hacia Mapa25 X:52 Y:34
+25/05/2008 23:32:14 Transportó a about hacia Mapa25 X:53 Y:30
+25/05/2008 23:32:14 Transportó a about hacia Mapa25 X:54 Y:26
+25/05/2008 23:32:15 Transportó a about hacia Mapa25 X:54 Y:22
+25/05/2008 23:32:15 Transportó a about hacia Mapa25 X:52 Y:18
+25/05/2008 23:32:15 Transportó a about hacia Mapa25 X:49 Y:14
+25/05/2008 23:32:15 Transportó a about hacia Mapa25 X:46 Y:10
+25/05/2008 23:32:16 Transportó a about hacia Mapa25 X:49 Y:11
+25/05/2008 23:32:20 Transportó a about hacia Mapa25 X:49 Y:15
+25/05/2008 23:32:20 Transportó a about hacia Mapa25 X:49 Y:18
+25/05/2008 23:32:20 Transportó a about hacia Mapa25 X:49 Y:22
+25/05/2008 23:32:21 Transportó a about hacia Mapa25 X:49 Y:26
+25/05/2008 23:32:21 Transportó a about hacia Mapa25 X:49 Y:30
+25/05/2008 23:32:21 Transportó a about hacia Mapa25 X:49 Y:34
+25/05/2008 23:32:21 Transportó a about hacia Mapa25 X:49 Y:38
+25/05/2008 23:32:21 Transportó a about hacia Mapa25 X:49 Y:42
+25/05/2008 23:32:22 Transportó a about hacia Mapa25 X:49 Y:46
+25/05/2008 23:32:22 Transportó a about hacia Mapa25 X:49 Y:50
+25/05/2008 23:32:22 Transportó a about hacia Mapa25 X:49 Y:54
+25/05/2008 23:32:22 Transportó a about hacia Mapa25 X:49 Y:58
+25/05/2008 23:32:23 Transportó a about hacia Mapa25 X:49 Y:62
+25/05/2008 23:32:23 Transportó a about hacia Mapa25 X:49 Y:66
+25/05/2008 23:32:23 Transportó a about hacia Mapa25 X:49 Y:70
+25/05/2008 23:32:30 Transportó a about hacia Mapa27 X:49 Y:22
+25/05/2008 23:32:30 Transportó a about hacia Mapa27 X:50 Y:26
+25/05/2008 23:32:30 Transportó a about hacia Mapa27 X:51 Y:30
+25/05/2008 23:32:31 Transportó a about hacia Mapa27 X:53 Y:34
+25/05/2008 23:32:31 Transportó a about hacia Mapa27 X:56 Y:38
+25/05/2008 23:32:31 Transportó a about hacia Mapa27 X:59 Y:42
+25/05/2008 23:32:31 Transportó a about hacia Mapa27 X:62 Y:46
+25/05/2008 23:32:31 Transportó a about hacia Mapa27 X:65 Y:50
+25/05/2008 23:32:31 Transportó a about hacia Mapa27 X:66 Y:54
+25/05/2008 23:32:32 Transportó a about hacia Mapa27 X:66 Y:58
+25/05/2008 23:32:32 Transportó a about hacia Mapa27 X:65 Y:62
+25/05/2008 23:32:32 Transportó a about hacia Mapa27 X:64 Y:65
+25/05/2008 23:32:32 Transportó a about hacia Mapa27 X:62 Y:68
+25/05/2008 23:32:32 Transportó a about hacia Mapa27 X:60 Y:71
+25/05/2008 23:32:32 Transportó a about hacia Mapa27 X:58 Y:74
+25/05/2008 23:32:33 Transportó a about hacia Mapa27 X:56 Y:77
+25/05/2008 23:32:33 Transportó a about hacia Mapa27 X:54 Y:80
+25/05/2008 23:32:51 /LLUVIA
+25/05/2008 23:32:55 Transportó a about hacia Mapa34 X:55 Y:21
+25/05/2008 23:32:55 Transportó a about hacia Mapa34 X:54 Y:23
+25/05/2008 23:32:55 Transportó a about hacia Mapa34 X:52 Y:25
+25/05/2008 23:32:55 Transportó a about hacia Mapa34 X:47 Y:23
+25/05/2008 23:33:25 Transportó a about hacia Mapa1 X:50 Y:50
+25/05/2008 23:33:32 Transportó a about hacia Mapa97 X:50 Y:50
+25/05/2008 23:33:34 Transportó a about hacia Mapa97 X:54 Y:54
+25/05/2008 23:33:34 Transportó a about hacia Mapa97 X:57 Y:56
+25/05/2008 23:33:34 Transportó a about hacia Mapa97 X:61 Y:58
+25/05/2008 23:33:34 Transportó a about hacia Mapa97 X:65 Y:60
+25/05/2008 23:33:34 Transportó a about hacia Mapa97 X:69 Y:62
+25/05/2008 23:33:35 Transportó a about hacia Mapa97 X:73 Y:64
+25/05/2008 23:33:35 Transportó a about hacia Mapa97 X:77 Y:66
+25/05/2008 23:33:35 Transportó a about hacia Mapa97 X:82 Y:67
+25/05/2008 23:33:38 Transportó a about hacia Mapa89 X:16 Y:66
+25/05/2008 23:33:38 Transportó a about hacia Mapa89 X:19 Y:65
+25/05/2008 23:33:39 Transportó a about hacia Mapa89 X:22 Y:64
+25/05/2008 23:33:39 Transportó a about hacia Mapa89 X:25 Y:63
+25/05/2008 23:33:39 Transportó a about hacia Mapa89 X:28 Y:62
+25/05/2008 23:33:39 Transportó a about hacia Mapa89 X:31 Y:61
+25/05/2008 23:33:40 Transportó a about hacia Mapa89 X:33 Y:60
+25/05/2008 23:33:40 Transportó a about hacia Mapa89 X:35 Y:59
+25/05/2008 23:33:40 Transportó a about hacia Mapa89 X:38 Y:58
+25/05/2008 23:33:40 Transportó a about hacia Mapa89 X:42 Y:57
+25/05/2008 23:33:40 Transportó a about hacia Mapa89 X:46 Y:56
+25/05/2008 23:33:41 Transportó a about hacia Mapa89 X:49 Y:55
+25/05/2008 23:33:41 Transportó a about hacia Mapa89 X:53 Y:54
+25/05/2008 23:33:41 Transportó a about hacia Mapa89 X:57 Y:52
+25/05/2008 23:33:41 Transportó a about hacia Mapa89 X:61 Y:50
+25/05/2008 23:33:41 Transportó a about hacia Mapa89 X:64 Y:47
+25/05/2008 23:33:41 Transportó a about hacia Mapa89 X:67 Y:43
+25/05/2008 23:33:42 Transportó a about hacia Mapa89 X:70 Y:39
+25/05/2008 23:33:42 Transportó a about hacia Mapa89 X:73 Y:35
+25/05/2008 23:33:42 Transportó a about hacia Mapa89 X:77 Y:32
+25/05/2008 23:33:42 Transportó a about hacia Mapa89 X:81 Y:29
+25/05/2008 23:33:42 Transportó a about hacia Mapa89 X:85 Y:27
+25/05/2008 23:33:42 Transportó a about hacia Mapa89 X:89 Y:25
+25/05/2008 23:33:46 Transportó a about hacia Mapa89 X:89 Y:19
+25/05/2008 23:33:46 Transportó a about hacia Mapa89 X:89 Y:14
+25/05/2008 23:33:46 Transportó a about hacia Mapa89 X:89 Y:9
+25/05/2008 23:34:24 Transportó a about hacia Mapa116 X:50 Y:50
+25/05/2008 23:34:25 Transportó a about hacia Mapa116 X:53 Y:46
+25/05/2008 23:34:34 Transportó a about hacia Mapa112 X:49 Y:29
+25/05/2008 23:34:38 Transportó a about hacia Mapa117 X:50 Y:50
+25/05/2008 23:34:40 Transportó a about hacia Mapa117 X:47 Y:46
+25/05/2008 23:34:40 Transportó a about hacia Mapa117 X:43 Y:44
+25/05/2008 23:34:40 Transportó a about hacia Mapa117 X:39 Y:41
+25/05/2008 23:34:40 Transportó a about hacia Mapa117 X:35 Y:38
+25/05/2008 23:34:40 Transportó a about hacia Mapa117 X:30 Y:35
+25/05/2008 23:34:40 Transportó a about hacia Mapa117 X:25 Y:32
+25/05/2008 23:34:41 Transportó a about hacia Mapa117 X:22 Y:28
+25/05/2008 23:34:41 Transportó a about hacia Mapa117 X:20 Y:24
+25/05/2008 23:34:41 Transportó a about hacia Mapa117 X:19 Y:20
+25/05/2008 23:34:41 Transportó a about hacia Mapa117 X:18 Y:16
+25/05/2008 23:34:43 Transportó a about hacia Mapa117 X:27 Y:13
+25/05/2008 23:34:44 Transportó a about hacia Mapa117 X:34 Y:14
+25/05/2008 23:34:48 Transportó a about hacia Mapa118 X:50 Y:50
+25/05/2008 23:34:49 Transportó a about hacia Mapa118 X:49 Y:47
+25/05/2008 23:34:49 Transportó a about hacia Mapa118 X:46 Y:44
+25/05/2008 23:34:49 Transportó a about hacia Mapa118 X:43 Y:40
+25/05/2008 23:34:49 Transportó a about hacia Mapa118 X:40 Y:36
+25/05/2008 23:34:49 Transportó a about hacia Mapa118 X:37 Y:31
+25/05/2008 23:34:50 Transportó a about hacia Mapa118 X:34 Y:26
+25/05/2008 23:34:50 Transportó a about hacia Mapa118 X:31 Y:21
+25/05/2008 23:34:50 Transportó a about hacia Mapa118 X:28 Y:16
+25/05/2008 23:34:50 Transportó a about hacia Mapa118 X:25 Y:11
+25/05/2008 23:34:51 Transportó a about hacia Mapa118 X:29 Y:14
+25/05/2008 23:34:54 Transportó a about hacia Mapa118 X:29 Y:20
+25/05/2008 23:34:56 Transportó a about hacia Mapa118 X:20 Y:16
+25/05/2008 23:35:22 /APAGAR
+25/05/2008 23:39:52 Se conecto con ip:127.0.0.1
+25/05/2008 23:39:55 Transportó a about hacia Mapa118 X:24 Y:11
+25/05/2008 23:39:58 Transportó a about hacia Mapa118 X:29 Y:12
+25/05/2008 23:40:04 Transportó a about hacia Mapa118 X:26 Y:8
+25/05/2008 23:40:08 DESLOGUEO
+25/05/2008 23:55:33 Se conecto con ip:127.0.0.1
+25/05/2008 23:55:37 Transportó a About hacia Mapa118 X:20 Y:11
+25/05/2008 23:55:41 Transportó a About hacia Mapa4 X:49 Y:48
+25/05/2008 23:55:42 Transportó a About hacia Mapa4 X:50 Y:43
+25/05/2008 23:55:45 Transportó a About hacia Mapa4 X:48 Y:41
+25/05/2008 23:55:48 Transportó a About hacia Mapa117 X:41 Y:10
+25/05/2008 23:55:49 Transportó a About hacia Mapa22 X:54 Y:78
+25/05/2008 23:55:49 Transportó a About hacia Mapa22 X:52 Y:77
+25/05/2008 23:55:50 Transportó a About hacia Mapa22 X:50 Y:76
+25/05/2008 23:55:50 Transportó a About hacia Mapa22 X:49 Y:75
+25/05/2008 23:55:50 Transportó a About hacia Mapa22 X:49 Y:76
+25/05/2008 23:55:50 Transportó a About hacia Mapa22 X:49 Y:77
+25/05/2008 23:55:51 Transportó a About hacia Mapa22 X:49 Y:78
+25/05/2008 23:55:51 Transportó a About hacia Mapa22 X:49 Y:79
+25/05/2008 23:55:51 Transportó a About hacia Mapa22 X:49 Y:81
+25/05/2008 23:55:51 Transportó a About hacia Mapa22 X:48 Y:83
+25/05/2008 23:55:51 Transportó a About hacia Mapa22 X:47 Y:85
+25/05/2008 23:55:52 Transportó a About hacia Mapa22 X:48 Y:82
+25/05/2008 23:55:52 Transportó a About hacia Mapa22 X:49 Y:79
+25/05/2008 23:55:52 Transportó a About hacia Mapa22 X:50 Y:76
+25/05/2008 23:55:52 Transportó a About hacia Mapa22 X:51 Y:73
+25/05/2008 23:55:53 Transportó a About hacia Mapa22 X:52 Y:69
+25/05/2008 23:55:53 Transportó a About hacia Mapa22 X:50 Y:70
+25/05/2008 23:55:55 Transportó a About hacia Mapa22 X:45 Y:74
+25/05/2008 23:55:59 Transportó a About hacia Mapa22 X:49 Y:78
+25/05/2008 23:56:01 Transportó a About hacia Mapa22 X:48 Y:68
+25/05/2008 23:56:01 Transportó a About hacia Mapa22 X:48 Y:65
+25/05/2008 23:56:14 Transportó a About hacia Mapa1 X:50 Y:50
+25/05/2008 23:56:25 Transportó a About hacia Mapa2 X:55 Y:55
+25/05/2008 23:56:27 Transportó a About hacia Mapa2 X:60 Y:59
+25/05/2008 23:56:27 Transportó a About hacia Mapa2 X:65 Y:60
+25/05/2008 23:56:27 Transportó a About hacia Mapa2 X:70 Y:61
+25/05/2008 23:56:27 Transportó a About hacia Mapa2 X:74 Y:63
+25/05/2008 23:56:27 Transportó a About hacia Mapa2 X:74 Y:67
+25/05/2008 23:56:28 Transportó a About hacia Mapa2 X:73 Y:71
+25/05/2008 23:56:28 Transportó a About hacia Mapa2 X:71 Y:75
+25/05/2008 23:56:28 Transportó a About hacia Mapa2 X:68 Y:78
+25/05/2008 23:56:28 Transportó a About hacia Mapa2 X:66 Y:78
+25/05/2008 23:56:28 Transportó a About hacia Mapa2 X:66 Y:76
+25/05/2008 23:56:29 Transportó a About hacia Mapa2 X:68 Y:74
+25/05/2008 23:56:29 Transportó a About hacia Mapa2 X:71 Y:71
+25/05/2008 23:56:29 Transportó a About hacia Mapa2 X:75 Y:68
+25/05/2008 23:56:29 Transportó a About hacia Mapa2 X:78 Y:64
+25/05/2008 23:56:29 Transportó a About hacia Mapa2 X:80 Y:60
+25/05/2008 23:56:31 /LLUVIA
+25/05/2008 23:56:36 Transportó a About hacia Mapa118 X:50 Y:50
+25/05/2008 23:56:37 Transportó a About hacia Mapa118 X:48 Y:47
+25/05/2008 23:56:38 Transportó a About hacia Mapa118 X:46 Y:44
+25/05/2008 23:56:38 Transportó a About hacia Mapa118 X:44 Y:40
+25/05/2008 23:56:38 Transportó a About hacia Mapa118 X:41 Y:36
+25/05/2008 23:56:38 Transportó a About hacia Mapa118 X:38 Y:32
+25/05/2008 23:56:38 Transportó a About hacia Mapa118 X:35 Y:28
+25/05/2008 23:56:38 Transportó a About hacia Mapa118 X:32 Y:24
+25/05/2008 23:56:38 Transportó a About hacia Mapa118 X:28 Y:20
+25/05/2008 23:56:39 Transportó a About hacia Mapa118 X:24 Y:16
+25/05/2008 23:56:39 Transportó a About hacia Mapa118 X:26 Y:13
+25/05/2008 23:56:44 Transportó a About hacia Mapa118 X:22 Y:13
+25/05/2008 23:56:49 Transportó a About hacia Mapa118 X:28 Y:13
+25/05/2008 23:56:56 Transportó a About hacia Mapa117 X:50 Y:50
+25/05/2008 23:56:57 Transportó a About hacia Mapa117 X:49 Y:46
+25/05/2008 23:56:57 Transportó a About hacia Mapa117 X:48 Y:43
+25/05/2008 23:56:57 Transportó a About hacia Mapa117 X:47 Y:39
+25/05/2008 23:56:57 Transportó a About hacia Mapa117 X:46 Y:35
+25/05/2008 23:56:58 Transportó a About hacia Mapa117 X:45 Y:31
+25/05/2008 23:56:58 Transportó a About hacia Mapa117 X:44 Y:26
+25/05/2008 23:56:58 Transportó a About hacia Mapa117 X:43 Y:21
+25/05/2008 23:56:58 Transportó a About hacia Mapa117 X:43 Y:16
+25/05/2008 23:56:58 Transportó a About hacia Mapa117 X:43 Y:12
+25/05/2008 23:56:59 Transportó a About hacia Mapa117 X:44 Y:8
+25/05/2008 23:57:00 Transportó a About hacia Mapa117 X:45 Y:11
+25/05/2008 23:57:01 Transportó a About hacia Mapa117 X:36 Y:13
+25/05/2008 23:57:02 Transportó a About hacia Mapa117 X:28 Y:14
+25/05/2008 23:57:04 Transportó a About hacia Mapa117 X:33 Y:17
+25/05/2008 23:57:05 Transportó a About hacia Mapa117 X:41 Y:16
+25/05/2008 23:57:17 Transportó a About hacia Mapa1 X:50 Y:50
+25/05/2008 23:57:18 Transportó a About hacia Mapa1 X:49 Y:52
+25/05/2008 23:57:18 Transportó a About hacia Mapa1 X:47 Y:55
+25/05/2008 23:57:18 Transportó a About hacia Mapa1 X:45 Y:58
+25/05/2008 23:57:19 Transportó a About hacia Mapa1 X:42 Y:60
+25/05/2008 23:57:24 /MOD ORO 999999  About
+25/05/2008 23:57:30 /MOD CLASE Herrero  About
+25/05/2008 23:57:56 DESLOGUEO
+25/05/2008 23:58:00 Se conecto con ip:127.0.0.1
+25/05/2008 23:58:03 Transportó a About hacia Mapa1 X:49 Y:63
+25/05/2008 23:58:05 Tiro cantidad:1 Objeto:Martillo de Herrero
+25/05/2008 23:58:07 /DEST Martillo de Herrero 1
+25/05/2008 23:58:08 Transportó a About hacia Mapa1 X:45 Y:67
+26/05/2008 0:00:24 Transportó a About hacia Mapa1 X:45 Y:67
+26/05/2008 0:00:24 Transportó a About hacia Mapa1 X:45 Y:67
+26/05/2008 0:00:24 Transportó a About hacia Mapa1 X:41 Y:64
+26/05/2008 0:00:24 Transportó a About hacia Mapa1 X:40 Y:60
+26/05/2008 0:00:26 Transportó a About hacia Mapa1 X:33 Y:61
+26/05/2008 0:00:31 Transportó a About hacia Mapa1 X:41 Y:66
+26/05/2008 0:00:31 Transportó a About hacia Mapa1 X:47 Y:64
+26/05/2008 0:00:31 Transportó a About hacia Mapa1 X:52 Y:62
+26/05/2008 0:00:33 DESLOGUEO
+26/05/2008 0:42:24 Se conecto con ip:190.55.179.220
+26/05/2008 0:45:26 Transportó a about hacia Mapa1 X:56 Y:68
+26/05/2008 0:45:27 Transportó a about hacia Mapa1 X:57 Y:63
+26/05/2008 0:45:28 Transportó a about hacia Mapa1 X:60 Y:61
+26/05/2008 0:50:28 /MOD CLASE mago  about
+26/05/2008 0:50:54 /MOD EXP 999999  about
+26/05/2008 0:51:10 Transportó a about hacia Mapa1 X:61 Y:60
+26/05/2008 0:53:20 Transportó a about hacia Mapa1 X:56 Y:62
+26/05/2008 0:53:21 Transportó a about hacia Mapa1 X:51 Y:58
+26/05/2008 0:53:23 Transportó a about hacia Mapa1 X:53 Y:55
+26/05/2008 0:53:31 Transportó a about hacia Mapa1 X:43 Y:60
+26/05/2008 0:53:33 Transportó a about hacia Mapa1 X:32 Y:60
+26/05/2008 0:53:34 Transportó a about hacia Mapa1 X:32 Y:64
+26/05/2008 0:53:35 Transportó a about hacia Mapa1 X:28 Y:70
+26/05/2008 0:54:30 Transportó a about hacia Mapa1 X:32 Y:69
+26/05/2008 0:54:31 Transportó a about hacia Mapa1 X:38 Y:69
+26/05/2008 0:54:32 Transportó a about hacia Mapa1 X:44 Y:74
+26/05/2008 0:54:35 Transportó a about hacia Mapa1 X:50 Y:80
+26/05/2008 0:54:36 Transportó a about hacia Mapa1 X:51 Y:88
+26/05/2008 0:54:41 Transportó a about hacia Mapa1 X:61 Y:87
+26/05/2008 0:54:55 /MOD EXP 9999999  about
+26/05/2008 0:54:56 /MOD EXP 9999999  about
+26/05/2008 0:54:58 /MOD EXP 9999999  about
+26/05/2008 0:55:30 Transportó a about hacia Mapa1 X:67 Y:83
+26/05/2008 0:56:52 Transportó a about hacia Mapa1 X:70 Y:87
+26/05/2008 0:56:54 /IRA kurt Mapa:8 X:50 Y:53
+26/05/2008 0:57:04 Transportó a about hacia Mapa8 X:54 Y:54
+26/05/2008 0:57:07 Transportó a about hacia Mapa8 X:53 Y:54
+26/05/2008 0:58:45 Transportó a about hacia Mapa8 X:50 Y:53
+26/05/2008 1:01:33 Transportó a about hacia Mapa4 X:48 Y:41
+26/05/2008 1:07:22 Se conecto con ip:190.55.179.220
+26/05/2008 1:09:45 DESLOGUEO
+26/05/2008 1:19:47 Se conecto con ip:127.0.0.1
+26/05/2008 1:19:51 Transportó a About hacia Mapa22 X:51 Y:75
+26/05/2008 1:19:51 Transportó a About hacia Mapa22 X:48 Y:77
+26/05/2008 1:19:51 Transportó a About hacia Mapa22 X:50 Y:78
+26/05/2008 1:19:52 Transportó a About hacia Mapa22 X:51 Y:79
+26/05/2008 1:19:52 Transportó a About hacia Mapa22 X:52 Y:81
+26/05/2008 1:19:52 Transportó a About hacia Mapa22 X:53 Y:83
+26/05/2008 1:19:52 Transportó a About hacia Mapa22 X:53 Y:85
+26/05/2008 1:19:55 Transportó a About hacia Mapa21 X:50 Y:18
+26/05/2008 1:19:55 Transportó a About hacia Mapa21 X:49 Y:21
+26/05/2008 1:19:55 Transportó a About hacia Mapa21 X:48 Y:24
+26/05/2008 1:19:55 Transportó a About hacia Mapa21 X:48 Y:27
+26/05/2008 1:19:55 Transportó a About hacia Mapa21 X:48 Y:30
+26/05/2008 1:19:56 Transportó a About hacia Mapa21 X:49 Y:33
+26/05/2008 1:19:56 Transportó a About hacia Mapa21 X:50 Y:36
+26/05/2008 1:19:56 Transportó a About hacia Mapa21 X:50 Y:39
+26/05/2008 1:19:56 Transportó a About hacia Mapa21 X:49 Y:42
+26/05/2008 1:19:56 Transportó a About hacia Mapa21 X:48 Y:45
+26/05/2008 1:19:57 Transportó a About hacia Mapa21 X:48 Y:48
+26/05/2008 1:19:57 Transportó a About hacia Mapa21 X:49 Y:51
+26/05/2008 1:19:57 Transportó a About hacia Mapa21 X:51 Y:54
+26/05/2008 1:19:57 Transportó a About hacia Mapa21 X:53 Y:57
+26/05/2008 1:19:58 Transportó a About hacia Mapa21 X:53 Y:60
+26/05/2008 1:19:58 Transportó a About hacia Mapa21 X:52 Y:63
+26/05/2008 1:19:58 Transportó a About hacia Mapa21 X:51 Y:66
+26/05/2008 1:19:58 Transportó a About hacia Mapa21 X:50 Y:69
+26/05/2008 1:19:58 Transportó a About hacia Mapa21 X:50 Y:72
+26/05/2008 1:19:59 Transportó a About hacia Mapa21 X:51 Y:75
+26/05/2008 1:19:59 Transportó a About hacia Mapa21 X:52 Y:78
+26/05/2008 1:19:59 Transportó a About hacia Mapa21 X:51 Y:81
+26/05/2008 1:19:59 Transportó a About hacia Mapa21 X:49 Y:84
+26/05/2008 1:19:59 Transportó a About hacia Mapa21 X:48 Y:87
+26/05/2008 1:20:00 Transportó a About hacia Mapa21 X:49 Y:90
+26/05/2008 1:20:00 Transportó a About hacia Mapa21 X:50 Y:93
+26/05/2008 1:20:02 Transportó a About hacia Mapa20 X:50 Y:13
+26/05/2008 1:20:02 Transportó a About hacia Mapa20 X:50 Y:15
+26/05/2008 1:20:02 Transportó a About hacia Mapa20 X:51 Y:18
+26/05/2008 1:20:02 Transportó a About hacia Mapa20 X:52 Y:21
+26/05/2008 1:20:02 Transportó a About hacia Mapa20 X:52 Y:25
+26/05/2008 1:20:02 Transportó a About hacia Mapa20 X:52 Y:29
+26/05/2008 1:20:03 Transportó a About hacia Mapa20 X:52 Y:33
+26/05/2008 1:20:03 Transportó a About hacia Mapa20 X:53 Y:37
+26/05/2008 1:20:03 Transportó a About hacia Mapa20 X:54 Y:41
+26/05/2008 1:20:03 Transportó a About hacia Mapa20 X:55 Y:45
+26/05/2008 1:20:04 Transportó a About hacia Mapa20 X:56 Y:49
+26/05/2008 1:20:04 Transportó a About hacia Mapa20 X:57 Y:53
+26/05/2008 1:20:04 Transportó a About hacia Mapa20 X:57 Y:57
+26/05/2008 1:20:04 Transportó a About hacia Mapa20 X:57 Y:61
+26/05/2008 1:20:04 Transportó a About hacia Mapa20 X:57 Y:65
+26/05/2008 1:20:04 Transportó a About hacia Mapa20 X:57 Y:69
+26/05/2008 1:20:04 Transportó a About hacia Mapa20 X:57 Y:73
+26/05/2008 1:20:04 Transportó a About hacia Mapa20 X:56 Y:77
+26/05/2008 1:20:05 Transportó a About hacia Mapa20 X:55 Y:80
+26/05/2008 1:20:05 Transportó a About hacia Mapa20 X:54 Y:83
+26/05/2008 1:20:05 Transportó a About hacia Mapa20 X:53 Y:86
+26/05/2008 1:20:05 Transportó a About hacia Mapa20 X:53 Y:89
+26/05/2008 1:20:05 Transportó a About hacia Mapa20 X:53 Y:92
+26/05/2008 1:20:07 Transportó a About hacia Mapa1 X:53 Y:13
+26/05/2008 1:20:08 Transportó a About hacia Mapa1 X:53 Y:17
+26/05/2008 1:20:08 Transportó a About hacia Mapa1 X:54 Y:21
+26/05/2008 1:20:08 Transportó a About hacia Mapa1 X:56 Y:25
+26/05/2008 1:20:08 Transportó a About hacia Mapa1 X:57 Y:29
+26/05/2008 1:20:13 Transportó a About hacia Mapa1 X:45 Y:41
+26/05/2008 1:20:14 Transportó a About hacia Mapa1 X:41 Y:43
+26/05/2008 1:20:15 Transportó a About hacia Mapa1 X:40 Y:41
+26/05/2008 1:20:17 Transportó a About hacia Mapa8 X:56 Y:57
+26/05/2008 1:20:17 Transportó a About hacia Mapa8 X:62 Y:62
+26/05/2008 1:20:18 Transportó a About hacia Mapa8 X:66 Y:67
+26/05/2008 1:20:18 Transportó a About hacia Mapa8 X:69 Y:72
+26/05/2008 1:20:18 Transportó a About hacia Mapa8 X:74 Y:72
+26/05/2008 1:20:18 Transportó a About hacia Mapa8 X:77 Y:71
+26/05/2008 1:20:19 Transportó a About hacia Mapa8 X:79 Y:70
+26/05/2008 1:20:19 Transportó a About hacia Mapa8 X:79 Y:69
+26/05/2008 1:20:19 Transportó a About hacia Mapa8 X:78 Y:68
+26/05/2008 1:20:19 Transportó a About hacia Mapa8 X:75 Y:66
+26/05/2008 1:20:19 Transportó a About hacia Mapa8 X:70 Y:64
+26/05/2008 1:20:19 Transportó a About hacia Mapa8 X:64 Y:62
+26/05/2008 1:20:19 Transportó a About hacia Mapa8 X:58 Y:60
+26/05/2008 1:20:20 Transportó a About hacia Mapa8 X:54 Y:58
+26/05/2008 1:20:20 Transportó a About hacia Mapa8 X:51 Y:56
+26/05/2008 1:20:20 Transportó a About hacia Mapa8 X:50 Y:54
+26/05/2008 1:20:20 Transportó a About hacia Mapa8 X:50 Y:52
+26/05/2008 1:20:21 Transportó a About hacia Mapa8 X:49 Y:49
+26/05/2008 1:20:21 Transportó a About hacia Mapa8 X:48 Y:46
+26/05/2008 1:20:22 Transportó a About hacia Mapa1 X:54 Y:55
+26/05/2008 1:20:22 Transportó a About hacia Mapa1 X:58 Y:59
+26/05/2008 1:20:22 Transportó a About hacia Mapa1 X:62 Y:63
+26/05/2008 1:20:23 Transportó a About hacia Mapa1 X:65 Y:67
+26/05/2008 1:53:13 Se conecto con ip:127.0.0.1
+26/05/2008 1:53:16 /UNBAN a elnick
+26/05/2008 1:53:17 Transportó a about hacia Mapa1 X:53 Y:64
+26/05/2008 1:53:17 Transportó a about hacia Mapa1 X:50 Y:62
+26/05/2008 1:53:19 Transportó a about hacia Mapa1 X:54 Y:64
+26/05/2008 1:53:20 Transportó a about hacia Mapa1 X:57 Y:65
+26/05/2008 1:53:20 Transportó a about hacia Mapa1 X:60 Y:66
+26/05/2008 1:53:20 Transportó a about hacia Mapa1 X:63 Y:68
+26/05/2008 1:53:21 Transportó a about hacia Mapa1 X:67 Y:65
+26/05/2008 1:53:21 Transportó a about hacia Mapa1 X:69 Y:63
+26/05/2008 1:53:22 Transportó a about hacia Mapa1 X:65 Y:60
+26/05/2008 1:53:24 Transportó a about hacia Mapa1 X:62 Y:60
+26/05/2008 1:53:51 Transportó a about hacia Mapa1 X:64 Y:61
+26/05/2008 1:54:51 Transportó a about hacia Mapa1 X:60 Y:66
+26/05/2008 1:54:52 Transportó a about hacia Mapa1 X:56 Y:69
+26/05/2008 1:54:54 Transportó a about hacia Mapa1 X:58 Y:69
+26/05/2008 1:54:54 Transportó a about hacia Mapa1 X:56 Y:69
+26/05/2008 1:54:56 Transportó a about hacia Mapa1 X:58 Y:69
+26/05/2008 1:54:58 Transportó a about hacia Mapa1 X:52 Y:68
+26/05/2008 1:54:59 Transportó a about hacia Mapa1 X:50 Y:68
+26/05/2008 1:55:03 Transportó a about hacia Mapa1 X:40 Y:66
+26/05/2008 1:55:04 Transportó a about hacia Mapa1 X:33 Y:61
+26/05/2008 1:56:41 Transportó a about hacia Mapa1 X:35 Y:62
+26/05/2008 1:56:41 Transportó a about hacia Mapa1 X:40 Y:63
+26/05/2008 1:56:42 Transportó a about hacia Mapa1 X:43 Y:62
+26/05/2008 1:56:42 Transportó a about hacia Mapa1 X:47 Y:61
+26/05/2008 1:56:43 Transportó a about hacia Mapa1 X:49 Y:62
+26/05/2008 1:56:43 Transportó a about hacia Mapa1 X:47 Y:64
+26/05/2008 1:56:43 Transportó a about hacia Mapa1 X:44 Y:67
+26/05/2008 1:56:43 Transportó a about hacia Mapa1 X:41 Y:71
+26/05/2008 1:56:43 Transportó a about hacia Mapa1 X:38 Y:75
+26/05/2008 1:56:43 Transportó a about hacia Mapa1 X:35 Y:79
+26/05/2008 1:56:44 Transportó a about hacia Mapa1 X:33 Y:83
+26/05/2008 1:56:44 Transportó a about hacia Mapa1 X:41 Y:83
+26/05/2008 1:56:51 Transportó a about hacia Mapa1 X:39 Y:78
+26/05/2008 1:56:51 Transportó a about hacia Mapa1 X:36 Y:74
+26/05/2008 1:56:55 Transportó a about hacia Mapa1 X:25 Y:61
+26/05/2008 1:56:55 Transportó a about hacia Mapa1 X:24 Y:56
+26/05/2008 1:56:55 Transportó a about hacia Mapa1 X:24 Y:51
+26/05/2008 1:56:55 Transportó a about hacia Mapa1 X:24 Y:46
+26/05/2008 1:56:56 Transportó a about hacia Mapa1 X:25 Y:42
+26/05/2008 1:56:56 Transportó a about hacia Mapa1 X:27 Y:38
+26/05/2008 1:56:56 Transportó a about hacia Mapa1 X:29 Y:34
+26/05/2008 1:56:56 Transportó a about hacia Mapa1 X:32 Y:31
+26/05/2008 1:56:56 Transportó a about hacia Mapa1 X:35 Y:29
+26/05/2008 1:56:56 Transportó a about hacia Mapa1 X:38 Y:27
+26/05/2008 1:56:57 Transportó a about hacia Mapa1 X:42 Y:25
+26/05/2008 1:57:01 Transportó a about hacia Mapa1 X:47 Y:29
+26/05/2008 1:57:01 Transportó a about hacia Mapa1 X:49 Y:33
+26/05/2008 1:57:01 Transportó a about hacia Mapa1 X:50 Y:37
+26/05/2008 1:57:01 Transportó a about hacia Mapa1 X:51 Y:41
+26/05/2008 1:57:02 Transportó a about hacia Mapa1 X:51 Y:45
+26/05/2008 1:57:02 Transportó a about hacia Mapa1 X:51 Y:49
+26/05/2008 1:57:02 Transportó a about hacia Mapa1 X:51 Y:53
+26/05/2008 1:57:02 Transportó a about hacia Mapa1 X:51 Y:57
+26/05/2008 1:57:02 Transportó a about hacia Mapa1 X:52 Y:61
+26/05/2008 1:57:02 Transportó a about hacia Mapa1 X:53 Y:65
+26/05/2008 1:57:03 Transportó a about hacia Mapa1 X:52 Y:69
+26/05/2008 1:57:06 Transportó a about hacia Mapa4 X:50 Y:50
+26/05/2008 1:57:07 Transportó a about hacia Mapa4 X:50 Y:49
+26/05/2008 1:57:07 Transportó a about hacia Mapa4 X:52 Y:50
+26/05/2008 1:57:07 Transportó a about hacia Mapa4 X:55 Y:53
+26/05/2008 1:57:07 Transportó a about hacia Mapa4 X:58 Y:56
+26/05/2008 1:57:07 Transportó a about hacia Mapa4 X:60 Y:59
+26/05/2008 1:58:47 Transportó a about hacia Mapa4 X:59 Y:61
+26/05/2008 1:58:48 Transportó a about hacia Mapa4 X:57 Y:62
+26/05/2008 1:59:27 Transportó a about hacia Mapa4 X:58 Y:57
+26/05/2008 1:59:28 Transportó a about hacia Mapa4 X:61 Y:59
+26/05/2008 1:59:28 Transportó a about hacia Mapa4 X:65 Y:63
+26/05/2008 1:59:29 Transportó a about hacia Mapa4 X:66 Y:63
+26/05/2008 1:59:30 Transportó a about hacia Mapa4 X:65 Y:62
+26/05/2008 1:59:32 Transportó a about hacia Mapa4 X:70 Y:57
+26/05/2008 1:59:32 Transportó a about hacia Mapa4 X:76 Y:53
+26/05/2008 1:59:32 Transportó a about hacia Mapa4 X:82 Y:49
+26/05/2008 1:59:35 Transportó a about hacia Mapa4 X:79 Y:51
+26/05/2008 1:59:35 Transportó a about hacia Mapa4 X:76 Y:51
+26/05/2008 1:59:36 Transportó a about hacia Mapa4 X:72 Y:51
+26/05/2008 1:59:36 Transportó a about hacia Mapa4 X:70 Y:48
+26/05/2008 1:59:36 Transportó a about hacia Mapa4 X:68 Y:45
+26/05/2008 1:59:36 Transportó a about hacia Mapa4 X:66 Y:41
+26/05/2008 1:59:36 Transportó a about hacia Mapa4 X:64 Y:37
+26/05/2008 1:59:36 Transportó a about hacia Mapa4 X:64 Y:33
+26/05/2008 1:59:37 Transportó a about hacia Mapa4 X:64 Y:29
+26/05/2008 1:59:37 Transportó a about hacia Mapa4 X:60 Y:29
+26/05/2008 1:59:37 Transportó a about hacia Mapa4 X:57 Y:30
+26/05/2008 1:59:37 Transportó a about hacia Mapa4 X:56 Y:32
+26/05/2008 1:59:38 Transportó a about hacia Mapa4 X:57 Y:35
+26/05/2008 1:59:38 Transportó a about hacia Mapa4 X:58 Y:38
+26/05/2008 1:59:38 Transportó a about hacia Mapa4 X:59 Y:41
+26/05/2008 1:59:38 Transportó a about hacia Mapa4 X:60 Y:45
+26/05/2008 1:59:38 Transportó a about hacia Mapa4 X:61 Y:49
+26/05/2008 1:59:39 Transportó a about hacia Mapa4 X:64 Y:52
+26/05/2008 1:59:39 Transportó a about hacia Mapa4 X:68 Y:55
+26/05/2008 1:59:39 Transportó a about hacia Mapa4 X:67 Y:58
+26/05/2008 1:59:40 Transportó a about hacia Mapa4 X:67 Y:60
+26/05/2008 1:59:54 Transportó a about hacia Mapa4 X:60 Y:61
+26/05/2008 1:59:56 Transportó a about hacia Mapa4 X:57 Y:62
+26/05/2008 2:00:21 Transportó a about hacia Mapa4 X:58 Y:55
+26/05/2008 2:00:21 Transportó a about hacia Mapa4 X:59 Y:49
+26/05/2008 2:00:22 Transportó a about hacia Mapa4 X:57 Y:46
+26/05/2008 2:00:23 Transportó a about hacia Mapa4 X:56 Y:43
+26/05/2008 2:00:25 Transportó a about hacia Mapa4 X:57 Y:41
+26/05/2008 2:00:27 Transportó a about hacia Mapa118 X:27 Y:10
+26/05/2008 2:00:27 Transportó a about hacia Mapa4 X:52 Y:54
+26/05/2008 2:00:27 Transportó a about hacia Mapa4 X:57 Y:54
+26/05/2008 2:00:28 Transportó a about hacia Mapa4 X:60 Y:53
+26/05/2008 2:00:28 Transportó a about hacia Mapa4 X:60 Y:51
+26/05/2008 2:00:28 Transportó a about hacia Mapa4 X:59 Y:49
+26/05/2008 2:00:28 Transportó a about hacia Mapa4 X:57 Y:47
+26/05/2008 2:00:28 Transportó a about hacia Mapa85 X:48 Y:48
+26/05/2008 2:00:28 Transportó a about hacia Mapa85 X:46 Y:46
+26/05/2008 2:00:30 Transportó a about hacia Mapa85 X:41 Y:45
+26/05/2008 2:00:30 Transportó a about hacia Mapa85 X:36 Y:44
+26/05/2008 2:00:48 Transportó a about hacia Mapa85 X:40 Y:41
+26/05/2008 2:00:49 Transportó a about hacia Mapa85 X:44 Y:41
+26/05/2008 2:00:49 Transportó a about hacia Mapa85 X:46 Y:40
+26/05/2008 2:00:49 Transportó a about hacia Mapa85 X:49 Y:39
+26/05/2008 2:00:49 Transportó a about hacia Mapa85 X:52 Y:38
+26/05/2008 2:00:50 Transportó a about hacia Mapa85 X:54 Y:38
+26/05/2008 2:00:50 Transportó a about hacia Mapa85 X:58 Y:35
+26/05/2008 2:00:59 DESLOGUEO
+26/05/2008 22:16:27 Se conecto con ip:127.0.0.1
+26/05/2008 22:16:32 Transportó a About hacia Mapa1 X:50 Y:50
+26/05/2008 22:16:33 Transportó a About hacia Mapa1 X:54 Y:50
+26/05/2008 22:16:33 Transportó a About hacia Mapa1 X:58 Y:51
+26/05/2008 22:16:34 Transportó a About hacia Mapa1 X:62 Y:51
+26/05/2008 22:16:53 Transportó a About hacia Mapa1 X:43 Y:30
+26/05/2008 22:17:08 Transportó a About hacia Mapa1 X:39 Y:32
+26/05/2008 22:17:08 Transportó a About hacia Mapa1 X:36 Y:33
+26/05/2008 22:17:08 Transportó a About hacia Mapa1 X:33 Y:33
+26/05/2008 22:17:09 Transportó a About hacia Mapa1 X:28 Y:34
+26/05/2008 22:17:09 Transportó a About hacia Mapa1 X:24 Y:35
+26/05/2008 22:17:09 Transportó a About hacia Mapa1 X:22 Y:36
+26/05/2008 22:20:29 DESLOGUEO
+26/05/2008 22:21:55 Se conecto con ip:127.0.0.1
+26/05/2008 22:21:56 Transportó a About hacia Mapa1 X:27 Y:50
+26/05/2008 22:21:56 Transportó a About hacia Mapa1 X:28 Y:53
+26/05/2008 22:21:56 Transportó a About hacia Mapa1 X:28 Y:53
+26/05/2008 22:21:56 Transportó a About hacia Mapa1 X:30 Y:56
+26/05/2008 22:21:56 Transportó a About hacia Mapa1 X:32 Y:59
+26/05/2008 22:21:57 Transportó a About hacia Mapa1 X:35 Y:62
+26/05/2008 22:21:57 Transportó a About hacia Mapa1 X:38 Y:65
+26/05/2008 22:21:57 Transportó a About hacia Mapa1 X:41 Y:61
+26/05/2008 22:23:06 DESLOGUEO
+26/05/2008 22:25:17 Se conecto con ip:127.0.0.1
+26/05/2008 22:30:25 DESLOGUEO
+26/05/2008 22:30:34 Se conecto con ip:127.0.0.1
+26/05/2008 22:30:38 DESLOGUEO
+26/05/2008 22:38:58 Se conecto con ip:127.0.0.1
+26/05/2008 22:38:59 Transportó a About hacia Mapa1 X:48 Y:64
+26/05/2008 22:38:59 Transportó a About hacia Mapa1 X:53 Y:64
+26/05/2008 22:38:59 Transportó a About hacia Mapa1 X:58 Y:64
+26/05/2008 22:39:00 Transportó a About hacia Mapa1 X:61 Y:65
+26/05/2008 22:39:07 Transportó a About hacia Mapa1 X:54 Y:65
+26/05/2008 22:39:07 Transportó a About hacia Mapa1 X:50 Y:62
+26/05/2008 22:39:12 Transportó a About hacia Mapa1 X:53 Y:58
+26/05/2008 22:39:12 Transportó a About hacia Mapa1 X:53 Y:55
+26/05/2008 22:39:12 Transportó a About hacia Mapa1 X:53 Y:52
+26/05/2008 22:39:19 Transportó a About hacia Mapa1 X:53 Y:47
+26/05/2008 22:39:19 Transportó a About hacia Mapa1 X:52 Y:44
+26/05/2008 22:39:20 Transportó a About hacia Mapa1 X:51 Y:41
+26/05/2008 22:39:20 Transportó a About hacia Mapa1 X:51 Y:38
+26/05/2008 22:39:20 Transportó a About hacia Mapa1 X:46 Y:37
+26/05/2008 22:39:21 Transportó a About hacia Mapa1 X:40 Y:37
+26/05/2008 22:39:21 Transportó a About hacia Mapa1 X:34 Y:38
+26/05/2008 22:39:26 Miro el trigger en 1,31,40. Era 6
+26/05/2008 22:39:28 Transportó a About hacia Mapa1 X:36 Y:39
+26/05/2008 22:39:29 Transportó a About hacia Mapa1 X:39 Y:40
+26/05/2008 22:39:29 Transportó a About hacia Mapa1 X:43 Y:41
+26/05/2008 22:39:30 Transportó a About hacia Mapa1 X:41 Y:40
+26/05/2008 22:39:30 Transportó a About hacia Mapa1 X:37 Y:39
+26/05/2008 22:39:30 Transportó a About hacia Mapa1 X:33 Y:39
+26/05/2008 22:39:30 Transportó a About hacia Mapa1 X:29 Y:39
+26/05/2008 22:39:31 Transportó a About hacia Mapa1 X:25 Y:39
+26/05/2008 22:39:31 Transportó a About hacia Mapa1 X:23 Y:41
+26/05/2008 22:39:31 Transportó a About hacia Mapa1 X:23 Y:43
+26/05/2008 22:39:31 Transportó a About hacia Mapa1 X:23 Y:45
+26/05/2008 22:39:31 Transportó a About hacia Mapa1 X:23 Y:47
+26/05/2008 22:39:31 Transportó a About hacia Mapa1 X:23 Y:49
+26/05/2008 22:39:32 Transportó a About hacia Mapa1 X:25 Y:51
+26/05/2008 22:39:33 Transportó a About hacia Mapa1 X:27 Y:53
+26/05/2008 22:39:33 Transportó a About hacia Mapa1 X:29 Y:55
+26/05/2008 22:39:33 Transportó a About hacia Mapa1 X:30 Y:57
+26/05/2008 22:39:33 Transportó a About hacia Mapa1 X:29 Y:59
+26/05/2008 22:39:33 Transportó a About hacia Mapa1 X:28 Y:61
+26/05/2008 22:39:44 Transportó a About hacia Mapa1 X:36 Y:61
+26/05/2008 22:39:44 Transportó a About hacia Mapa1 X:39 Y:61
+26/05/2008 22:39:45 Transportó a About hacia Mapa1 X:40 Y:65
+26/05/2008 22:39:47 Transportó a About hacia Mapa1 X:44 Y:74
+26/05/2008 22:39:48 Transportó a About hacia Mapa1 X:47 Y:76
+26/05/2008 22:39:48 Transportó a About hacia Mapa1 X:46 Y:81
+26/05/2008 22:39:50 Transportó a About hacia Mapa1 X:37 Y:82
+26/05/2008 22:40:00 Transportó a About hacia Mapa1 X:39 Y:77
+26/05/2008 22:41:06 Transportó a About hacia Mapa1 X:51 Y:69
+26/05/2008 22:41:06 Transportó a About hacia Mapa1 X:46 Y:68
+26/05/2008 22:41:06 Transportó a About hacia Mapa1 X:42 Y:67
+26/05/2008 22:41:06 Transportó a About hacia Mapa1 X:39 Y:64
+26/05/2008 22:41:07 Transportó a About hacia Mapa1 X:34 Y:61
+26/05/2008 22:41:17 /MOD CLASE bardo  About
+26/05/2008 22:41:22 /MOD CLASE paladin  About
+26/05/2008 22:41:28 /MOD CLASE clerigo  About
+26/05/2008 22:41:33 /MOD CLASE guerrero  About
+26/05/2008 22:42:06 /MOD SEX MUJER  About
+26/05/2008 22:42:10 Transportó a About hacia Mapa1 X:26 Y:63
+26/05/2008 22:42:13 Transportó a About hacia Mapa1 X:29 Y:53
+26/05/2008 22:42:14 Transportó a About hacia Mapa1 X:33 Y:49
+26/05/2008 22:42:17 Transportó a About hacia Mapa1 X:29 Y:50
+26/05/2008 22:42:17 Transportó a About hacia Mapa1 X:24 Y:49
+26/05/2008 22:42:18 Transportó a About hacia Mapa1 X:19 Y:48
+26/05/2008 22:42:19 Transportó a About hacia Mapa1 X:24 Y:51
+26/05/2008 22:42:19 Transportó a About hacia Mapa1 X:27 Y:53
+26/05/2008 22:42:19 Transportó a About hacia Mapa1 X:30 Y:56
+26/05/2008 22:42:20 Transportó a About hacia Mapa1 X:30 Y:60
+26/05/2008 22:42:31 /MOD RAZA ENANO  About
+26/05/2008 22:42:34 Transportó a About hacia Mapa1 X:25 Y:61
+26/05/2008 22:42:37 Transportó a About hacia Mapa1 X:31 Y:60
+26/05/2008 22:42:38 Transportó a About hacia Mapa1 X:31 Y:59
+26/05/2008 22:42:42 Transportó a About hacia Mapa1 X:26 Y:59
+26/05/2008 22:42:46 Transportó a About hacia Mapa1 X:30 Y:60
+26/05/2008 22:42:48 Transportó a About hacia Mapa1 X:40 Y:61
+26/05/2008 22:42:50 Transportó a About hacia Mapa1 X:49 Y:66
+26/05/2008 22:42:50 Transportó a About hacia Mapa1 X:53 Y:67
+26/05/2008 22:42:51 Transportó a About hacia Mapa1 X:58 Y:67
+26/05/2008 22:42:52 Transportó a About hacia Mapa1 X:62 Y:63
+26/05/2008 22:42:55 Transportó a About hacia Mapa1 X:58 Y:66
+26/05/2008 22:42:57 Transportó a About hacia Mapa1 X:49 Y:69
+26/05/2008 22:42:57 Transportó a About hacia Mapa1 X:43 Y:68
+26/05/2008 22:42:58 Transportó a About hacia Mapa1 X:40 Y:68
+26/05/2008 22:43:14 DESLOGUEO
+08/06/2008 7:43:30 Se conecto con ip:127.0.0.1
+08/06/2008 7:43:32 Transportó a About hacia Mapa1 X:43 Y:66
+08/06/2008 7:43:33 Transportó a About hacia Mapa1 X:48 Y:66
+08/06/2008 7:43:33 Transportó a About hacia Mapa1 X:53 Y:66
+08/06/2008 7:43:33 Transportó a About hacia Mapa1 X:58 Y:66
+08/06/2008 7:43:33 Transportó a About hacia Mapa1 X:63 Y:64
+08/06/2008 7:43:36 Transportó a About hacia Mapa1 X:62 Y:61
+08/06/2008 7:43:36 Transportó a About hacia Mapa1 X:62 Y:60
+08/06/2008 7:43:47 Transportó a About hacia Mapa47 X:50 Y:50
+08/06/2008 7:43:48 Transportó a About hacia Mapa47 X:52 Y:54
+08/06/2008 7:43:48 Transportó a About hacia Mapa47 X:54 Y:58
+08/06/2008 7:43:49 Transportó a About hacia Mapa47 X:56 Y:62
+08/06/2008 7:43:49 Transportó a About hacia Mapa47 X:57 Y:67
+08/06/2008 7:43:49 Transportó a About hacia Mapa47 X:58 Y:72
+08/06/2008 7:43:49 Transportó a About hacia Mapa47 X:59 Y:77
+08/06/2008 7:43:50 Transportó a About hacia Mapa47 X:60 Y:73
+08/06/2008 7:44:12 Transportó a About hacia Mapa78 X:50 Y:50
+08/06/2008 7:44:13 Transportó a About hacia Mapa78 X:49 Y:55
+08/06/2008 7:44:14 Transportó a About hacia Mapa78 X:53 Y:54
+08/06/2008 7:44:14 Transportó a About hacia Mapa78 X:54 Y:54
+08/06/2008 7:44:35 Transportó a About hacia Mapa85 X:50 Y:50
+08/06/2008 7:44:36 Transportó a About hacia Mapa85 X:47 Y:46
+08/06/2008 7:44:36 Transportó a About hacia Mapa85 X:43 Y:42
+08/06/2008 7:44:37 Transportó a About hacia Mapa85 X:37 Y:40
+08/06/2008 7:44:38 Transportó a About hacia Mapa85 X:30 Y:41
+08/06/2008 7:44:50 Transportó a About hacia Mapa85 X:39 Y:41
+08/06/2008 7:44:50 Transportó a About hacia Mapa85 X:47 Y:39
+08/06/2008 7:44:51 Transportó a About hacia Mapa85 X:52 Y:37
+08/06/2008 7:44:51 Transportó a About hacia Mapa85 X:58 Y:35
+08/06/2008 7:44:55 Transportó a About hacia Mapa85 X:62 Y:40
+08/06/2008 7:44:55 Transportó a About hacia Mapa85 X:63 Y:43
+08/06/2008 7:44:55 Transportó a About hacia Mapa85 X:64 Y:46
+08/06/2008 7:44:56 Transportó a About hacia Mapa85 X:63 Y:48
+08/06/2008 7:44:56 Transportó a About hacia Mapa85 X:61 Y:50
+08/06/2008 7:45:49 Transportó a About hacia Mapa47 X:50 Y:50
+08/06/2008 7:45:50 Transportó a About hacia Mapa47 X:49 Y:53
+08/06/2008 7:45:50 Transportó a About hacia Mapa47 X:51 Y:57
+08/06/2008 7:45:50 Transportó a About hacia Mapa47 X:54 Y:62
+08/06/2008 7:45:50 Transportó a About hacia Mapa47 X:56 Y:67
+08/06/2008 7:45:50 Transportó a About hacia Mapa47 X:60 Y:71
+08/06/2008 7:45:51 Transportó a About hacia Mapa47 X:61 Y:71
+08/06/2008 7:46:05 /MOD ORO 9999999  About
+08/06/2008 7:46:11 /MOD ORO 4999999  About
+08/06/2008 7:46:12 Transportó a About hacia Mapa47 X:61 Y:71
+08/06/2008 7:46:21 Transportó a About hacia Mapa2 X:50 Y:50
+08/06/2008 7:46:22 Transportó a About hacia Mapa2 X:48 Y:52
+08/06/2008 7:46:22 Transportó a About hacia Mapa2 X:48 Y:55
+08/06/2008 7:46:22 Transportó a About hacia Mapa2 X:49 Y:58
+08/06/2008 7:46:22 Transportó a About hacia Mapa2 X:47 Y:59
+08/06/2008 7:46:22 Transportó a About hacia Mapa2 X:44 Y:60
+08/06/2008 7:46:35 /MOD SKILLS magia 100 About
+08/06/2008 7:46:47 DESLOGUEO
+08/06/2008 7:47:40 Se conecto con ip:127.0.0.1
+08/06/2008 7:47:44 About ha recargado los hechizos.
+08/06/2008 7:48:07 About ha recargado los hechizos.
+08/06/2008 7:48:22 About ha recargado los hechizos.
+08/06/2008 7:50:13 About ha recargado los hechizos.
+08/06/2008 7:50:19 Transportó a About hacia Mapa2 X:46 Y:61
+08/06/2008 7:50:19 Transportó a About hacia Mapa2 X:47 Y:58
+08/06/2008 7:50:19 Transportó a About hacia Mapa2 X:47 Y:54
+08/06/2008 7:50:19 Transportó a About hacia Mapa2 X:53 Y:58
+08/06/2008 7:50:20 Transportó a About hacia Mapa2 X:59 Y:62
+08/06/2008 7:54:30 DESLOGUEO
+08/06/2008 7:55:04 Se conecto con ip:127.0.0.1
+08/06/2008 7:55:17 About ha recargado los hechizos.
+08/06/2008 7:55:39 About ha recargado los hechizos.
+08/06/2008 7:55:48 About ha recargado los hechizos.
+08/06/2008 7:55:50 Transportó a About hacia Mapa2 X:62 Y:59
+08/06/2008 7:55:53 About ha recargado los hechizos.
+08/06/2008 7:56:02 About ha recargado los hechizos.
+08/06/2008 7:56:07 Transportó a About hacia Mapa2 X:64 Y:56
+08/06/2008 7:56:07 Transportó a About hacia Mapa2 X:67 Y:54
+08/06/2008 7:56:07 Transportó a About hacia Mapa2 X:70 Y:52
+08/06/2008 7:56:19 DESLOGUEO
+08/06/2008 7:58:00 Se conecto con ip:127.0.0.1
+08/06/2008 7:58:07 About ha recargado los hechizos.
+08/06/2008 7:59:49 /APAGAR
+08/06/2008 8:00:30 Se conecto con ip:127.0.0.1
+08/06/2008 8:00:38 DESLOGUEO
+08/06/2008 8:05:57 Se conecto con ip:127.0.0.1
+08/06/2008 8:06:54 Transportó a About hacia Mapa2 X:66 Y:53
+08/06/2008 8:06:54 Transportó a About hacia Mapa2 X:63 Y:48
+08/06/2008 8:07:22 /MOD SKILLS liderazgo 100 About
+08/06/2008 8:07:30 /MOD EXP 999999  About
+08/06/2008 8:07:31 /MOD EXP 999999  About
+08/06/2008 8:07:31 /MOD EXP 999999  About
+08/06/2008 8:07:31 /MOD EXP 999999  About
+08/06/2008 8:07:32 /MOD EXP 999999  About
+08/06/2008 8:07:32 /MOD EXP 999999  About
+08/06/2008 8:07:32 /MOD EXP 999999  About
+08/06/2008 8:07:33 /MOD EXP 999999  About
+08/06/2008 8:07:33 /MOD EXP 999999  About
+08/06/2008 8:07:33 /MOD EXP 999999  About
+08/06/2008 8:07:40 /MOD EXP 4999999  About
+08/06/2008 8:07:41 /MOD EXP 4999999  About
+08/06/2008 8:07:41 /MOD EXP 4999999  About
+08/06/2008 8:07:42 /MOD EXP 4999999  About
+08/06/2008 8:07:42 /MOD EXP 4999999  About
+08/06/2008 8:07:43 /MOD EXP 4999999  About
+08/06/2008 8:07:43 /MOD EXP 4999999  About
+08/06/2008 8:07:43 /MOD EXP 4999999  About
+08/06/2008 8:07:44 /MOD EXP 4999999  About
+08/06/2008 8:07:44 /MOD EXP 4999999  About
+08/06/2008 8:07:44 /MOD EXP 4999999  About
+08/06/2008 8:07:44 /MOD EXP 4999999  About
+08/06/2008 8:07:45 /MOD EXP 4999999  About
+08/06/2008 8:07:45 /MOD EXP 4999999  About
+08/06/2008 8:08:03 Transportó a About hacia Mapa2 X:63 Y:48
+08/06/2008 8:08:04 Transportó a About hacia Mapa2 X:63 Y:48
+08/06/2008 8:08:33 Transportó a About hacia Mapa2 X:71 Y:49
+08/06/2008 8:08:33 Transportó a About hacia Mapa2 X:74 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:70 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:67 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:67 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:65 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:65 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:63 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:63 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:61 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:61 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:59 Y:49
+08/06/2008 8:08:35 Transportó a About hacia Mapa2 X:59 Y:49
+08/06/2008 8:08:36 Transportó a About hacia Mapa2 X:61 Y:51
+08/06/2008 8:08:36 Transportó a About hacia Mapa2 X:63 Y:52
+08/06/2008 8:08:36 Transportó a About hacia Mapa2 X:66 Y:53
+08/06/2008 8:08:37 Transportó a About hacia Mapa2 X:69 Y:54
+08/06/2008 8:08:37 Transportó a About hacia Mapa2 X:72 Y:55
+08/06/2008 8:08:37 Transportó a About hacia Mapa2 X:75 Y:56
+08/06/2008 8:08:37 Transportó a About hacia Mapa2 X:79 Y:54
+08/06/2008 8:08:38 Transportó a About hacia Mapa2 X:80 Y:52
+08/06/2008 8:08:38 Transportó a About hacia Mapa2 X:79 Y:51
+08/06/2008 8:08:38 Transportó a About hacia Mapa2 X:77 Y:51
+08/06/2008 8:08:38 Transportó a About hacia Mapa2 X:75 Y:51
+08/06/2008 8:08:39 Transportó a About hacia Mapa2 X:73 Y:51
+08/06/2008 8:08:39 Transportó a About hacia Mapa2 X:71 Y:51
+08/06/2008 8:08:39 Transportó a About hacia Mapa2 X:69 Y:51
+08/06/2008 8:08:39 Transportó a About hacia Mapa2 X:67 Y:51
+08/06/2008 8:08:39 Transportó a About hacia Mapa2 X:65 Y:51
+08/06/2008 8:08:39 Transportó a About hacia Mapa2 X:63 Y:51
+08/06/2008 8:08:41 Transportó a About hacia Mapa2 X:60 Y:56
+08/06/2008 8:08:41 Transportó a About hacia Mapa2 X:57 Y:56
+08/06/2008 8:08:42 Transportó a About hacia Mapa2 X:61 Y:54
+08/06/2008 8:08:42 Transportó a About hacia Mapa2 X:64 Y:52
+08/06/2008 8:08:42 Transportó a About hacia Mapa2 X:68 Y:50
+08/06/2008 8:08:43 Transportó a About hacia Mapa2 X:65 Y:48
+08/06/2008 8:08:48 Transportó a About hacia Mapa2 X:57 Y:56
+08/06/2008 8:08:48 Transportó a About hacia Mapa2 X:51 Y:55
+08/06/2008 8:08:49 Transportó a About hacia Mapa2 X:51 Y:58
+08/06/2008 8:08:49 Transportó a About hacia Mapa2 X:51 Y:62
+08/06/2008 8:09:11 Transportó a About hacia Mapa2 X:48 Y:62
+08/06/2008 8:09:16 Transportó a About hacia Mapa2 X:41 Y:63
+08/06/2008 8:09:19 Transportó a About hacia Mapa2 X:34 Y:63
+08/06/2008 8:09:24 Transportó a About hacia Mapa2 X:35 Y:59
+08/06/2008 8:09:24 Transportó a About hacia Mapa2 X:39 Y:56
+08/06/2008 8:09:24 Transportó a About hacia Mapa2 X:45 Y:53
+08/06/2008 8:09:25 Transportó a About hacia Mapa2 X:51 Y:52
+08/06/2008 8:09:25 Transportó a About hacia Mapa2 X:57 Y:53
+08/06/2008 8:09:25 Transportó a About hacia Mapa2 X:63 Y:53
+08/06/2008 8:09:26 Transportó a About hacia Mapa2 X:68 Y:50
+08/06/2008 8:09:26 Transportó a About hacia Mapa2 X:73 Y:48
+08/06/2008 8:09:30 Transportó a About hacia Mapa2 X:70 Y:48
+08/06/2008 8:09:30 Transportó a About hacia Mapa2 X:69 Y:49
+08/06/2008 8:09:30 Transportó a About hacia Mapa2 X:74 Y:54
+08/06/2008 8:09:33 Transportó a About hacia Mapa2 X:80 Y:52
+08/06/2008 8:09:34 Transportó a About hacia Mapa2 X:83 Y:52
+08/06/2008 8:09:34 Transportó a About hacia Mapa2 X:87 Y:52
+08/06/2008 8:09:35 Transportó a About hacia Mapa2 X:83 Y:55
+08/06/2008 8:09:35 Transportó a About hacia Mapa2 X:81 Y:56
+08/06/2008 8:09:35 Transportó a About hacia Mapa2 X:79 Y:57
+08/06/2008 8:09:35 Transportó a About hacia Mapa2 X:77 Y:58
+08/06/2008 8:09:35 Transportó a About hacia Mapa2 X:77 Y:60
+08/06/2008 8:09:36 Transportó a About hacia Mapa2 X:78 Y:61
+08/06/2008 8:09:36 Transportó a About hacia Mapa2 X:76 Y:60
+08/06/2008 8:09:36 Transportó a About hacia Mapa2 X:74 Y:58
+08/06/2008 8:09:36 Transportó a About hacia Mapa2 X:71 Y:57
+08/06/2008 8:09:37 Transportó a About hacia Mapa2 X:67 Y:57
+08/06/2008 8:12:04 Transportó a About hacia Mapa2 X:65 Y:55
+08/06/2008 8:12:05 Transportó a About hacia Mapa2 X:69 Y:54
+08/06/2008 8:12:05 Transportó a About hacia Mapa2 X:73 Y:53
+08/06/2008 8:12:05 Transportó a About hacia Mapa2 X:78 Y:52
+08/06/2008 8:12:29 Transportó a About hacia Mapa2 X:81 Y:53
+08/06/2008 8:12:30 Transportó a About hacia Mapa2 X:86 Y:54
+08/06/2008 8:12:32 Transportó a About hacia Mapa1 X:18 Y:53
+08/06/2008 8:12:32 Transportó a About hacia Mapa1 X:23 Y:54
+08/06/2008 8:12:34 Transportó a About hacia Mapa1 X:34 Y:54
+08/06/2008 8:12:35 Transportó a About hacia Mapa1 X:33 Y:51
+08/06/2008 8:12:36 Transportó a About hacia Mapa1 X:26 Y:49
+08/06/2008 8:12:37 Transportó a About hacia Mapa1 X:27 Y:47
+08/06/2008 8:12:37 Transportó a About hacia Mapa1 X:32 Y:45
+08/06/2008 8:12:37 Transportó a About hacia Mapa1 X:37 Y:43
+08/06/2008 8:12:38 Transportó a About hacia Mapa1 X:36 Y:41
+08/06/2008 8:12:39 Transportó a About hacia Mapa1 X:30 Y:45
+08/06/2008 8:12:39 Transportó a About hacia Mapa1 X:26 Y:49
+08/06/2008 8:12:39 Transportó a About hacia Mapa1 X:22 Y:53
+08/06/2008 8:12:39 Transportó a About hacia Mapa1 X:20 Y:57
+08/06/2008 8:12:41 Transportó a About hacia Mapa1 X:17 Y:52
+08/06/2008 8:12:41 Transportó a About hacia Mapa1 X:13 Y:48
+08/06/2008 8:12:46 Transportó a About hacia Mapa47 X:59 Y:59
+08/06/2008 8:12:47 Transportó a About hacia Mapa47 X:61 Y:62
+08/06/2008 8:12:47 Transportó a About hacia Mapa47 X:62 Y:66
+08/06/2008 8:12:48 Transportó a About hacia Mapa47 X:62 Y:70
+08/06/2008 8:12:48 Transportó a About hacia Mapa47 X:60 Y:73
+08/06/2008 8:12:48 Transportó a About hacia Mapa47 X:61 Y:71
+08/06/2008 8:12:51 Transportó a About hacia Mapa47 X:54 Y:71
+08/06/2008 8:12:52 Transportó a About hacia Mapa47 X:43 Y:71
+08/06/2008 8:12:56 Transportó a About hacia Mapa47 X:51 Y:71
+08/06/2008 8:13:05 Transportó a About hacia Mapa47 X:58 Y:74
+08/06/2008 8:13:07 DESLOGUEO
+08/06/2008 8:13:31 Se conecto con ip:127.0.0.1
+08/06/2008 8:13:33 Transportó a about hacia Mapa47 X:53 Y:76
+08/06/2008 8:13:33 Transportó a about hacia Mapa47 X:48 Y:78
+08/06/2008 8:13:37 Transportó a about hacia Mapa85 X:50 Y:50
+08/06/2008 8:13:38 Transportó a about hacia Mapa85 X:49 Y:46
+08/06/2008 8:13:38 Transportó a about hacia Mapa85 X:42 Y:45
+08/06/2008 8:13:39 Transportó a about hacia Mapa85 X:36 Y:41
+08/06/2008 8:13:46 Transportó a about hacia Mapa85 X:37 Y:41
+08/06/2008 8:13:46 Transportó a about hacia Mapa85 X:44 Y:39
+08/06/2008 8:13:46 Transportó a about hacia Mapa85 X:51 Y:37
+08/06/2008 8:13:46 Transportó a about hacia Mapa85 X:56 Y:35
+08/06/2008 8:13:50 Transportó a about hacia Mapa85 X:57 Y:34
+08/06/2008 8:13:50 Transportó a about hacia Mapa85 X:53 Y:32
+08/06/2008 8:13:50 Transportó a about hacia Mapa85 X:49 Y:30
+08/06/2008 8:13:51 Transportó a about hacia Mapa85 X:45 Y:30
+08/06/2008 8:13:51 Transportó a about hacia Mapa85 X:41 Y:30
+08/06/2008 8:13:53 Transportó a about hacia Mapa85 X:34 Y:27
+08/06/2008 8:13:54 Transportó a about hacia Mapa85 X:33 Y:31
+08/06/2008 8:13:54 Transportó a about hacia Mapa85 X:34 Y:36
+08/06/2008 8:13:54 Transportó a about hacia Mapa85 X:37 Y:40
+08/06/2008 8:13:54 Transportó a about hacia Mapa85 X:40 Y:44
+08/06/2008 8:13:54 Transportó a about hacia Mapa85 X:44 Y:48
+08/06/2008 8:13:55 Transportó a about hacia Mapa85 X:49 Y:52
+08/06/2008 8:13:55 Transportó a about hacia Mapa85 X:53 Y:56
+08/06/2008 8:13:55 Transportó a about hacia Mapa85 X:56 Y:59
+08/06/2008 8:13:55 Transportó a about hacia Mapa85 X:57 Y:62
+08/06/2008 8:13:55 Transportó a about hacia Mapa85 X:59 Y:62
+08/06/2008 8:13:56 Transportó a about hacia Mapa85 X:62 Y:61
+08/06/2008 8:13:56 Transportó a about hacia Mapa85 X:66 Y:59
+08/06/2008 8:13:56 Transportó a about hacia Mapa85 X:70 Y:57
+08/06/2008 8:13:56 Transportó a about hacia Mapa85 X:73 Y:54
+08/06/2008 8:13:56 Transportó a about hacia Mapa85 X:74 Y:51
+08/06/2008 8:13:56 Transportó a about hacia Mapa85 X:73 Y:48
+08/06/2008 8:13:57 Transportó a about hacia Mapa85 X:71 Y:45
+08/06/2008 8:13:57 Transportó a about hacia Mapa85 X:68 Y:42
+08/06/2008 8:13:57 Transportó a about hacia Mapa85 X:65 Y:39
+08/06/2008 8:13:57 Transportó a about hacia Mapa85 X:61 Y:36
+08/06/2008 8:13:57 Transportó a about hacia Mapa85 X:57 Y:33
+08/06/2008 8:13:58 Transportó a about hacia Mapa85 X:60 Y:30
+08/06/2008 8:13:58 Transportó a about hacia Mapa85 X:64 Y:27
+08/06/2008 8:13:58 Transportó a about hacia Mapa85 X:69 Y:24
+08/06/2008 8:13:58 Transportó a about hacia Mapa85 X:74 Y:21
+08/06/2008 8:13:59 Transportó a about hacia Mapa85 X:78 Y:18
+08/06/2008 8:14:02 Transportó a about hacia Mapa85 X:76 Y:23
+08/06/2008 8:14:02 Transportó a about hacia Mapa85 X:76 Y:25
+08/06/2008 8:14:22 Transportó a about hacia Mapa85 X:60 Y:17
+08/06/2008 8:14:22 Transportó a about hacia Mapa85 X:61 Y:20
+08/06/2008 8:14:22 Transportó a about hacia Mapa85 X:62 Y:24
+08/06/2008 8:14:23 Transportó a about hacia Mapa85 X:66 Y:27
+08/06/2008 8:14:23 Transportó a about hacia Mapa85 X:71 Y:29
+08/06/2008 8:14:33 Transportó a about hacia Mapa85 X:71 Y:38
+08/06/2008 8:14:33 Transportó a about hacia Mapa85 X:68 Y:40
+08/06/2008 8:14:33 Transportó a about hacia Mapa85 X:64 Y:42
+08/06/2008 8:14:44 Transportó a about hacia Mapa85 X:42 Y:46
+08/06/2008 8:14:45 Transportó a about hacia Mapa85 X:44 Y:47
+08/06/2008 8:14:49 Transportó a about hacia Mapa8 X:48 Y:46
+08/06/2008 8:14:49 Transportó a about hacia Mapa1 X:47 Y:48
+08/06/2008 8:14:50 Transportó a about hacia Mapa1 X:43 Y:46
+08/06/2008 8:14:50 Transportó a about hacia Mapa1 X:39 Y:44
+08/06/2008 8:14:50 Transportó a about hacia Mapa1 X:35 Y:42
+08/06/2008 8:14:50 Transportó a about hacia Mapa1 X:32 Y:40
+08/06/2008 8:14:51 Transportó a about hacia Mapa1 X:26 Y:42
+08/06/2008 8:14:51 Transportó a about hacia Mapa1 X:21 Y:46
+08/06/2008 8:14:51 Transportó a about hacia Mapa1 X:18 Y:50
+08/06/2008 8:14:52 Transportó a about hacia Mapa1 X:17 Y:54
+08/06/2008 8:14:52 Transportó a about hacia Mapa1 X:17 Y:58
+08/06/2008 8:14:52 Transportó a about hacia Mapa1 X:15 Y:61
+08/06/2008 8:14:52 Transportó a about hacia Mapa1 X:13 Y:64
+08/06/2008 8:14:52 Transportó a about hacia Mapa1 X:12 Y:61
+08/06/2008 8:14:53 Transportó a about hacia Mapa1 X:9 Y:58
+08/06/2008 8:14:53 Transportó a about hacia Mapa2 X:84 Y:51
+08/06/2008 8:15:06 Transportó a about hacia Mapa2 X:66 Y:55
+08/06/2008 8:15:06 Transportó a about hacia Mapa2 X:70 Y:57
+08/06/2008 8:15:07 Transportó a about hacia Mapa2 X:75 Y:60
+08/06/2008 8:15:07 Transportó a about hacia Mapa2 X:80 Y:62
+08/06/2008 8:15:07 Transportó a about hacia Mapa2 X:85 Y:64
+08/06/2008 8:15:08 Transportó a about hacia Mapa2 X:87 Y:59
+08/06/2008 8:15:08 Transportó a about hacia Mapa2 X:88 Y:56
+08/06/2008 8:15:08 Transportó a about hacia Mapa2 X:87 Y:52
+08/06/2008 8:15:11 Transportó a about hacia Mapa2 X:89 Y:50
+08/06/2008 8:15:11 Transportó a about hacia Mapa2 X:89 Y:52
+08/06/2008 8:15:11 Transportó a about hacia Mapa2 X:88 Y:56
+08/06/2008 8:15:11 Transportó a about hacia Mapa2 X:87 Y:61
+08/06/2008 8:15:11 Transportó a about hacia Mapa2 X:86 Y:66
+08/06/2008 8:15:12 Transportó a about hacia Mapa2 X:86 Y:71
+08/06/2008 8:15:12 Transportó a about hacia Mapa2 X:86 Y:76
+08/06/2008 8:15:13 Transportó a about hacia Mapa2 X:81 Y:75
+08/06/2008 8:15:14 Transportó a about hacia Mapa2 X:74 Y:75
+08/06/2008 8:15:14 Transportó a about hacia Mapa2 X:69 Y:77
+08/06/2008 8:15:15 Transportó a about hacia Mapa2 X:65 Y:78
+08/06/2008 8:15:15 Transportó a about hacia Mapa2 X:61 Y:76
+08/06/2008 8:15:16 Transportó a about hacia Mapa2 X:57 Y:74
+08/06/2008 8:15:29 Transportó a about hacia Mapa2 X:66 Y:68
+08/06/2008 8:15:30 Transportó a about hacia Mapa2 X:73 Y:65
+08/06/2008 8:15:30 Transportó a about hacia Mapa2 X:76 Y:63
+08/06/2008 8:15:37 Transportó a about hacia Mapa2 X:75 Y:56
+08/06/2008 8:15:37 Transportó a about hacia Mapa2 X:75 Y:53
+08/06/2008 8:15:38 Transportó a about hacia Mapa2 X:77 Y:48
+08/06/2008 8:15:38 Transportó a about hacia Mapa2 X:80 Y:45
+08/06/2008 8:15:45 Transportó a about hacia Mapa2 X:83 Y:50
+08/06/2008 8:15:45 Transportó a about hacia Mapa2 X:79 Y:50
+08/06/2008 8:15:45 Transportó a about hacia Mapa2 X:74 Y:50
+08/06/2008 8:15:46 Transportó a about hacia Mapa2 X:68 Y:50
+08/06/2008 8:15:46 Transportó a about hacia Mapa2 X:62 Y:50
+08/06/2008 8:15:46 Transportó a about hacia Mapa2 X:60 Y:48
+08/06/2008 8:15:46 Transportó a about hacia Mapa2 X:61 Y:45
+08/06/2008 8:15:48 Transportó a about hacia Mapa2 X:64 Y:49
+08/06/2008 8:15:48 Transportó a about hacia Mapa2 X:63 Y:51
+08/06/2008 8:15:48 Transportó a about hacia Mapa2 X:61 Y:51
+08/06/2008 8:15:48 Transportó a about hacia Mapa2 X:60 Y:48
+08/06/2008 8:15:48 Transportó a about hacia Mapa2 X:58 Y:43
+08/06/2008 8:15:48 Transportó a about hacia Mapa2 X:58 Y:38
+08/06/2008 8:15:49 Transportó a about hacia Mapa2 X:58 Y:34
+08/06/2008 8:15:49 Transportó a about hacia Mapa2 X:60 Y:30
+08/06/2008 8:15:49 Transportó a about hacia Mapa2 X:62 Y:27
+08/06/2008 8:15:49 Transportó a about hacia Mapa2 X:57 Y:25
+08/06/2008 8:15:49 Transportó a about hacia Mapa2 X:52 Y:24
+08/06/2008 8:15:50 Transportó a about hacia Mapa2 X:47 Y:23
+08/06/2008 8:15:50 Transportó a about hacia Mapa2 X:42 Y:22
+08/06/2008 8:15:50 Transportó a about hacia Mapa2 X:37 Y:22
+08/06/2008 8:15:50 Transportó a about hacia Mapa2 X:32 Y:22
+08/06/2008 8:15:50 Transportó a about hacia Mapa2 X:28 Y:23
+08/06/2008 8:15:53 Transportó a about hacia Mapa2 X:25 Y:28
+08/06/2008 8:15:53 Transportó a about hacia Mapa2 X:28 Y:31
+08/06/2008 8:15:54 Transportó a about hacia Mapa2 X:31 Y:34
+08/06/2008 8:15:54 Transportó a about hacia Mapa2 X:33 Y:37
+08/06/2008 8:15:54 Transportó a about hacia Mapa2 X:35 Y:40
+08/06/2008 8:15:54 Transportó a about hacia Mapa2 X:37 Y:43
+08/06/2008 8:15:54 Transportó a about hacia Mapa2 X:38 Y:46
+08/06/2008 8:15:55 Transportó a about hacia Mapa2 X:39 Y:49
+08/06/2008 8:15:55 Transportó a about hacia Mapa2 X:39 Y:52
+08/06/2008 8:15:55 Transportó a about hacia Mapa2 X:39 Y:55
+08/06/2008 8:15:55 Transportó a about hacia Mapa2 X:39 Y:58
+08/06/2008 8:15:56 Transportó a about hacia Mapa2 X:46 Y:58
+08/06/2008 8:15:56 Transportó a about hacia Mapa2 X:50 Y:58
+08/06/2008 8:15:56 Transportó a about hacia Mapa2 X:55 Y:58
+08/06/2008 8:15:56 Transportó a about hacia Mapa2 X:60 Y:58
+08/06/2008 8:15:57 Transportó a about hacia Mapa2 X:65 Y:58
+08/06/2008 8:16:00 Transportó a about hacia Mapa2 X:54 Y:61
+08/06/2008 8:16:00 Transportó a about hacia Mapa2 X:50 Y:64
+08/06/2008 8:16:00 Transportó a about hacia Mapa2 X:46 Y:65
+08/06/2008 8:16:10 Transportó a about hacia Mapa2 X:53 Y:62
+08/06/2008 8:16:10 Transportó a about hacia Mapa2 X:59 Y:60
+08/06/2008 8:16:10 Transportó a about hacia Mapa2 X:65 Y:59
+08/06/2008 8:16:11 Transportó a about hacia Mapa2 X:74 Y:57
+08/06/2008 8:16:12 Transportó a about hacia Mapa2 X:80 Y:55
+08/06/2008 8:16:12 Transportó a about hacia Mapa2 X:79 Y:52
+08/06/2008 8:16:12 Transportó a about hacia Mapa2 X:76 Y:49
+08/06/2008 8:16:12 Transportó a about hacia Mapa2 X:72 Y:47
+08/06/2008 8:16:13 Transportó a about hacia Mapa2 X:68 Y:47
+08/06/2008 8:21:08 DESLOGUEO
+17/08/2008 12:04:48 Se conecto con ip:190.18.105.20
+17/08/2008 12:04:50 Se conecto con ip:190.18.105.20

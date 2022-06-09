@@ -1,0 +1,91 @@
+17/03/2008 14:56:54 server iniciado 0.12.130
+17/03/2008 15:33:05 server cerrado.
+17/03/2008 22:02:11 server iniciado 0.12.130
+17/03/2008 23:05:13 server cerrado.
+20/03/2008 16:18:09 server iniciado 0.12.130
+20/03/2008 17:22:17 server cerrado.
+20/03/2008 18:15:29 server iniciado 0.12.131
+20/03/2008 21:17:47 server cerrado.
+20/03/2008 22:16:15 server iniciado 0.12.131
+21/03/2008 0:23:23 server cerrado.
+21/03/2008 0:23:46 server iniciado 0.12.131
+21/03/2008 1:17:09 server cerrado.
+21/03/2008 1:23:45 server iniciado 0.12.131
+22/03/2008 6:32:30 server cerrado.
+22/03/2008 15:42:09 server iniciado 0.12.131
+22/03/2008 16:18:13 server cerrado.
+22/03/2008 16:18:41 server iniciado 0.12.131
+22/03/2008 16:18:59 server cerrado.
+22/03/2008 16:19:15 server iniciado 0.12.9
+22/03/2008 16:20:06 server cerrado.
+10/04/2008 20:33:53 server iniciado 0.12.11
+10/04/2008 20:35:21 server cerrado.
+10/04/2008 20:35:40 server iniciado 0.12.11
+10/04/2008 20:40:00 server apagado por About. 
+10/04/2008 20:40:00 server cerrado.
+10/04/2008 21:14:45 server iniciado 0.12.11
+10/04/2008 21:16:52 server cerrado.
+25/05/2008 21:59:52 server iniciado 0.12.10
+25/05/2008 22:22:29 server cerrado.
+25/05/2008 22:22:43 server iniciado 0.12.10
+25/05/2008 22:25:23 server cerrado.
+25/05/2008 22:25:34 server iniciado 0.12.10
+25/05/2008 22:26:19 server cerrado.
+25/05/2008 22:26:47 server iniciado 0.12.10
+25/05/2008 22:27:37 server cerrado.
+25/05/2008 22:28:18 server iniciado 0.12.10
+25/05/2008 22:30:07 server apagado por About. 
+25/05/2008 22:30:08 server cerrado.
+25/05/2008 22:30:48 server iniciado 0.12.10
+25/05/2008 22:31:14 server apagado por about. 
+25/05/2008 22:31:15 server cerrado.
+25/05/2008 22:31:53 server iniciado 0.12.10
+25/05/2008 22:32:16 server cerrado.
+25/05/2008 22:46:59 server iniciado 0.12.10
+25/05/2008 22:50:51 server cerrado.
+25/05/2008 22:51:25 server iniciado 0.12.10
+25/05/2008 22:51:47 server apagado por About. 
+25/05/2008 22:51:48 server cerrado.
+25/05/2008 22:55:45 server iniciado 0.12.10
+25/05/2008 23:21:20 server cerrado.
+25/05/2008 23:22:54 server iniciado 0.12.10
+25/05/2008 23:24:37 server apagado por about. 
+25/05/2008 23:24:38 server cerrado.
+25/05/2008 23:25:55 server iniciado 0.12.10
+25/05/2008 23:28:37 server cerrado.
+25/05/2008 23:28:48 server iniciado 0.12.10
+25/05/2008 23:35:22 server apagado por about. 
+25/05/2008 23:35:22 server cerrado.
+25/05/2008 23:38:09 server iniciado 0.12.10
+25/05/2008 23:40:12 server cerrado.
+25/05/2008 23:55:32 server iniciado 0.12.10
+26/05/2008 0:39:32 server cerrado.
+26/05/2008 0:40:04 server iniciado 0.12.10
+26/05/2008 2:29:29 server cerrado.
+26/05/2008 22:16:25 server iniciado 0.12.12
+26/05/2008 22:43:47 server cerrado.
+08/06/2008 7:43:22 server iniciado 0.12.12
+08/06/2008 7:46:51 server cerrado.
+08/06/2008 7:47:30 server iniciado 0.12.12
+08/06/2008 7:59:49 server apagado por About. 
+08/06/2008 7:59:49 server cerrado.
+08/06/2008 8:00:22 server iniciado 0.12.12
+08/06/2008 8:31:42 server cerrado.
+17/08/2008 12:02:27 server iniciado 0.12.16
+17/08/2008 12:46:38 server cerrado.
+17/08/2008 12:49:37 server iniciado 0.12.17
+17/08/2008 12:54:13 server cerrado.
+17/08/2008 13:40:44 server iniciado 0.12.18
+17/08/2008 14:33:07 server cerrado.
+17/08/2008 15:06:49 server cerrado.
+17/08/2008 15:07:14 server iniciado 0.12.21
+17/08/2008 15:28:35 server cerrado.
+17/08/2008 15:40:48 server iniciado 0.12.23
+17/08/2008 15:41:39 server cerrado.
+17/08/2008 15:54:02 server iniciado 0.12.23
+17/08/2008 16:27:42 server cerrado.
+17/08/2008 16:28:09 server iniciado 0.12.23
+17/08/2008 16:28:52 server cerrado.
+17/08/2008 16:30:58 server iniciado 0.12.23
+17/08/2008 16:31:10 server cerrado.
+17/08/2008 16:31:34 server iniciado 0.12.23

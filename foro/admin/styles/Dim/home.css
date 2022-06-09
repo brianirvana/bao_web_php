@@ -1,0 +1,32 @@
+/**
+ *
+ * MyBB: Dim - Admin CP
+ *
+ * Filename: home.css
+ *
+ * Style Author: Wage & Vintagedaddyo
+ *
+ * W Site: http://community.mybb.com/user-78269.html
+ * V Site: http://community.mybb.com/user-6029.html
+ *
+ * MyBB Version: 1.8.x
+ *
+ * Style Version: 1.0
+ * 
+ */
+
+#left_menu div.left_menu_box ul.online_admins li a {
+	background: url('images/icons/user.png') #252525 no-repeat 15px 4px;
+	padding-left: 37px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#left_menu div.left_menu_box ul.online_admins li.mobile_user a {
+	background: url('images/icons/mobile_user.png') #252525 no-repeat 15px 4px;
+	padding-left: 37px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

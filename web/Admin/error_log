@@ -1,0 +1,48 @@
+[07-Feb-2019 00:17:39 America/Santiago] PHP Notice:  Undefined index: tipo in /home/benderao/public_html/web/Admin/soporte.php on line 47
+[07-Feb-2019 00:17:39 America/Santiago] PHP Notice:  Undefined index: tipo in /home/benderao/public_html/web/Admin/soporte.php on line 60
+[07-Feb-2019 00:17:39 America/Santiago] PHP Notice:  Undefined index: op in /home/benderao/public_html/web/Admin/soporte.php on line 61
+[07-Feb-2019 00:17:39 America/Santiago] PHP Notice:  Undefined index: op in /home/benderao/public_html/web/Admin/soporte.php on line 163
+[07-Feb-2019 00:17:39 America/Santiago] PHP Notice:  Undefined index: tipo in /home/benderao/public_html/web/Admin/soporte.php on line 164
+[07-Feb-2019 00:17:39 America/Santiago] PHP Notice:  Undefined variable: dbhost in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[07-Feb-2019 00:17:39 America/Santiago] PHP Notice:  Undefined variable: dbusername in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[07-Feb-2019 00:17:39 America/Santiago] PHP Notice:  Undefined variable: dbpass in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[07-Feb-2019 00:17:39 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[07-Feb-2019 00:17:39 America/Santiago] PHP Warning:  mysql_connect(): Access denied for user 'benderao'@'localhost' (using password: NO) in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[07-Feb-2019 00:17:39 America/Santiago] PHP Notice:  Undefined variable: dbname in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[07-Feb-2019 00:17:39 America/Santiago] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[07-Feb-2019 00:17:39 America/Santiago] PHP Warning:  mysql_select_db(): Access denied for user 'benderao'@'localhost' (using password: NO) in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[07-Feb-2019 00:17:39 America/Santiago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[07-Feb-2019 00:17:39 America/Santiago] PHP Notice:  Undefined variable: dberror in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[07-Feb-2019 00:17:43 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/noticias.php on line 60
+[07-Feb-2019 00:17:43 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/noticias.php on line 72
+[07-Feb-2019 00:17:43 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/noticias.php on line 299
+[22-May-2022 01:25:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/verificauser.php on line 15
+[22-May-2022 01:25:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/verificauser.php on line 15
+[22-May-2022 01:25:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[22-May-2022 01:25:43 UTC] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[22-May-2022 01:25:43 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:43 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:43 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[22-May-2022 01:25:46 UTC] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[22-May-2022 01:25:46 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:46 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:46 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[22-May-2022 01:25:47 UTC] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[22-May-2022 01:25:47 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:47 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:47 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[22-May-2022 01:25:51 UTC] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in /home/benderao/public_html/web/Admin/soporte.php on line 167
+[22-May-2022 01:25:51 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:51 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:25:51 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/benderao/public_html/web/Admin/soporte.php on line 168
+[22-May-2022 01:26:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/verificauser.php on line 15
+[22-May-2022 01:26:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/noticias.php on line 60
+[22-May-2022 01:26:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/noticias.php on line 72
+[22-May-2022 01:26:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/noticias.php on line 299
+[22-May-2022 01:26:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/gestionusuarios.php on line 51
+[22-May-2022 01:26:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/editar.php on line 12
+[22-May-2022 01:26:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/editar.php on line 12
+[22-May-2022 01:27:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/benderao/public_html/web/Admin/editar.php on line 12
