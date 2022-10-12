@@ -12,7 +12,7 @@ if (!is_numeric($id) && $id != '') { exit; } // Evitamos el Blind Injection MySQ
 	{		
 		case "update":
 			$code = $_GET['code'];
-			if ($code == "jfk41sdajfioq2341as31")
+			if ($code == "asd")
 			{
 				$db = mysql_connect($dbhost,$dbusername,$dbpass); 
 				mysql_select_db($dbname) or die($dberror);
