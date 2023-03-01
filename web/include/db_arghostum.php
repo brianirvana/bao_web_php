@@ -5,7 +5,7 @@ global $tipo;
 $dbhost = "190.0.163.3";
 $dbname = "arghostum";
 $dbusername = "arghostum";
-$dbpass = "ByVdwwdhUHTniVA6";
+$dbpass = "x#KOm,2!*+Si";
 	
 // Charset
 $charset = "uft-8";

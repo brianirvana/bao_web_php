@@ -5,7 +5,7 @@ global $op;
 $dbhost = "localhost";
 $dbname = "benderao_web";
 $dbusername = "benderao_user";
-$dbpass = "3421321.Staff";
+$dbpass = "x#KOm,2!*+Si";
 // Charset
 $charset = "uft-8";
 $textchars = 480;

@@ -2,10 +2,10 @@
 
 global $id;
 global $tipo;
-$dbhost = "200.32.54.32";
-$dbname = "baodb";
-$dbusername = "root";
-$dbpass = "3421321.Staff";
+$dbhost = "localhost";
+$dbname = "benderao_web";
+$dbusername = "benderao_user";
+$dbpass = "x#KOm,2!*+Si";
 	
 // Charset
 $charset = "uft-8";

@@ -7,6 +7,6 @@ global $o;
 $dbhost = "localhost";
 $dbname = "benderao_web";
 $dbusername = "benderao_user";
-$dbpass = "3421321.Staff";
+$dbpass = "x#KOm,2!*+Si";
 $dberror = "Error 321 conectando a la base de datos";
 ?>
