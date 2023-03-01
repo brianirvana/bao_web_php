@@ -1,3 +1,3 @@
 <?php
-header('Location: /web/index.php?op=central');
+    header('Location: http://web2.bender-online.com.ar');
 ?>

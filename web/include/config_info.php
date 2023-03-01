@@ -6,9 +6,9 @@ global $id;
 global $tipo;
 global $op;
 $dbhost = "localhost";
-$dbname = "";
-$dbusername = "";
-$dbpass = "";
+$dbname = "baodb";
+$dbusername = "baodb";
+$dbpass = "3421321.Staff";
 	
 // Charset
 $charset = "uft-8";

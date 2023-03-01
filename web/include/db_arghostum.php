@@ -2,10 +2,10 @@
 
 global $id;
 global $tipo;
-$dbhost = "";
-$dbname = "";
-$dbusername = "";
-$dbpass = "";
+$dbhost = "190.0.163.3";
+$dbname = "arghostum";
+$dbusername = "arghostum";
+$dbpass = "ByVdwwdhUHTniVA6";
 	
 // Charset
 $charset = "uft-8";

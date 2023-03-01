@@ -5,10 +5,10 @@
     
     // include("config_host_sv.php");
     
-    $dbhost = "";
+    $dbhost = "35.198.1.221";
     $dbname = "baodb";
     $dbuser = "root";
-    $dbpass = "";
+    $dbpass = "33421321";
     
     $sendto = "Webmaster <dineromail.bao@gmail.com>";
     $sendfrom = "Automated Backup <backup@bender-online.com.ar>";

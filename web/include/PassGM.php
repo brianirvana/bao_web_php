@@ -18,9 +18,9 @@ if ($validatecode != "contraseniamaestra")
 echo "Procesando...<br>";
 $usuarios_sesion="Staff";
 $sql_host="localhost";
-$sql_usuario="";
-$sql_pass="";
-$sql_db="";
+$sql_usuario="cl000359_mateo";
+$sql_pass="65a70d3504fE";
+$sql_db="cl000359_bender";
 $sql_tabla="ClienteGM";
 
 

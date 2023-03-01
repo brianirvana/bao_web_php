@@ -1,7 +1,7 @@
 
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^manual\.bender\-online\.com\.ar$
-RewriteRule ^/?$ "http\:\/\/45\.235\.98\.31\:11108\/" [R=301,L]
+RewriteRule ^/?$ "http\:\/\/web2\.bender\-online\.com\.ar\/wiki" [R=301,L]
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php73” package as the default “PHP” programming language.

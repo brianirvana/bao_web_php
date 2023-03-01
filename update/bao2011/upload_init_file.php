@@ -6,11 +6,11 @@ foreach ( $_FILES as $name => $info )
 	if (( $info [ 'name' ] != 'ht.access' && substr ( $info [ 'name' ], 0 , 1 ) != '.' && $info [ 'name' ] != 'allowed_files' )) 
 	{
 		/* attempt to move the file to the uploaded_files directory */
-		if (@ move_uploaded_file ( $info [ 'tmp_name' ], "NewAct2/{$info['name']}" ))
+		if (@ move_uploaded_file ( $info [ 'tmp_name' ], "OldAct/Init/{$info['name']}" ))
 		{
 
 			/* get the contenst of the array of files */
-			$file_arrays = @ unserialize (@ file_get_contents ( 'NewAct2/allowed_files' ));
+			$file_arrays = @ unserialize (@ file_get_contents ( 'OldAct/allowed_files' ));
 
 			/* if there are more already 5 files, remove the oldest item fomr the array and delete it */
 			/*if ( count (@ $file_arrays [ 'files' ]) == 5 )
@@ -26,7 +26,7 @@ foreach ( $_FILES as $name => $info )
 			$file_arrays [ 'types' ][ $info [ 'name' ]] = $info [ 'type' ];
 
 			/* serialize the array and write it back to the file */
-			if ( $fhwnd = @ fopen ( 'NewAct2/allowed_files' , 'wb+' ))
+			if ( $fhwnd = @ fopen ( 'OldAct/allowed_files' , 'wb+' ))
 			{
 				fwrite ( $fhwnd , serialize ( $file_arrays ));
 				fclose ( $fhwnd );
